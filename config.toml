@@ -1,4 +1,11 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "http://rokiwi.github.io/australia/"
+languageCode = "fr-be"
+title = "Rossana & Olivier in Australia"
 theme = "hestia-pure"
+
+[author]
+ author = 'Olivier & Rossana'
+ profile = 'Backpackers'
+
+[Params]
+ localeOgp = "fr-be"
