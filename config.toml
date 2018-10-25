@@ -6,6 +6,7 @@ theme = "rokiwi-pure"
 [author]
  author = 'Olivier & Rossana'
  profile = 'Backpackers'
+ image = 'favicon.png'
 
 [Params]
  localeOgp = "fr-be"
