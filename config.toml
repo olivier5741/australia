@@ -1,7 +1,7 @@
 baseURL = "https://olivier5741.github.io/australia/"
 languageCode = "fr-be"
 title = "Rossana & Olivier in Australia"
-theme = "hestia-pure"
+theme = "rokiwi-pure"
 
 [author]
  author = 'Olivier & Rossana'

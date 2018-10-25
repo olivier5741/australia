@@ -1,3 +1,6 @@
 [submodule "themes/hestia-pure"]
 	path = themes/hestia-pure
 	url = https://github.com/olivier5741/hestia-pure.git
+[submodule "themes/rokiwi-pure"]
+	path = themes/rokiwi-pure
+	url = https://github.com/olivier5741/rokiwi-pure.git
