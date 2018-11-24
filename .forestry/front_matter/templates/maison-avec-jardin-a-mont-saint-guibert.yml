@@ -16,7 +16,7 @@ fields:
   hidden: false
   default: ''
   config:
-    date_format: DD/MM/YYYY
+    date_format: ''
     required: true
 - name: image
   label: Image
