@@ -28,4 +28,6 @@ Le prix: Le loyer est fixé à 504€/mois (charges et internet compris) pour un
 
 Si cette annonce te parle et que tu as envie de t’y installer, contacte nous au plus vite pour une visite et une rencontre avec mes colocataires,
 
+Juste pour tester l'édition de texte 😎
+
 Rossana & Olivier
