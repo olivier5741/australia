@@ -32,3 +32,5 @@ fields:
   default: ''
   config:
     required: true
+pages:
+- content/posts/les-fagnes.md
