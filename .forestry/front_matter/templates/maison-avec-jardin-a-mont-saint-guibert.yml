@@ -10,13 +10,10 @@ fields:
   default: ''
   config:
     required: true
-- name: date
+- type: datetime
+  name: date
   label: Date
-  type: datetime
-  hidden: false
-  default: ''
   config:
-    date_format: ''
     required: true
 - name: image
   label: Image
