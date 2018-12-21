@@ -1,15 +1,36 @@
 baseURL = "https://olivier5741.github.io/australia/"
+title = "Rossana & Olivier en Australie"
 languageCode = "fr-be"
-title = "Rossana & Olivier in Australia"
+defaultContentLanguage = "fr"
 theme = "rokiwi-pure"
+copyright = "2018 Rossana & Olivier in Australia powered by Hugo and hosted on Github."
+summaryLength = 30
+googleAnalytics = "UA-57281931-1"
 
 [author]
  author = 'Olivier & Rossana'
  profile = 'Backpackers'
  image = 'favicon.png'
 
-[Params]
- localeOgp = "fr-be"
-
 [blackfriday]
  smartypants = false # https://discourse.gohugo.io/t/content-render-character-issue-sample-rsquo/14899/2
+
+[params]
+ localeOgp = "fr-be"
+
+[params.navigation]
+ australia  = "Australie"
+
+[languages]
+
+[languages.fr]
+ weight = 1
+ languageName = "Français"
+
+[languages.en]
+ weight = 2
+ languageName = "English" 
+ title = "Rossana & Olivier in Australia"
+[languages.fr.params.navigation]
+ australia  = "Australia"
+
