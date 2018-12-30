@@ -1,4 +1,4 @@
----
+﻿---
 title: "Tongariro and Co."
 date: 2015-08-30
 date-begin: 2015-08-30
@@ -9,7 +9,7 @@ album: "https://goo.gl/photos/DPaiMXEgK8PtvnT17"
 
 Après une petite semaine de ré-acclimatation à la NZ, on ne résiste plus à l'appel de l'aventure. Le chemin le plus rapide est rarement le plus beau : on se retrouve sur "Gentle Annie", la route entre Hastings et Taihape que personne ne connaît ... Grâce à Trevor, la route se fait maintenant sur fond de musique traditionnelle écossaise.
 
-{{< figure src=" https://lh3.googleusercontent.com/-o7LdwXbuB3s/VfJFmvhdldI/AAAAAAAAHNM/Es04lwyHEMM/s1280-Ic42/PhotoGrid_1441701163780.jpg" caption="Vérification approfondie de la chariotte par les 'gardiens du camping'" >}}
+{{< figure src="https://lh3.googleusercontent.com/-o7LdwXbuB3s/VfJFmvhdldI/AAAAAAAAHNM/Es04lwyHEMM/s1280-Ic42/PhotoGrid_1441701163780.jpg" caption="Vérification approfondie de la chariotte par les 'gardiens du camping'" >}}
 
 {{< figure src=" https://lh3.googleusercontent.com/-Iz1aJDb6gnQ/VfJFmoRyfKI/AAAAAAAAHNI/VHqe70e5CiI/s1280-Ic42/PhotoGrid_1441790115669.jpg" caption="Gentle Annie, bain thermal de Reporoa, ..." >}}
 
