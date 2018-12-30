@@ -5,6 +5,16 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: content/europe
+  label: Europe
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/australia
+  label: Australia
+  create: all
+  match: "**/*"
+- type: directory
   path: content/nz
   label: New Zealand
   create: all
