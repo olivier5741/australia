@@ -1,10 +1,10 @@
 ---
-title: "Andrew and Deborah"
-date: 2015-02-08
-image: "http://lh6.ggpht.com/-5Cvpd4xZBCs/VOcI28rLgII/AAAAAAAABpc/oiqv-PYG2q4/s1280/upload_-1.jpg"
-album: "https://picasaweb.google.com/104897435834545155307/AndrewAndDeborah?authkey=Gv1sRgCMb35NeLuOTNDw"
----
+title: Andrew and Deborah
+date: 2015-02-08 00:00:00 +0000
+image: http://lh6.ggpht.com/-5Cvpd4xZBCs/VOcI28rLgII/AAAAAAAABpc/oiqv-PYG2q4/s1280/upload_-1.jpg
+album: https://goo.gl/photos/Vx1BVJBJm4dcc82m9
 
+---
 Is it possible to be a farmer and an IT specialist at the same time? We found a true example with Andrew, our new woof host. With his wife, Deborah, they bought a farm of 100 hectares 2 years ago. He's raising young milk cattle and sheep for other farmers. As you may noticed, he's also a software developer. She's a full-time school teacher. Two children's complete the family: Guy, Minecraft addict and Eva, a princess who knows what she wants; and a small doggy, Daisy (but we called her Chouchou!)
 
 {{< figure src="http://lh5.ggpht.com/-P5QQ4IHdTD8/VO_Ump6jF6I/AAAAAAAACKM/Ph99kdepIN8/s1280/upload_-1.jpg " caption="The farm" >}}
