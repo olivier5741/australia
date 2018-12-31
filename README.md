@@ -1,4 +1,4 @@
-# Blog about our stay in australia
+# Blog about our travels
 
 ## Build
 
@@ -10,6 +10,5 @@
 
 * video shortcode not ported from jekyll to hugo
 * wrong interpretation of `'`
-* move to rokiwi.github.io
 * repare Samoa
 * no pictures for recipes
