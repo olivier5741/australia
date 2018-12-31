@@ -1,0 +1,9 @@
+<figure>
+ 
+  <iframe src='{{ .Get "src" }}' width="640" height="480"></iframe>
+
+  {{ with .Get "caption"}}
+    <figcaption>{{ . }}</figcaption>
+  {{ endif }}
+
+</figure>

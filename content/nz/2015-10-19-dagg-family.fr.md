@@ -23,7 +23,7 @@ Outre la vente de le voiture, on profite de notre temps libre pour continuer nos
 
 {{< figure src="https://lh3.googleusercontent.com/-DxhoythLKHs/Vj-NQj7HJ2I/AAAAAAAAL5I/8Wyig7YfgYc/s912-Ic42/upload_-1.jpg" caption="Muriwai" >}}
 
-{% include video.html url="https://drive.google.com/file/d/0BzIZ3dfuz-CEcEZ2MU95ZWhlb1E/preview" caption="Colonie de fous" >}}
+{{< video src="https://drive.google.com/file/d/0BzIZ3dfuz-CEcEZ2MU95ZWhlb1E/preview" caption="Colonie de fous" >}}
 
 On prend le bateau vers une des îles de la baie : Tiritiri Matangi. Vierge de prédateurs, ce petit caillou est un sanctuaire pour oiseaux et permet de se faire une idée de comment était la Nouvelle-Zélande avant l'arrivée des hommes: c'est coloré et bruyant. On aperçoit facilement beaucoup d'oiseaux plus ou moins rares, certains disparus des îles principales.
 

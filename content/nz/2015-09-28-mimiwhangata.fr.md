@@ -37,7 +37,7 @@ Quelques anecdotes :
 
 Comme le profil de la ferme est assez escarpé, l’engrais est épandu par un petit avion. Le pilote est digne de la RAF : décollage et atterrissage depuis le dessus de la colline et chargement en 2’ top chrono; ensuite, frappe ‘chirurgicale’. En quelques heures, une cinquantaine de tonnes de superphosphate se retrouve sur les 300ha de collines. Si ça c’est pas efficace ?!
 
-{% include video.html url="https://drive.google.com/file/d/0BzIZ3dfuz-CEZ0FNMnlza1UzSjg/preview" caption="Ravitaillement en temps réel" >}}
+{{< video src="https://drive.google.com/file/d/0BzIZ3dfuz-CEZ0FNMnlza1UzSjg/preview" caption="Ravitaillement en temps réel" >}}
 
 {{< figure src="https://lh3.googleusercontent.com/-zqT9y5zp6KI/VibySq6v-JI/AAAAAAAAJSw/JGTDYLroXRU/s912-Ic42/upload_-1.jpg" caption="Épandage du superphosphate et le camion-remplisseur-fuel" >}}
 
@@ -45,7 +45,7 @@ Parmi les autres ‘must-do’ accomplis :
 
 - **La tonte de mouton** : il n’y en avait que 16 et on a contribué pour un demi mouton seulement. Il faut croire qu’on est un peu trop lent… C’est toute une technique !
 
-{% include video.html url="https://drive.google.com/file/d/0BzIZ3dfuz-CEYXRuTkMwZzBuNlE/preview" caption="Tonte des moutons" >}}
+{{< video src="https://drive.google.com/file/d/0BzIZ3dfuz-CEYXRuTkMwZzBuNlE/preview" caption="Tonte des moutons" >}}
 
 {{< figure src="https://lh3.googleusercontent.com/-FhwjWacsHDQ/VibyQBd1zPI/AAAAAAAAJSo/RudCCC_AwfY/s912-Ic42/upload_-1.jpg" caption="Le shed, les moutons et la tonte" >}}
 

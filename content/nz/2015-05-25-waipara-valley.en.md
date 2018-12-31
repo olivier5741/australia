@@ -9,7 +9,7 @@ album: "https://goo.gl/photos/oQNW58aD5EvzE4wC7"
 
 Monday morning, 8am, like everybody, we're going to work... What's special about us ? We spent the night at a campsite, we're dressed like astronauts (it's cold outside!) and we received a secateur as working tool. Our job starts...
 
-{% include video.html url="https://drive.google.com/file/d/0BzIZ3dfuz-CEVVVUUUdzaFpUSkE/preview" caption="Our job in a nutshell" >}}
+{{< video src="https://drive.google.com/file/d/0BzIZ3dfuz-CEVVVUUUdzaFpUSkE/preview" caption="Our job in a nutshell" >}}
 
 
 {{< figure src="http://lh3.googleusercontent.com/-0c_MLDtSqi4/VYzuZd_dcGI/AAAAAAAAFrM/T2Nwsekb3ik/s1280/upload_-1.jpg" caption="Winter pruning in the vineyard" >}}
@@ -36,7 +36,7 @@ Special weekend : we go to Kaikoura with Ron (Susie is on holiday in Wanaka) and
 
 {{< figure src="http://lh3.googleusercontent.com/-rhGKFKrhrag/VZ2wiPGqOhI/AAAAAAAAF5Y/wrA0y9rvHc8/s1280/PhotoGrid_1436256800063.jpg" caption="Sawcut Gorge, or how to cross 25 times the same river (should be amazing in summer ;) )" >}}
 
-{% include video.html url="https://drive.google.com/file/d/0BzIZ3dfuz-CEbk1hNDEzTE02Zm8/preview" caption="Ron seems to dislike crossing other vehicules" >}}
+{{< video src="https://drive.google.com/file/d/0BzIZ3dfuz-CEbk1hNDEzTE02Zm8/preview" caption="Ron seems to dislike crossing other vehicules" >}}
 
 Pimp my chariot - third episode : the kitchen. Our tiny cheap gaz cookers are no longer able to boil water. We need to invest. We purchase a new machine made of cast iron that can be plugged into a gaz bottle. The whole is in a tailored drawer that retracts under the cover of the open rear door.
 

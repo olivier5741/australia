@@ -21,7 +21,7 @@ Surprised by how fast the night falls, we stop at the first camping we find, a b
 
 {{< figure src="http://lh3.googleusercontent.com/-XNCEQYj5LMA/VTR4PBwl2bI/AAAAAAAAE8w/ByGVVi4iLjc/s1280/upload_-1.jpg" caption="Wharariki : seal nursery" >}}
 
-{% include video.html url="https://docs.google.com/file/d/0BzIZ3dfuz-CEWFRZbzFXSXphNzQ/preview" caption="Playful seals" >}}
+{{< video src="https://docs.google.com/file/d/0BzIZ3dfuz-CEWFRZbzFXSXphNzQ/preview" caption="Playful seals" >}}
 
 Farewell Spit is a dead end (of a hundred kilometres but still a dead end) so we have to go back and go up Takaka Hill again, a 700m pass where our car got a hard time. We let the Chariot having a break and, in the meantime, we walk the beginning of Abel Tasman Coastal Track. Its beautiful sandy beaches also attracted Abel Tasman in 1642 while he was in mission to discover new territories for the Dutch East India Company. The first contact with local people was a culinary experience: Maoris ate three crew members. Tasman sailed away and English, who were less tasty, came back in 1769 (and now we're wondering why there's no good cheese in New Zealand?)
 
