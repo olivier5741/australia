@@ -29,3 +29,5 @@ fields:
   default: ''
   config:
     required: true
+pages:
+- content/europe/british-isles.md
