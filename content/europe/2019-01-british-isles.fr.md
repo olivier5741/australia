@@ -27,7 +27,7 @@ Longue de près de 5000 kilomètres, la Wild Atlantic Way longe la côte ouest d
 
 {{< figure src="https://lh3.googleusercontent.com/gDuzZJQZoerm1Fu5MS14itUvIiJ1ODsZxre1LGV8TC3C3hlw_vRUslIhcrkqrSGLiGi0EvfTXO5Rf8BBo7_uBoxb1uZXjx37IpgDm3qSaODjDnVvg6aDqa5cO_annNCaHr0MyTO7JN0=w600" title="Beara Peninsula, ses pierres levées et ruines ancestrales." >}}
 
-À l'intérieur des terres à l'ouest de Cork se loge le Killarney National Park. Ce parc naturelle abrite la plus haute montagne d'Irlande. En chemin vers sa base, on dépasse de sympathiques tondeuses : moutons et ânes. Notre dernière nuit en tomate se fait au Gap of Dunloe, vallée rocailleuse et lunaire. On se souviendra du road trip longeant le lac ..., ses bassins affluents marécageux qui nous a conduit là-bas.
+À l'intérieur des terres à l'ouest de Cork se loge le Killarney National Park. Ce parc naturel abrite la plus haute montagne d'Irlande. En chemin vers sa base, on dépasse de sympathiques tondeuses : moutons et ânes. Notre dernière nuit en tomate se fait au Gap of Dunloe, vallée rocailleuse et lunaire. On se souviendra du road trip longeant le lac ..., ses bassins affluents marécageux qui nous a conduit là-bas.
 
 {{< figure src="https://lh3.googleusercontent.com/E89L5TZe5zUReT7CxpYiTzbXhUlgKsgFkbFVH7dJcOXThyTO7OiNgyCS72-NRVoaXbptcAagr_l7QRUFLhwvVk7L-MhMlceUy8q2UKkd7hRrBo75myjeESxC-ZmaezWkvKoVaPo3Y7Y=w600" title="Killarney National Park, ses tondeuses. Arbre aux branches massives et girouette poisson à Cork." >}}
 
