@@ -1,13 +1,12 @@
 ---
-title: "Au Temps Des Cerises"
-date: 2015-01-13
-location: "90+Ripponvale+Cromwell"
-image: 
-  teaser-ext: "http://lh6.ggpht.com/-ZhNQ0RaXpWY/VNGjd-vhQQI/AAAAAAAAAFU/GY5SNdtVr0k/s1280/IMG_0637.JPG"
-album: "https://picasaweb.google.com/104897435834545155307/AuTempsDesCerises?authkey=Gv1sRgCPfT8pn34ZGRfg"
+title: Au Temps Des Cerises
+date: 2015-01-13 00:00:00 +0000
+location: 90+Ripponvale+Cromwell
+image:
+  teaser-ext: http://lh6.ggpht.com/-ZhNQ0RaXpWY/VNGjd-vhQQI/AAAAAAAAAFU/GY5SNdtVr0k/s1280/IMG_0637.JPG
+album: https://goo.gl/photos/edkoN1QoLQSoWNmeA
+
 ---
-
-
 Tout le monde se retrouve un jour sans le sou, les habits sales, les cheveux gras et le ventre vide (tout don est bienvenu) ;) [ce n'est pas totalement vrai, pas de panique!]. On a donc dû trouver un travail rémunéré. 
 
 Comment trouver un travail un dimanche matin de janvier dans le Central Otago? La maison de l'emploi saisonnier est bien entendu fermée, on épluche donc la liste des vergers de la région. C'est au quinzième et dernier coup de téléphone qu'on nous propose de venir signer le contrat dans l'après midi. 
