@@ -1,10 +1,10 @@
 ---
-title: "Andrew and Deborah"
-date: 2015-02-08
-image: "http://lh6.ggpht.com/-5Cvpd4xZBCs/VOcI28rLgII/AAAAAAAABpc/oiqv-PYG2q4/s1280/upload_-1.jpg"
-album: "https://picasaweb.google.com/104897435834545155307/AndrewAndDeborah?authkey=Gv1sRgCMb35NeLuOTNDw"
----
+title: Andrew and Deborah
+date: 2015-02-08 00:00:00 +0000
+image: http://lh6.ggpht.com/-5Cvpd4xZBCs/VOcI28rLgII/AAAAAAAABpc/oiqv-PYG2q4/s1280/upload_-1.jpg
+album: https://goo.gl/photos/Vx1BVJBJm4dcc82m9
 
+---
 Peut-on excercer le métier d'agriculteur et d'informaticien simultanément ? On en a trouvé un exemple vivant, Andrew, notre nouvel hôte. Avec sa femme, Déborah, ils ont acheté une ferme de 100 hectares il y a 2 ans. Il s'occupe de l'engraissement de jeunes bovins laitiers et de moutons pour d'autres fermiers. Comme vous l'avez deviné, il est également développeur software (indépendant) et elle est directrice d'école à temps plein.   La famille se complète par 2 enfants : Guy, fan de Minecraft, et Eva, princesse qui n'a pas froid aux yeux; et un chienchien à sa mémère, Daisy (que l'on a rebaptisé Chouchou).
 
 {{< figure src="http://lh5.ggpht.com/-P5QQ4IHdTD8/VO_Ump6jF6I/AAAAAAAACKM/Ph99kdepIN8/s1280/upload_-1.jpg " caption="La ferme" >}}
