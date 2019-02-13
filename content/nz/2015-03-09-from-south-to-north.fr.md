@@ -1,12 +1,12 @@
 ---
-title: "Du sud au nord"
-date: 2015-03-09
-date-begin: 2015-03-09
-date-end: 2015-03-20
-image: "http://lh5.ggpht.com/-RmhLGxhRFZc/VRkBkHMfInI/AAAAAAAADx4/n2xwioltWF4/s1280/upload_-1.jpg"
-album: "https://picasaweb.google.com/104897435834545155307/DuSudAuNord?authkey=Gv1sRgCNikmYf2oajX8AE"
----
+title: Du sud au nord
+date: 2015-03-09 00:00:00 +0000
+date-begin: 2015-03-09 00:00:00 +0000
+date-end: 2015-03-20 00:00:00 +0000
+image: http://lh5.ggpht.com/-RmhLGxhRFZc/VRkBkHMfInI/AAAAAAAADx4/n2xwioltWF4/s1280/upload_-1.jpg
+album: https://goo.gl/photos/nemwqwZhiZS6BxMm9
 
+---
 Déjà trois mois que l'on se prélasse en NZ. On mène une vie bien paisible quand on est en vacances pour un an :). De temps en temps, pour briser la monotonie, on se fixe des petits challenges. La mission impossible du jour est de rejoindre Nelson (dans le nord de l'île alors qu'on est actuellement au fin fond du sud) via la West Coast et d'y trouver un travail de fruit picker dans les 2 semaines. Pour pimenter le tout, un incontournable détour par les Catlins est ajouté au programme déjà bien chargé (il faut bien finir ce qu'on avait préalablement commencé).
 
 ### Les Catlins: le retour
