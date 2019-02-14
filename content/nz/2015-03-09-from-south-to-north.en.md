@@ -1,12 +1,12 @@
 ---
-title: "From South to North"
-date: 2015-03-09
-date-begin: 2015-03-09
-date-end: 2015-03-20
-image: "http://lh5.ggpht.com/-RmhLGxhRFZc/VRkBkHMfInI/AAAAAAAADx4/n2xwioltWF4/s1280/upload_-1.jpg"
-album: "https://picasaweb.google.com/104897435834545155307/DuSudAuNord?authkey=Gv1sRgCNikmYf2oajX8AE"
----
+title: From South to North
+date: 2015-03-09 00:00:00 +0000
+date-begin: 2015-03-09 00:00:00 +0000
+date-end: 2015-03-20 00:00:00 +0000
+image: http://lh5.ggpht.com/-RmhLGxhRFZc/VRkBkHMfInI/AAAAAAAADx4/n2xwioltWF4/s1280/upload_-1.jpg
+album: https://goo.gl/photos/nemwqwZhiZS6BxMm9
 
+---
 Already three months we have been having a great time in NZ. Life is so peaceful when you're on holiday for a year :). Sometimes, to add excitement to our trip, we challenge ourselves. Today's impossible mission is to reach Nelson in two weeks (in the north of the island although we are currently far end south) via the West Coast and get hired as fruit picker. To spice it up, the Catlins (the come back :) ) is a must stop but not quite the shortest way to go north.
 
 ### The Catlins: the come back
