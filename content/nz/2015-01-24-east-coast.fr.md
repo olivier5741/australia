@@ -1,10 +1,10 @@
 ---
-title: "East Coast"
-date: 2015-01-24
-image: "http://lh6.ggpht.com/-lNSZRszsoB0/VOb5i5TcbNI/AAAAAAAABG0/zaml7vqi5fk/s1280/upload_-1.jpg"
-album: "https://picasaweb.google.com/104897435834545155307/EastCoast?authkey=Gv1sRgCLa176_kxdKmWQ"
----
+title: East Coast
+date: 2015-01-24 00:00:00 +0000
+image: http://lh6.ggpht.com/-lNSZRszsoB0/VOb5i5TcbNI/AAAAAAAABG0/zaml7vqi5fk/s1280/upload_-1.jpg
+album: https://goo.gl/photos/i8NDkJLxkTNGD8Ka9
 
+---
 Pour fêter la fin de la saison des cerises, Gary, notre patron, a offert un bbq à ses ouvriers. C'est donc le ventre plein de saucisses qu'on a quitté Cromwell, direction Oamaru.
 
 On traverse le central Otago réputé pour son climat extrême. Il paraîtrait qu'il fait tellement froid en hiver que les pies tombent des arbres, congelées. Toutefois, c'est sous un soleil de plomb (Pb) que nous avons visité d'anciennes mines d'or (Au). 
@@ -52,5 +52,3 @@ Dernier arrêt avant notre prochain wwoofing: Laurence. On a malheureusement lou
 {{< figure src="http://lh5.ggpht.com/-9cF0M2La44E/VOjVyf3Xe8I/AAAAAAAACG8/Y7K6BvGr26s/s1280/upload_-1.jpg " caption="Clutha River" >}}
 
 {{< figure src="http://lh4.ggpht.com/-BIYNPbCmv7g/VOeYvm8qkCI/AAAAAAAACDg/p2fNZMjoGTE/s1280/upload_-1.jpg " caption="Glencoe DOC campsite et bain dans la rivière" >}}
-
-
