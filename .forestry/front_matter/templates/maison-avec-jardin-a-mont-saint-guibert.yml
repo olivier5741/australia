@@ -15,17 +15,11 @@ fields:
   label: Date
   config:
     required: true
-- name: image
+- type: text
+  name: image
   label: Image
-  type: textarea
-  hidden: false
-  default: ''
-  config:
-    required: true
-- name: album
+  description: main image link that appears in article summary
+- type: text
+  name: album
   label: Album
-  type: text
-  hidden: false
-  default: ''
-  config:
-    required: true
+  description: The link to the photo album
