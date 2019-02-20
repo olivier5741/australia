@@ -11,6 +11,10 @@ fields:
   config:
     required: true
 - type: text
+  name: date
+  label: Date
+  description: Date in YYYY-MM-DD format
+- type: text
   name: image
   label: Image
   description: main image link that appears in article summary
@@ -18,9 +22,5 @@ fields:
   name: album
   label: Album
   description: The link to the photo album
-- type: text
-  name: date
-  label: Date
-  description: Date in YYYY-MM-DD format
 pages:
 - content/europe/2019-01-bristish-isles-en.md
