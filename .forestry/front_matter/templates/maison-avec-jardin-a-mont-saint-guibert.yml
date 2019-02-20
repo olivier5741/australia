@@ -23,5 +23,3 @@ fields:
   name: album
   label: Album
   description: The link to the photo album
-pages:
-- content/europe/2019-01-british-isles-en.md
