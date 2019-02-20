@@ -5,6 +5,16 @@
   <url>
     <loc>https://rokiwi.github.io/europe/2019-01-british-isles/</loc>
     <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rokiwi.github.io/en/europe/2019-01-british-isles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rokiwi.github.io/europe/2019-01-british-isles/"
+                />
   </url>
   
   <url>
@@ -691,6 +701,16 @@
     <loc>https://rokiwi.github.io/europe/</loc>
     <lastmod>2019-01-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rokiwi.github.io/en/europe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rokiwi.github.io/europe/"
+                />
   </url>
   
   <url>
