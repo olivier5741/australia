@@ -6,6 +6,7 @@ theme = "rokiwi-pure"
 copyright = "2018 Rossana & Olivier in ... powered by Hugo and hosted on Github."
 summaryLength = 10
 googleAnalytics = "UA-57281931-1"
+metaDataFormat = "yaml"
 
 [author]
  author = 'Olivier & Rossana'

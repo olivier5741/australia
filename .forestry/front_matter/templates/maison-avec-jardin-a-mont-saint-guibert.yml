@@ -10,11 +10,10 @@ fields:
   default: ''
   config:
     required: true
-- type: datetime
+- type: text
   name: date
   label: Date
-  config:
-    required: true
+  description: Date in YYYY-MM-DD format
 - type: text
   name: image
   label: Image
@@ -23,3 +22,7 @@ fields:
   name: album
   label: Album
   description: The link to the photo album
+pages:
+- content/europe/2019-01-british-isles.en.md
+- content/nz/2015-02-01-wairuna-organics.fr.md
+- content/europe/2019-01-british-isles.fr.md
