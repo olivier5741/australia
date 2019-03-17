@@ -10,7 +10,7 @@ Le printemps s'installait doucement en Belgique mais d'autres horizons nous atte
 
 {{< figure src="https://lh3.googleusercontent.com/iO8gU7fnOWlK-s6GktvsZHshI5n8W0pi4PNmt4W9NuyG4NX-PaP565znB4-FxwAP0nr6VDdPMQGgK43yTkTnODdqGshnt37Y4_UqVwP54ZQxsoHauqw=w600" title="Nos sacs à dos" >}}
 
-{{< figure src="=w600" title="Aéroport de Zaventem avant le décollage" >}}
+{{< figure src="https://lh3.googleusercontent.com/3emu_gUvx3qzZr44T0rhe1p5sF_c8CVdtKEhsdG5Ooy_PRPI4YcAhWTO3fE9MxlHD0F6zDgeLJg_d_yFJRJHLVi0_8kjc72QvIrbX6-uC4Lkw-w8wwm=w600" title="Aéroport de Zaventem avant le décollage" >}}
 
 Le voyage s'est déroulé sans encombre, nos bagages ne se sont même pas perdus. On pose pied sur l'île continent presque "frais" (il n'y a que 7h de décalage). En sortant de l'air climatisé de l'aéroport, on est soufflé par la chaleur et Olivier s'empresse de changer de chaussures et de dé-zipper son pantalon en short...
 
