@@ -22,7 +22,7 @@ David nous accueille avec un bon souper et nous fait visiter sa maison, la pisci
 
 {{< figure src="https://lh3.googleusercontent.com/vh2p93XX9yAdwIbBzRnuwDZ7FLQjq_OK2Qtvw_DjderKYj-WKpTt3ZFJBW0MB0m_XRQPLwuEeKHqxXkwJ1HPfYEJBQulROO2uLRjfaSra9k3nRJt0AT=w600" title="Luna et son frisbee dans un parc spécial canin de 1km de long. La piscine chez David." >}}
 
-{{< figure src="=w600" title="" >}}
+{{< figure src="=w600" title="La maison de David. Un pélican, sans doute un cormoran et un perroquet" >}}
 
 On occupe nos après-midi par des sauts dans la piscine, la mise en ordre de nos papiers et, surtout, la recherche, l'achat puis l'aménagement de notre futur nid douillet pour la suite de nos aventures, à savoir la "chariotte" troisième du nom ! On a déniché l'heureuse élue mais sa transformation en parfait mobilhome prend beaucoup de temps...
 
