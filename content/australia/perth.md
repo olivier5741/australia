@@ -8,7 +8,7 @@ draft: true
 ---
 Le printemps s'installait doucement en Belgique mais d'autres horizons nous attendaient... Notre team de mamans nous a déposé à l'aéroport... On savait que nos bagages n'étaient pas très lourds mais 25kg pour deux, on est fier de nous ! (surtout Rossana) (On apprend de ses erreurs passées et on a eu une pensée émue pour toutes les choses plus ou moins inutiles qu'on a promené pendant un an en Nouvelle Zélande ;) )
 
-{{< figure src="=w600" title="Nos sacs à dos" >}}
+{{< figure src="https://lh3.googleusercontent.com/iO8gU7fnOWlK-s6GktvsZHshI5n8W0pi4PNmt4W9NuyG4NX-PaP565znB4-FxwAP0nr6VDdPMQGgK43yTkTnODdqGshnt37Y4_UqVwP54ZQxsoHauqw=w600" title="Nos sacs à dos" >}}
 
 {{< figure src="=w600" title="Aéroport de Zaventem avant le décollage" >}}
 
