@@ -20,7 +20,7 @@ On a rendez-vous chez David, notre hôte, dans la banlieue de Perth. Pour vous s
 
 David nous accueille avec un bon souper et nous fait visiter sa maison, la piscine, le jardin. En échange d'une demi journée de travail, on est logé et nourri. En bons volontaires, on s'occupe de l'entretien des extérieurs, on l'aide dans quelques tâches administratives et, surtout, on passe du temps avec Luna, le chien de la maison... Promenades au parc et lancés de frisbee!
 
-{{< figure src="=w600" title="Luna et son frisbee dans un parc spécial canin de 1km de long. La piscine." >}}
+{{< figure src="=w600" title="Luna et son frisbee dans un parc spécial canin de 1km de long. La piscine chez David." >}}
 
 {{< figure src="=w600" title="" >}}
 
