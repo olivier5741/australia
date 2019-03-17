@@ -1,7 +1,6 @@
 ---
 label: Default post
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -23,6 +22,7 @@ fields:
   label: Album
   description: The link to the photo album
 pages:
+- content/australia/perth.md
 - content/nz/2015-02-01-wairuna-organics.fr.md
 - content/europe/2019-01-british-isles.en.md
 - content/europe/2019-01-british-isles.fr.md
