@@ -16,7 +16,7 @@ Le voyage s'est déroulé sans encombre, nos bagages ne se sont même pas perdus
 
 On a rendez-vous chez David, notre hôte, dans la banlieue de Perth. Pour vous situer un peu, Perth est sur la côte ouest de l'Australie, à 4000 km de Sydney. C'est la plus grosse ville de la province d'Australie occidentale (qui représente 1/3 du pays) et la quatrième d'Australie. Bref, une grosse ville au milieu de nulle part...
 
-{{< figure src="=w600" title="Perth. Un perroquet (presque aussi commun que le pigeon en Europe), les quelques gratte-ciels (le reste ce sont des 'bungalows') et un aperçu du street art >}}
+{{< figure src="https://lh3.googleusercontent.com/vh2p93XX9yAdwIbBzRnuwDZ7FLQjq_OK2Qtvw_DjderKYj-WKpTt3ZFJBW0MB0m_XRQPLwuEeKHqxXkwJ1HPfYEJBQulROO2uLRjfaSra9k3nRJt0AT=w600" title="Perth. Un perroquet (presque aussi commun que le pigeon en Europe), les quelques gratte-ciels (le reste ce sont des 'bungalows') et un aperçu du street art >}}
 
 David nous accueille avec un bon souper et nous fait visiter sa maison, la piscine, le jardin. En échange d'une demi journée de travail, on est logé et nourri. En bons volontaires, on s'occupe de l'entretien des extérieurs, on l'aide dans quelques tâches administratives et, surtout, on passe du temps avec Luna, le chien de la maison... Promenades au parc et lancés de frisbee!
 
