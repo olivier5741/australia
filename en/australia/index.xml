@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Australia on Rossana &amp; Olivier in ...</title>
+    <link>https://rokiwi.github.io/en/australia/</link>
+    <description>Recent content in Australia on Rossana &amp; Olivier in ...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-be</language>
+    <copyright>2018 Rossana &amp; Olivier in ... powered by Hugo and hosted on Github.</copyright>
+    <lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rokiwi.github.io/en/australia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Perth, at David&#39;s</title>
+      <link>https://rokiwi.github.io/en/australia/2019-02-perth/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rokiwi.github.io/en/australia/2019-02-perth/</guid>
+      <description>Spring was slowly coming up in Belgium but we had other plans on the other side of the world.</description>
+    </item>
+    
+  </channel>
+</rss>

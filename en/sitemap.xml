@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://rokiwi.github.io/en/australia/2019-02-perth/</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rokiwi.github.io/australia/2019-02-perth/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rokiwi.github.io/en/australia/2019-02-perth/"
+                />
+  </url>
+  
+  <url>
     <loc>https://rokiwi.github.io/en/europe/2019-01-british-isles/</loc>
     <lastmod>2019-01-04T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -638,6 +653,22 @@
   </url>
   
   <url>
+    <loc>https://rokiwi.github.io/en/australia/</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rokiwi.github.io/australia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rokiwi.github.io/en/australia/"
+                />
+  </url>
+  
+  <url>
     <loc>https://rokiwi.github.io/en/categories/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -686,7 +717,7 @@
   
   <url>
     <loc>https://rokiwi.github.io/en/</loc>
-    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
