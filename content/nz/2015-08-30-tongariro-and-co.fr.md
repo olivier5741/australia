@@ -1,8 +1,6 @@
-﻿---
+---
 title: "Tongariro and Co."
 date: 2015-08-30
-date-begin: 2015-08-30
-date-end: 2015-09-05
 image: "https://lh3.googleusercontent.com/-ITCsNi60PO4/VfJJwlec-RI/AAAAAAAAHOQ/DYWv_SD2AmY/s1280-Ic42/IMG_6383.JPG"
 album: "https://goo.gl/photos/DPaiMXEgK8PtvnT17"
 ---
