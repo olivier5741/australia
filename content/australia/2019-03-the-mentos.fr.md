@@ -20,16 +20,16 @@ Chance inouïe, tous les 6 mois les habitants de Perth mettent leurs encombrants
 
 Il est temps de prendre le taureau par les cornes. Mise à blanc de la partie utilitaire : on vend la grille de protection, on donne les étagères et on arrache le plastique. Puis on passe au nettoyage intégral. L'Australien commun semble utiliser un souffleur de feuilles pour débuter cette étape, d'après les us et coutumes de notre hôte.
 
-{{< figure src="=w600" title="Au-dessus, le avant/après mise a blanc et nettoyage. En-dessous, les différentes trouvailles et achats : matelat du géant suedois et bidons" >}}
+{{< figure src="=w600" title="Au-dessus, le avant/après mise a blanc et nettoyage. En-dessous, les différentes trouvailles et achats : matelat du géant suédois et bidons" >}}
 
 S'ensuit un cycle (qui peut, à certains moments d'intense remise en question, sembler infini) de réflexion, prises de mesures, découpes, et enfin assemblage (parfois désassemblage puis ré-assemblage). Ensuite, rebelote, on repart pour un tour. Scie circulaire quand c'est droit (hum, pas d'équerre à disposition), biseau quand c'est courbe. Les rondeurs de la voiture se laissent rarement dompter à la première découpe.
 
-{{< figure src="=w600" title="" >}}
+{{< figure src="=w600" title="Au-dessus, la cuisine en construction. En dessous, le lit pliable" >}}
 
 Quelques kilos de sciure plus tard, on est fier de vous présenter la version 1.0 de notre maison. À l'arrière, en ouvrant les portes battantes, on découvre la cuisine plein air semi couverte. Pour subvenir à nos envies culinaires, un réchaud avec deux becs et un grill. Pour ne pas mourir de soif au milieu du désert, deux barils de 20L d'eau chacun. Une planche de travail, une caisse vaisselle et une de bouffe complètent l'endroit. Le cœur de logis, au centre de la voiture, fait office de chambre à coucher, de salle à manger et living.  Un lit pliable permet de passer d'un mode à l'autre : soit sofa, soit lit. Les 2 tiroirs sous le lit, c'est notre dressing. Entre le cœur de logis et la cuisine se trouve la "cave", rangement accessible via une double trappe. Via la deuxième porte coulissante, on accède au "grenier" : rangement derrière le sofa. À la nuit tombée, tout est doucement éclairé par une guirlande LED sur panneau solaire.
 
 Voyez plutôt :
 
-{{< figure src="=w600" title="" >}}
+{{< figure src="=w600" title="La cuisine et en-dessous le coeur de logis" >}}
 
 Ainsi naquit le mentos (on a aussi pensé à Bianca [Bernard et ...] ou Buzz [l'éclair]). Après la chariotte, revendue à des parisiennes, la tomate en pension chez le frère d'Olivier, voici le petit dernier : le mentos, notre carrosse.
