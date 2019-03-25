@@ -1,8 +1,6 @@
 ---
 title: "Dagg Family"
 date: 2015-10-19
-date-begin: 2015-10-19
-date-end: 2015-11-9
 image: "https://lh3.googleusercontent.com/-85iB-z-CCzE/Vj8hjmY-6YI/AAAAAAAALyQ/y-Ms_D70RwU/s912-Ic42/upload_-1.jpg"
 album: "https://goo.gl/photos/J4YnQzsrua6cf9Cr7"
 ---
