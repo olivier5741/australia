@@ -4,7 +4,7 @@ date: 2015-04-08
 date-begin: 2015-04-08
 date-end: 2015-04-13
 image: "http://lh3.googleusercontent.com/-nUbkQJfCqek/VTG9ZHliKKI/AAAAAAAAEfM/GRHHp1gpvd8/s1280/upload_-1.jpg"
-album: "https://picasaweb.google.com/104897435834545155307/MarlboroughSound?authkey=Gv1sRgCPCZs9r5homilQE"
+album: "https://goo.gl/photos/8jjCriXuNXR9BBqf8"
 ---
 
 L'automne nous frappe de plein fouet. Il fait noir vers 18h30, il fait humide voire carrément pluvieux et il faut vraiment être un plouc pour décider de quitter l'abondance de TreeDimensions n'est-ce-pas ?! Bref, on prend quand même la route de "youkou/hippie" city, Takaka (pour plus "d'infos" sur les youkous, [clique ici](https://lecouperet.wordpress.com/2011/11/16/les-youkous/)). 
