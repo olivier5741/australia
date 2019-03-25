@@ -4,7 +4,7 @@ date: 2015-04-08
 date-begin: 2015-04-08
 date-end: 2015-04-13
 image: "http://lh3.googleusercontent.com/-nUbkQJfCqek/VTG9ZHliKKI/AAAAAAAAEfM/GRHHp1gpvd8/s1280/upload_-1.jpg"
-album: "https://picasaweb.google.com/104897435834545155307/MarlboroughSound?authkey=Gv1sRgCPCZs9r5homilQE"
+album: "https://goo.gl/photos/8jjCriXuNXR9BBqf8"
 ---
 
 Autumn is getting to us : dark at 6:30pm, wet weather or even real showers. Why the hell did we leave the plenty of TreeDimension? Anyway we need to get going and catch "hippie" city, Takaka.
