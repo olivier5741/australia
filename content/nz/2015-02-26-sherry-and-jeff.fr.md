@@ -1,10 +1,8 @@
 ---
 title: "Sherry et Jeff"
 date: 2015-02-25
-date-begin: 2015-02-25
-date-end: 2015-03-09
 image: "http://lh4.ggpht.com/-7NTv5HPPmH8/VPujsKKIcdI/AAAAAAAADB0/mXyZuivmRro/s1280/upload_-1.jpg"
-album: "https://plus.google.com/photos/104897435834545155307/albums/6123665301348472513"
+album: "https://goo.gl/photos/7Goas7r6CGHrVMDj7"
 ---
 
 En route pour le woofing suivant, on longe la côte Sud depuis le Fjordland jusqu'à Invercargill. Parmi les curiosités du coin, une plage de pierres polies et Monkey Island, un "gros caillou" accessible à marée basse, d'où les Maori observaient le passage des baleines... On n'a malheureusement vu que des mouettes... 
