@@ -2,7 +2,7 @@
 title: "The Catlins"
 date: 2015-02-06
 image: "http://lh4.ggpht.com/-m9p5tWUzKv4/VOcExp-SosI/AAAAAAAABfs/w9zJnuP1xwo/s1280/upload_-1.jpg"
-album: "https://picasaweb.google.com/104897435834545155307/TheCatlins?authkey=Gv1sRgCK2M0LSpjcfwnQE"
+album: "https://goo.gl/photos/ARvwDZsnKyFADmJB8"
 ---
 
 After 6 long days spent weeding Shaun's vegetables, we're on the road again to the Catlins. On the to do list : beaches, seals, penguins, falls and forest. Again?! But the Catlins are the place to be for this kind of stuff. 
