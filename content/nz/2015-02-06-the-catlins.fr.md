@@ -2,9 +2,7 @@
 title: "The Catlins"
 date: 2015-02-06
 image: "http://lh4.ggpht.com/-m9p5tWUzKv4/VOcExp-SosI/AAAAAAAABfs/w9zJnuP1xwo/s1280/upload_-1.jpg"
-album: "https://picasaweb.google.com/104897435834545155307/TheCatlins?authkey=Gv1sRgCK2M0LSpjcfwnQE"
-translation: "/articles/2015/02/the-catlins-vo"
-published: true
+album: "https://goo.gl/photos/ARvwDZsnKyFADmJB8"
 ---
 
 Après 6 jours passés à se "traîner" dans la terre pour désherber les légumes de Shaun :p, on se retrouve les roues sur le bitume pour attaquer les Catlins. Au programme : plages, phoques, pingouins, cascades et forêt. Du déjà vu me direz-vous... En fait, les Catlins sont "the place to be" pour ce genre d'attractions et le fait d'être attendu le lendemain à notre prochain wwoofing nous presse un peu.
