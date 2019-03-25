@@ -415,6 +415,16 @@
   <url>
     <loc>https://rokiwi.github.io/nz/2015-08-samoa/</loc>
     <lastmod>2015-08-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rokiwi.github.io/en/nz/2015-08-samoa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rokiwi.github.io/nz/2015-08-samoa/"
+                />
   </url>
   
   <url>
