@@ -1,8 +1,6 @@
 ---
 title: "De l'autre côté du détroit de Cook"
 date: 2015-07-07
-date-begin: 2015-07-07
-date-end: 2015-07-13
 image: "http://lh3.googleusercontent.com/-yK32hXdAv1c/VaSfForyiDI/AAAAAAAAGEk/vSTxokDfdmA/s1280/upload_-1.jpg"
 album: "https://goo.gl/photos/suzRQQwiR77Z6rFe9"
 ---
