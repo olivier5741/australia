@@ -1,10 +1,8 @@
 ---
 title: "TreeDimensions"
 date: 2015-03-20
-date-begin: 2015-03-20
-date-end: 2015-04-08
 image: "http://lh3.ggpht.com/-f4G8tUyLOc8/VSRPCeJJeAI/AAAAAAAAD7c/9y8rNaLdSQA/s1280/upload_-1.jpg"
-album: "https://picasaweb.google.com/104897435834545155307/TreeDimension?authkey=Gv1sRgCIviwNrIl_OkXQ"
+album: "https://goo.gl/photos/6Whdjvg9QgnQopjH6"
 ---
 
 Nouveau wwoofing : changement de régime alimentaire et politique. Dieter aux commandes : végétarisme, biodynamique et précision allemande (enfin bavaroise pour être exact). 
