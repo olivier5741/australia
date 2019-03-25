@@ -1,8 +1,6 @@
 ---
 title: "Mimiwhangata Coastal Park"
 date: 2015-09-28
-date-begin: 2015-09-28
-date-end: 2015-10-11
 image: "https://lh3.googleusercontent.com/-_ti03QkE2MQ/Vib1iGqLkgI/AAAAAAAAJew/fsnDwVQO57M/s912-Ic42/upload_-1.jpg"
 album: "https://goo.gl/photos/SiNeEBKHSS9sb6948"
 ---
