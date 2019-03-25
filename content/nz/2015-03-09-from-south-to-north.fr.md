@@ -1,8 +1,6 @@
 ---
 title: Du sud au nord
 date: 2015-03-09 00:00:00 +0000
-date-begin: 2015-03-09 00:00:00 +0000
-date-end: 2015-03-20 00:00:00 +0000
 image: http://lh5.ggpht.com/-RmhLGxhRFZc/VRkBkHMfInI/AAAAAAAADx4/n2xwioltWF4/s1280/upload_-1.jpg
 album: https://goo.gl/photos/nemwqwZhiZS6BxMm9
 
