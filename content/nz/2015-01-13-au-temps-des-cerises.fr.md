@@ -2,8 +2,7 @@
 title: Au Temps Des Cerises
 date: 2015-01-13 00:00:00 +0000
 location: 90+Ripponvale+Cromwell
-image:
-  teaser-ext: http://lh6.ggpht.com/-ZhNQ0RaXpWY/VNGjd-vhQQI/AAAAAAAAAFU/GY5SNdtVr0k/s1280/IMG_0637.JPG
+image: "https://lh3.googleusercontent.com/tmTiP_b4lzlz8z78eYmu4OFmk9neuGoZRKT8zG_N2n1iuJxUsa-2d8Bfkn61iotN1oBeEsWlBLHGuQ-ZUmQTFyaznJ31CO_ZqzPoryfDLG3yzEcFO1xrTdCZTlmDDPfebxAJ-WyRJuQ=w600"
 album: https://goo.gl/photos/edkoN1QoLQSoWNmeA
 
 ---
