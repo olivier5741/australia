@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-be</language>
     <copyright>2018 Rossana &amp; Olivier in ... powered by Hugo and hosted on Github.</copyright>
-    <lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rokiwi.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Le mentos, notre carosse</title>
+      <link>https://rokiwi.github.io/australia/2019-03-the-mentos/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rokiwi.github.io/australia/2019-03-the-mentos/</guid>
+      <description>Choisir sa monture est une étape cruciale du backpacker. Sans trop se poser de questions, le choix est arrêté sur le van aménagé.</description>
+    </item>
     
     <item>
       <title>Perth, chez David</title>
