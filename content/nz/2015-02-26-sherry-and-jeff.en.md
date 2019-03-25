@@ -1,10 +1,8 @@
 ---
 title: "Sherry and Jeff"
 date: 2015-02-25
-date-begin: 2015-02-25
-date-end: 2015-03-09
 image: "http://lh4.ggpht.com/-7NTv5HPPmH8/VPujsKKIcdI/AAAAAAAADB0/mXyZuivmRro/s1280/upload_-1.jpg"
-album: "https://plus.google.com/photos/104897435834545155307/albums/6123665301348472513"
+album: "https://goo.gl/photos/7Goas7r6CGHrVMDj7"
 ---
 
 On the way to our next woofing, we follow the South Coast from Fiordland to Invercargill. Among the sightseeings, the Gemstone Beach and "Monkey Island", a small mountain reachable only at low tide where Maori spotted the whales... But we spotted only seagulls...
