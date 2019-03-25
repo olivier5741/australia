@@ -25,6 +25,3 @@ Quelques kilos de sciure plus tard, on est fier de vous présenter la version 1.
 Voyez plutôt :
 
 Ainsi naquit le mentos (on a aussi pensé à Bianca [Bernard et ...] ou Buzz [l'éclair]). Après la chariotte, revendue à des parisiennes, la tomate en pension chez le frère d'Olivier, voici le petit dernier : le mentos, notre carrosse.
-
-
-
