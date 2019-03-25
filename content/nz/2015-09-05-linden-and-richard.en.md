@@ -1,8 +1,6 @@
 ---
 title: "Linden and Richard"
 date: 2015-09-05
-date-begin: 2015-09-05
-date-end: 2015-09-20
 image: "https://lh3.googleusercontent.com/-F-ckVf-6RAg/Vgcp0dqMvNI/AAAAAAAAIq4/Sr4uPB-gj7Y/s912-Ic42/IMG_6942.JPG"
 album: "https://goo.gl/photos/2omUuT3JjVxnYk3E9"
 ---
