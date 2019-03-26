@@ -29,6 +29,6 @@ Quelques kilos de sciure plus tard, on est fier de vous présenter la version 1.
 
 Voyez plutôt :
 
-{{< figure src="https://lh3.googleusercontent.com/Ng2r3ZxFoY5KlOfE-Rw2YnP7-a9QZhDj0idBG12_Q-QuiAMvBOBprLLFFCXJ2DDoecnDK2KIL62-mN9q8ECBGHZeaFZ6xaZZrGo6D0AZ-dQ1N453w5WbnD-N7dLAQXnHKVNo6VggoPE=w600" title="La cuisine et en-dessous le coeur de logis" >}}
+{{< figure src="https://lh3.googleusercontent.com/Ew4m-yWBFtvKlAp9pTDkZzknR7MpHG_xlcOsXLBO5f2kZfPgZZGOhQPm8fOhKfiuk2v90evkyuSBUXLCNHpxDE6RpWP6Chx3OuWk0RKGajD1HCIIIBkP76t6cnw1WOeItClzUZBMj-w=w600" title="La cuisine et le coeur de logis" >}}
 
 Ainsi naquit le mentos (on a aussi pensé à Bianca \[Bernard et ...\] ou Buzz \[l'éclair\]). Après la chariotte, revendue à des parisiennes, la tomate en pension chez le frère d'Olivier, voici le petit dernier : le mentos, notre carrosse.
