@@ -33,7 +33,7 @@ See for yourself:
 
 {{< figure src = "https://lh3.googleusercontent.com/Ew4m-yWBFtvKlAp9pTDkZzknR7MpHG_xlcOsXLBO5f2kZfPgZZGOhQPm8fOhKfiuk2v90evkyuSBUXLCNHpxDE6RpWP6Chx3OuWk0RKGajD1HCIIIBkP76t6cnw1WOeItClzUZBMj-w=w600" title = "The kitchen and the main room">}}
 
-Thus was born the mentos (we also thought of Bianca [Miss Bianca in the rescuers] or Buzz [lightyear]). After 'la chariotte', sold to Parisians, the tomato lent to Olivier's brother, here's the last one:   the mentos, "notre carosse" (local version of our coach).
+Thus was born the mentos (we also thought of Bianca \[Miss Bianca in the rescuers\] or Buzz \[lightyear\]). After 'la chariotte', sold to Parisians, the tomato lent to Olivier's brother, here's the last one:   the mentos, "notre carosse" (local version of our coach).
 
 
 
