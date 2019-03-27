@@ -168,26 +168,6 @@
   </url>
   
   <url>
-    <loc>https://rokiwi.github.io/samoa/2015-08-21-plane/</loc>
-    <lastmod>2015-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rokiwi.github.io/samoa/2015-08-21-story/</loc>
-    <lastmod>2015-08-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rokiwi.github.io/en/samoa/2015-08-21-story/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://rokiwi.github.io/samoa/2015-08-21-story/"
-                />
-  </url>
-  
-  <url>
     <loc>https://rokiwi.github.io/nz/2015-08-samoa/</loc>
     <lastmod>2015-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -578,22 +558,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://rokiwi.github.io/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://rokiwi.github.io/samoa/</loc>
-    <lastmod>2015-08-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rokiwi.github.io/en/samoa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://rokiwi.github.io/samoa/"
                 />
   </url>
   
