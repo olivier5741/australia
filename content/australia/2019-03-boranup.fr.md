@@ -13,11 +13,11 @@ Bien que peu loquace, on obtient de temps en temps des informations sur lui. À 
 Le Mentos garé sur un des nombreux emplacements de 'camping' de la propriété, on retrousse nos manches. Le job du moment : ratisser branches, écorces et feuilles mortes le long des bordures de sa propriété. Ces zones de sol mis à nu ralentissent la progression des flammes en cas de feu de forêt. On ne vous cache pas que le job est répétitif mais ce qu'on peut trouver dans les feuilles mortes en Australie est très distrayant : des araignées (plus ou moins grosses, plus ou moins poilues), un énorme lézard, un scorpion, un phasme et tout ce que l'on n'a pas identifié.
 
 
-{{< figure src="600" title="Notre campement et un échantillon de ce qu'on a retrouvé dans les tas de feuilles" >}}
+{{< figure src="https://lh3.googleusercontent.com/z4aNNVEsO-UkGQTiqiLwKg17cBqBiiP-PFBXK0gZPgcQ2l3knngIj0GEow6ybcihX4np63viFeFidzd-eRSb28rvPEhSkvhbUYKlWFGURGtp2s1e-WxH2RfikC-GveW8XtQ-hCbJVWk=w600" title="Notre campement et un échantillon de ce qu'on a retrouvé dans les tas de feuilles" >}}
 
 Deux heures par jour,  en échange du logis, ça nous laisse le temps d'explorer sa propriété. Pas de doutes possibles, Malcom est un collectionneur : assez de bois pour reproduire le belvédère de Bouillon, de la corde à bateau (glanée sur la plage) qui mise bout à bout pourrait relier Carlsbourg à Paliseul, et des bouées en quantité suffisante pour rendre le Mentos amphibie. Il possède également de nombreux abris/cabanes/ateliers pour héberger tous ses outils. Ultime récompense après les 2h de labeur : une poire nashi (un juteux croisement entre une pomme et une poire).
 
-{{< figure src="600" title="Chez Malcolm" >}}
+{{< figure src="https://lh3.googleusercontent.com/tZw0ARxrpEMVmUhSsRkOLqEznDZzE1TUAJSBzM2MzgPShu1lo3j_2unzKkc2f8Cn0ukdcLiee6xOLvVCbfOYEqPP_GSl79zWpoqlvAB7TzF1gUv9JmOuJKWjLch7NyabpBAUacROV34=w600" title="Chez Malcolm" >}}
 
 Quand on ne travaille pas sur la version 2 du Mentos (principalement des rangements additionnels et de la consolidation), on part explorer les environs. À pied, on accède directement à une forêt d'eucalyptus peuplée d'oiseaux enjoués. Sinon, Augusta est réputée pour son fish & chips et Cape Leeuwin est le point le plus au sud-ouest de l'Australie.
 
