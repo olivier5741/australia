@@ -23,6 +23,6 @@ Quand on ne travaille pas sur la version 2 du Mentos (principalement des rangeme
 
 {{< figure src="https://lh3.googleusercontent.com/3N40YpNvk686I9KrMBPPRndqXudZOm_0kjIHxt9jKXfij-aW6E4n_UsHnfS4DuNsROVgmLshe6qt4Zzfy8aMUA7ItJBkz9W-iC46uMvCvs-tTlZpY_jZJWiTSlN6lXAm-NOG7zTxwmk=w600" title="Augusta et Cape Leeuwin pendant notre temps libre" >}}
 
-{{< figure src="600" title="La forêt de Karri (espèce d'eucalyptus) à Boranup. Du snorkeling à Granny's pool." >}}
+{{< figure src="https://lh3.googleusercontent.com/g_loCTNHyQ3qQjKY5Glb_5c_9T_Qcse-8QIXHSUNwE9c57wf9dfF4uYfbdZEthCM3VzPilfGPiv0PsTQRxgR7lq1PHI21zKKXPAcK8u3uQ-79Au_kW7NnI-PlHWLYcLZnFxcKoSUNE0=w600" title="La forêt de Karri (espèce d'eucalyptus) à Boranup. Du snorkeling à Granny's pool." >}}
 
 PS : notre quête de travail ne fut pas totalement veine : on a cueilli du Cabernet Sauvignon pendant deux jours dans un vignoble de Margaret River.
