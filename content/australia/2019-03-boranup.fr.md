@@ -3,7 +3,7 @@ title: Boranup
 date: 2019-03-30 00:00:00 +0000
 image: https://lh3.googleusercontent.com/O_j-1RyYCR2jLI1oGQXP0HiF2XGvk2iR_BTjQWtHLInEslfDn6w2TrZoFF9D6EUwNgW8ScuftXSGe4FEmEa5ROtdubBgs4yyuNcpQ191c6fKUnvBlTn9HvboO89612cyIAaxRFWgoZg=w600
 album: https://photos.app.goo.gl/AxvhQ2SLwirndUaRA
-
+draft: true
 ---
 La première entrevue avec notre nouvel hôte, Malcom, se déroule au camping de Boranup. Après une nuit mouvementée dans ce camping forestier (des petits jeunes Australiens ont commencé à mettre la musique à donf à 22h), Malcolm vient à notre rencontre en vélo électrique le lendemain matin. Un bandana style Rocky Balboa, assez costaud, Malcom nous invite à rejoindre son chez lui quand on est prêt. 
 
