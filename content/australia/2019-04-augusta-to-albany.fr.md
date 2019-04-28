@@ -3,6 +3,7 @@ title: Les parcs nationaux du sud ouest
 date: 2019-04-09 00:00:00 +0000
 image: https://lh3.googleusercontent.com/Onm5inT5lWnWnr4Ws8KwF-40SqNm0wLH-ImvPsCvzpBWeGB0XZUFoLXVou69LGeTAb4Vvc7XBR8Svq5U5Pw7_XjNTAvm8p3PSWe-WQkhKPD3gF9UvLNh-OiBWAauou9YTx4X6ZxkTfU=w600
 album: https://photos.app.goo.gl/h1gUwhphGRzQLEjJ6
+draft: true
 
 ---
 Quand on te dit Australie, tu penses plages, désert et gros caillou rouge. Que nenni... On vient de passer une semaine au milieu de dizaines de milliers d'hectares de forêts. Karri, Marri, Jarrah (différentes espèces d'eucalyptus) nous toisent partout où saon va, parfois du haut de leur 80m. Ça en fait du bois! Abondamment exploités après la deuxième guerre mondiale, ces énormes eucalyptus ont servi à construire des maisons, des lignes de chemins de fer, des ponts partout dans le monde. Actuellement, la plupart de ces forêts sont des parcs nationaux qu'on parcourt pour le plus grand plaisir de nos gambettes. 
@@ -27,6 +28,6 @@ La nature, on t'en parle beaucoup. C'est un fait, la biodiversité est une des r
 
 {{< figure src="https://lh3.googleusercontent.com/X3glNL1WySGRGfKTo6XmTPIxp9Gfr8b8ePqRrmV4i7wknBQk1Qtd6thUmdZihI5Gy1b-Qq4BhHZPZZLHlxElJBMoKw90cKvvZnGIT8VLiOoZLUKsvaOHUlspvvOD7wvckG7gyDZcUrc=w600" title="Des pics en granit, plutôt dodus que pointus, dominent de grandes plaines. Notamment autour de Windy Harbour et au nord de Walpole. Ces monceaux de granites se font aussi sculpter par la mer. Olivier pense conduire une limace géante." >}}
 
-{{< figure src="https://lh3.googleusercontent.com/X71ER6hGyzBYdY-vqa68u9nWOZ4N3DDxNgsYlV9bqiQu1Rcd5L9J2Du8hnvL8WPDV5u8BBekOVRJCvOR85OxSib_rKcrLWQOOFLEDafWKep81igQjUU1ioKfryjRymFz4FHcdChoxio=w600" title="L'océan. On le scrute, on joue sur les rochers qui bordent la plage, on se jette dans les vagues, on le fixe sur la pellicule quand le soleil se couche" >}}
+{{< figure src="https://lh3.googleusercontent.com/mumakpvvNAnn5wYY2ab2dXnQe0ne-1Tgq96xvyp_p1i6JWpUjjLuOUKs82D2v2OnFtiPeMUFzx4rMzSUfWXjFJyqfOCNehvkTx62qHOLRqU9R7WWSAD9-xcECU0IBbz9dcX1i_FZ7O4=w600" title="L'océan. On le scrute, on joue sur les rochers qui bordent la plage, on se jette dans les vagues, on le fixe sur la pellicule quand le soleil se couche" >}}
 
 Notre prochaine étape est du volontariat dans une ferme laitière au nord de Albany... :)
