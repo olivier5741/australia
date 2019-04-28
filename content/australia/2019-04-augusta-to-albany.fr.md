@@ -3,7 +3,6 @@ title: Les parcs nationaux du sud ouest
 date: 2019-04-09 00:00:00 +0000
 image: https://lh3.googleusercontent.com/Onm5inT5lWnWnr4Ws8KwF-40SqNm0wLH-ImvPsCvzpBWeGB0XZUFoLXVou69LGeTAb4Vvc7XBR8Svq5U5Pw7_XjNTAvm8p3PSWe-WQkhKPD3gF9UvLNh-OiBWAauou9YTx4X6ZxkTfU=w600
 album: https://photos.app.goo.gl/h1gUwhphGRzQLEjJ6
-draft: true
 
 ---
 Quand on te dit Australie, tu penses plages, désert et gros caillou rouge. Que nenni... On vient de passer une semaine au milieu de dizaines de milliers d'hectares de forêts. Karri, Marri, Jarrah (différentes espèces d'eucalyptus) nous toisent partout où saon va, parfois du haut de leur 80m. Ça en fait du bois! Abondamment exploités après la deuxième guerre mondiale, ces énormes eucalyptus ont servi à construire des maisons, des lignes de chemins de fer, des ponts partout dans le monde. Actuellement, la plupart de ces forêts sont des parcs nationaux qu'on parcourt pour le plus grand plaisir de nos gambettes. 
