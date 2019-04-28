@@ -5,7 +5,6 @@ image: https://lh3.googleusercontent.com/Onm5inT5lWnWnr4Ws8KwF-40SqNm0wLH-ImvPsC
 album: https://photos.app.goo.gl/h1gUwhphGRzQLEjJ6
 
 ---
-
 Quand on te dit Australie, tu penses plages, désert et gros caillou rouge. Que nenni... On vient de passer une semaine au milieu de dizaines de milliers d'hectares de forêts. Karri, Marri, Jarrah (différentes espèces d'eucalyptus) nous toisent partout où saon va, parfois du haut de leur 80m. Ça en fait du bois! Abondamment exploités après la deuxième guerre mondiale, ces énormes eucalyptus ont servi à construire des maisons, des lignes de chemins de fer, des ponts partout dans le monde. Actuellement, la plupart de ces forêts sont des parcs nationaux qu'on parcourt pour le plus grand plaisir de nos gambettes. 
 
 {{< figure src="https://lh3.googleusercontent.com/a6joOd143z3AvRJIqp5XFLIbpWZ0NkCifTauZY6wNT_O8lf4Q1K5jINtl2zrAaV4ZyConkEbdt6tpFzoGqo8HcuCpXr5AO4eSP3RVuiwrQIjpsTwGLjRmBgmqJVPSAEH5hestoIuK-E=w600" title="Un méli-mélo d'eucalyptus. Un marri au visage de grand-mère. Un red tringle en forme de cafetière. La base de l'eucalyptus se creuse quand il vieillit et un jour, le vent ou le feu la fera craquer ..." >}}
@@ -31,4 +30,3 @@ La nature, on t'en parle beaucoup. C'est un fait, la biodiversité est une des r
 {{< figure src="https://lh3.googleusercontent.com/X71ER6hGyzBYdY-vqa68u9nWOZ4N3DDxNgsYlV9bqiQu1Rcd5L9J2Du8hnvL8WPDV5u8BBekOVRJCvOR85OxSib_rKcrLWQOOFLEDafWKep81igQjUU1ioKfryjRymFz4FHcdChoxio=w600" title="L'océan. On le scrute, on joue sur les rochers qui bordent la plage, on se jette dans les vagues, on le fixe sur la pellicule quand le soleil se couche" >}}
 
 Notre prochaine étape est du volontariat dans une ferme laitière au nord de Albany... :)
-
