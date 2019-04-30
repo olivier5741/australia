@@ -5,7 +5,7 @@ image: https://lh3.googleusercontent.com/Onm5inT5lWnWnr4Ws8KwF-40SqNm0wLH-ImvPsC
 album: https://photos.app.goo.gl/h1gUwhphGRzQLEjJ6
 
 ---
-Quand on te dit Australie, tu penses plage, désert et gros caillou rouge. Que nenni... On vient de passer une semaine au milieu de dizaines de milliers d'hectares de forêts. Karri, Marri, Jarrah (différentes espèces d'eucalyptus) nous toisent partout où saon va, parfois du haut de leur 80m. Ça en fait du bois! Abondamment exploités après la deuxième guerre mondiale, ces énormes eucalyptus ont servi à construire des maisons, des lignes de chemins de fer, des ponts partout dans le monde. Actuellement, la plupart de ces forêts sont des parcs nationaux qu'on parcourt pour le plus grand plaisir de nos gambettes.
+Quand on te dit Australie, tu penses plage, désert et gros caillou rouge. Que nenni... On vient de passer une semaine au milieu de dizaines de milliers d'hectares de forêts. Karri, Marri, Jarrah (différentes espèces d'eucalyptus) nous toisent partout où on va, parfois du haut de leur 80m. Ça en fait du bois! Abondamment exploités après la deuxième guerre mondiale, ces énormes eucalyptus ont servi à construire des maisons, des lignes de chemins de fer, des ponts partout dans le monde. Actuellement, la plupart de ces forêts sont des parcs nationaux qu'on parcourt pour le plus grand plaisir de nos gambettes.
 
 {{< figure src="https://lh3.googleusercontent.com/a6joOd143z3AvRJIqp5XFLIbpWZ0NkCifTauZY6wNT_O8lf4Q1K5jINtl2zrAaV4ZyConkEbdt6tpFzoGqo8HcuCpXr5AO4eSP3RVuiwrQIjpsTwGLjRmBgmqJVPSAEH5hestoIuK-E=w600" title="Un méli-mélo d'eucalyptus. Un marri au visage de grand-mère. Un red tringle en forme de cafetière. La base de l'eucalyptus se creuse quand il vieillit et un jour, le vent ou le feu la fera craquer ..." >}}
 
