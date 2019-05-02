@@ -1,6 +1,6 @@
 ---
 title: Southwest National Parks
-date: 2019-04-09T00: 00: 00.000 + 00: 00
+date: 2019-04-09 00:00:00 +0000
 image: https://lh3.googleusercontent.com/Onm5inT5lWnWnr4Ws8KwF-40SqNm0wLH-ImvPsCvzpBWeGB0XZUFoLXVou69LGeTAb4Vvc7XBR8Svq5U5Pw7_XjNTAvm8p3PSWe-WQkhKPD3gF9UvLNh-OiBWAauou9YTx4X6ZxkTfU=w600
 album: https://photos.app.goo.gl/h1gUwhphGRzQLEjJ6
 
