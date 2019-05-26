@@ -3,7 +3,7 @@ title: Porongurup Pure
 date: 2019-04-22
 image: https://lh3.googleusercontent.com/KuJI55EF45GO0sj9l6u7XRk3SB-QwBhFQA0PZx_zrrsB7YMd_xv82bRmRr1CF8_evGh4U21syPlFumfkKShaBxxpDLXMfy4tlWRaseu_s9HeOraC2ZvPUZxKN5NcmH5dBO409woD_lc=w600
 album: https://photos.app.goo.gl/ALS4xNmnth4Ub7Bn9
-
+draft: true
 ---
 
 Ça fait deux mois qu'on se la coule douce. Une ferme semble le bon choix pour se remuer un peu : il y a toujours du boulot ! Après une brève recherche sur Workaway (notre site de prédilection pour trouver du volontariat en Australie), on sélectionne une ferme laitière dans les Porongurup, au nord de Albany. Nic, Scottie et leur petit garçon Emerson sont également emballés. C'est parti mon kiki!
