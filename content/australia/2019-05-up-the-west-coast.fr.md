@@ -3,6 +3,7 @@ title: En remontant la côte ouest
 date: 2019-05-20
 image: https://lh3.googleusercontent.com/pYzx2qZ-GJBPWU2dK8IxmfKo6tjWqccQkfBnkibjc_ZwppS1l6S2BzwVNZX51XSb1O8uQI3GyMP-ShF8qCir0c313IHurUU0T9e41AG_2fH9knLfLas-BGMbRfXeWjAdlo5WD_bZdI4=w600
 album: https://photos.app.goo.gl/ghPcXGKN88CarJzv8
+draft: true
 ---
 
 À peine descendu de l'avion, Sébastien, le colis très spécial et également frère d'Olivier, n'a qu'une idée en tête : aller nager dans l'océan indien. Tout le monde dans le mentos !! Le soleil ne brille pas vraiment, l'eau n'est pas spécialement chaude et la mer est agitée (pour le plus grand plaisir d'un kyte surfer, notre unique collègue de baignade). Mais bon le besoin est assouvi :). Maintenant il faut prendre des forces pour la suite des opérations. Après une brève visite guidée du Mentos, Seb se met spontanément au fourneau : ce soir ce sera coucous fenouil épinard (autant s'habituer tout de suite au menu camping). 
