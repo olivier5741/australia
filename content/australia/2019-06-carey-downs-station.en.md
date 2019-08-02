@@ -3,6 +3,7 @@ title: Carey Downs Station
 date: 2019-06-14
 image: https://lh3.googleusercontent.com/x-fkdRadDEqlUyTmZDUtJh1EUfC5316ybPHJEoHwA6UMmADXevQRDNs4qFCLRWVUV0Deqxlx0I2uNln_2NiYaTiw-ZSt2FkHjPJ_meC9GZunwTpuJ3bgPpydtLk7sSUA0TaANEQE8zs=w600
 album: https://photos.app.goo.gl/qgWoN9ueE74oefe28
+draft: true
 ---
 
 We wanted to get off the beaten track, a gigantic cattle farm 100km of unpaved Gascoyne Junction (20 houses, a school, a post office, a gas station and a campsite), it's pretty good! As the road is very busy and there is no network, our hosts ask us to send them a message when leaving Gascoyne Junction. If we do not arrive within two to three hours, they come to our rescue (otherwise you can spend several days alone by the roadside). The Mentos being in shape, we arrive safely at Carey Downs.
