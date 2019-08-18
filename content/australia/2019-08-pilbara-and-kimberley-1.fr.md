@@ -19,7 +19,7 @@ L'accessoire indispensable pour aller jusqu'au bout des gorges, c'est le maillot
 
 {{< figure src="https://lh3.googleusercontent.com/V_TGx3LAv2OWvxxpot5daKO6TRhccw8NRLBjQHBu4YHyrHuABKjLrHiR1TcIV4LcOtaFO9PaqCme7BTlZB0NM_h41Os9e_QkbEvm2aaFbiek4oQXzIER8yIDKdHLb_2229iyatH9cxk=w600" title="Karijini National Parc" >}}
 
-Bien rafraîchi des Karijini, on continue notre quête du grand nord. On gagne 5 degré en température et une potentielle nouvelle rencontre trépidante : le croco. On évite maintenant de se baigner dans la mer et les estuaires (sauf quand il y a 10 autres nageurs)appâts dans l'eau ;) ). 
+Bien rafraîchi des Karijini, on continue notre quête du grand nord. On gagne 5 degré en température et une potentielle nouvelle rencontre trépidante : le croco. On évite maintenant de se baigner dans la mer et les estuaires (sauf quand il y a 10 autres nageurs/appâts dans l'eau ;) ). 
 
 {{< figure src="https://lh3.googleusercontent.com/dec2X64_5uis-J6LY4OC4M4MffTMbFQ7I2Rx6dV5wG5oJ3MDpFH2TZdvpPhcSGTJp20VTbfA8qihuPZmEmrPQYxviZMvzWgd9DTcXrBJYZ0OeNGcQ9MkEoPx0dKTdPowuCZM7kmTEH4=w600" title="Port Headland, ville industrielle, principale porte de sortie pour le minerai de fer. Port Headland, ville artistique" >}}
 
