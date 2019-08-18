@@ -25,6 +25,6 @@ Bien rafraîchi des Karijini, on continue notre quête du grand nord. On gagne 5
 
 Broome et son iconique plage de sable blanc où les dromadaires bercent les touristes au coucher du soleil, c'est trop "mainstream" pour nous. On échange les touristes pour des oiseaux et on passe une semaine dans un parc ornithologique des environs. Loin de là ville, les uniques bruits en soirée sont les doux ronflements de nos rares mais sympathiques voisins de camping. On se porte volontaire pour un comptage d'oiseaux de rivage aux jumelles et à la longue-vue. Phénomène naturel mensuel tant attendu, on admire "l'escalier vers la lune". Explications : lorsque la pleine lune se lève à marée basse, son reflet sur la plage humide prend la forme d'un escalier. La lune en poche, on reprend la route... :)
 
-{{< figure src="https://lh3.googleusercontent.com/LUkcmTbPVKz410uYW6_D8D8EbEhpuFFkEZg0WAmnq5B7FBEjKgqE0r_QOqrYwQD9JTWlEunCqJrGuBRJTAAwNbup7VzAA9XNoCleDAZMPgMGKo6IPCrKWXcX5iDj9StB7nN-IHkS5U0=w2400" title="Broome Bird Observatory et ses environs" >}}
+{{< figure src="https://lh3.googleusercontent.com/LUkcmTbPVKz410uYW6_D8D8EbEhpuFFkEZg0WAmnq5B7FBEjKgqE0r_QOqrYwQD9JTWlEunCqJrGuBRJTAAwNbup7VzAA9XNoCleDAZMPgMGKo6IPCrKWXcX5iDj9StB7nN-IHkS5U0=w600" title="Broome Bird Observatory et ses environs" >}}
 
 PS: avez-vous remarqué qu'Olivier a été chez le coiffeur ? ;)
