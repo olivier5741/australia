@@ -29,7 +29,7 @@ Broome et son iconique plage de sable blanc où les dromadaires bercent les tour
 
 PS: avez-vous remarqué qu'Olivier a été chez le coiffeur ? ;)
 
-<a href="https://wa.me/61448369125">
+<a href="https://wa.me/61448369125" style="display: inline-block">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/32px-WhatsApp.svg.png"/> 
-Si tu souhaites nous contacter via WhatsApp, clique ici ;)
+<span>Si tu souhaites nous contacter via WhatsApp, clique ici ;)</span>
 </a>
