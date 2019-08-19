@@ -29,4 +29,5 @@ Broome et son iconique plage de sable blanc où les dromadaires bercent les tour
 
 PS: avez-vous remarqué qu'Olivier a été chez le coiffeur ? ;)
 
+![https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/100px-WhatsApp.svg.png](https://wa.me/61448369125)
 [Pour nous contacter via WhatsApp, cliquez ici :)](https://wa.me/61448369125)
