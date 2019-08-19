@@ -28,3 +28,5 @@ Broome et son iconique plage de sable blanc où les dromadaires bercent les tour
 {{< figure src="https://lh3.googleusercontent.com/LUkcmTbPVKz410uYW6_D8D8EbEhpuFFkEZg0WAmnq5B7FBEjKgqE0r_QOqrYwQD9JTWlEunCqJrGuBRJTAAwNbup7VzAA9XNoCleDAZMPgMGKo6IPCrKWXcX5iDj9StB7nN-IHkS5U0=w600" title="Broome Bird Observatory et ses environs" >}}
 
 PS: avez-vous remarqué qu'Olivier a été chez le coiffeur ? ;)
+
+[https://wa.me/61448369125](Pour nous contacter via WhatsApp, cliquez ici :))
