@@ -21,7 +21,7 @@ The best outfit to reach the end of the gorge is a swimming suit. After careful 
 
 Well refreshed from Karijini, we carry on our trip to the great north. We gain 5 degrees in temperature and a potential new thrilling meeting: the crocodile. Swimming is now avoided in the sea and estuaries (except when there are 10 other swimmers/baits in the water ;)).
 
-{{< figure src="https://lh3.googleusercontent.com/dec2X64_5uis-J6LY4OC4M4MffTMbFQ7I2Rx6dV5wG5oJ3MDpFH2TZdvpPhcSGTJp20VTbfA8qihuPZmEmrPQYxviZMvzWgd9DTcXrBJYZ0OeNGcQ9MkEoPx0dKTdPowuCZM7kmTEH4=w600" title="Port Headland, industrial city, main gateway for iron ore export. Port Headland, artistic city" >} }
+{{< figure src="https://lh3.googleusercontent.com/dec2X64_5uis-J6LY4OC4M4MffTMbFQ7I2Rx6dV5wG5oJ3MDpFH2TZdvpPhcSGTJp20VTbfA8qihuPZmEmrPQYxviZMvzWgd9DTcXrBJYZ0OeNGcQ9MkEoPx0dKTdPowuCZM7kmTEH4=w600" title="Port Headland, industrial city, main gateway for iron ore export. Port Headland, artistic city" >}}
 
 Broome and its iconic white sand beach where camels cradle tourists at sunset, it's too "mainstream" for us. We exchange tourists for birds and spend a week at Broome Bird Observatory. Far from the city, the unique noises in the evening are the sweet snores of our rare but friendly camping neighbours. We even volunteer for a shorebird count with binoculars and scopes. We admire a long-awaited monthly natural phenomenon : the staircase to the moon. Only a few days a month, when the full moon rises at low tide, its reflection on the wet beach takes the form of a staircase.The moon in our pocket, we are on the road again ... :)
 
