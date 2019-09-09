@@ -3,6 +3,7 @@ title: Pilbara et Kimberley (2/2)
 date: 2019-08-19
 image: https://lh3.googleusercontent.com/A3kQ5DIxQXHRjwHHlK4Pxc7yrziJp-IB4e-duODKLvIRqHipiQfPTjuNmUp1cJ0zC4HAeo0l_T_TkTMJ3K4rsGUNp2kumMVgb9I4oYqvYJ80X5i_Nnlj_efYjcgvR-aEFIn2iLHkWHo=w600
 album: https://photos.app.goo.gl/moa62mS82h57saYq8
+draft: true
 ---
 
 Le Mentos, notre carrosse, a roulé sur un os... Ou plutôt une vis... La crevaison est le mal le plus courant des routes en gravier australiennes. D'ailleurs, il est conseillé de voyager non pas avec une, mais bien deux roues de secours... Heureusement, on a crevé un pneu plat (faux contact) en plein centre ville de Derby et on venait de constater que les pneus étaient usés à la corde... En attendant que les nouveaux pneus arrivent de Perth, on explore la petite ville de Derby, célèbre pour ses boabs (de lointains cousins aux baobabs africains), ses crocodiles (qu'on n'a pas vu) et ses artistes Aborigènes.
