@@ -13,12 +13,12 @@ Nouvellement chaussé, on s'enfonce dans le bush vers Windjana Gorge. Les Corses
 
 {{< figure src="https://lh3.googleusercontent.com/Fn_3zNwt5jjn2laN73HbpEET60k30VQy-Pjr5pGIOD0R7Tm-eG4rMOidzSVsCJcjFohyuQ85MnrZ_-T7is05YmdfUS-HCxVmTeZcHJV4BVltcmfy_Ey6mPhEpP4gX1zQhliRe4Nhm0U=w600" title="Windjana Gorge" >}}
 
-<div style="width:100%;height:480px;background-color:black;text-align:center;">
+<figure style="width:100%;height:480px;background-color:black;text-align:center;">
   <video style="height:100%;" controls>
     <source src="https://lh3.googleusercontent.com/iriy4M37smzhS1APbGvn_EnMNpU7NvtQzuypXkG5Hehxtx7V27LzfZE3eCZpjvU4ljCe40M9kMndI-X7blV5MS0avVRy6kyDR04Qlxr-TDdPX4l2yBxy4NCvT2NArXkk2ad05tn54Tc=m18" type="video/mp4">
   </video>
-  <p>Chauve-souris ayant trop chaud</p>
-</div>
+  <figcaption>Chauve-souris ayant trop chaud</figcaption>
+</figure>
 
 Les grottes, ça nous botte! Andy, notre guide aborigène, nous fait visiter celles qui ont hébergé sa tribu depuis au moins 35 000 ans. Avant de se lancer dans un solo de guitare, il nous raconte aussi la légende du lézard bleu qui a façonné la région. Le saviez-vous?! Selon la coutume locale, un homme n'est pas sensé adresser la parole à belle-maman et doit passer par son épouse s'il veut lui demander quelque chose ou lui offrir un cadeau. Le pourquoi du comment s'est perdu dans les méandres de l'Histoire. 
 
