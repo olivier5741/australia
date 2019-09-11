@@ -37,7 +37,7 @@ Au nord de Karratha, outre l'immense complexe gazier qui remplit les poches de l
 
 Dernier crochet hors des sentiers battus, Millstream National Park offre tout le confort d'un spa : des sources, un (très très) grand bassin naturel et des retraités en quête d'aventures. La balade de 16km sur la trace des chameliers et plonger dans Python Pool à mi-chemin à de quoi se démarquer du spa classique.
 
-{{< figure src="https://lh3.googleusercontent.com/num6G-kIs-Z4akMvdamClPS9jXqMDm0TeUCJDCW_ovLsH08-aRI4avo3CCDEJB-e3sJFhOAROO8FippIqw5zxLHVtg5PTrXEE9sMlLuI3VdP1ICaut_oMb2pZJQEpEf77RMvFMocYygU=w600" title="Millstream National Park" >}}
+{{< figure src="https://lh3.googleusercontent.com/-fI5ljrJCXXFayxxVCFcqbbKXtRhRGNb1tzdpM2e2HU67HSjUnjHyjmlpEl5B1C8rZYIKfdVgK8JZmnAUkUHppNpacA0G9jeUN7lZE601mWQud662fYMaj725KNRYB6ujC61uvX29XA=w600" title="Millstream National Park" >}}
 
 Petit pincement au coeur au moment de retraverser le tropique du Capricorne, fini la chaleur de ces latitudes. Bon, ce n'est pas encore le cercle polaire, la mercure affiche dans les 30°C à Carey Downs, c'est presque un peu chaud pour travailler.
 
