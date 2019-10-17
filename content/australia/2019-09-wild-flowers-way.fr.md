@@ -3,7 +3,7 @@ title: L'autoroute des fleurs sauvages
 date: 2019-09-21
 image: https://lh3.googleusercontent.com/mG9dxQ3X_wYvugGZMDwlbUUbnY9QfcG0tEp1yrtuxSxhsOlv1ZBRE-O398OFJ9e1xtL4x0yyL7G5Cl7hzpEuC8mL9HvRz0p9LR7VCptB9PynjX5nnI_uzQ6kqqN7IOMTYvlBmjY-xWY=w600
 album: https://photos.app.goo.gl/vkk72kbrDvziwpHD7
-draft: false
+draft: true
 ---
 
 Encore quelques centaines de kilomètres de routes en graviers et nos roues atteignent le tarmac de l'autoroute. Les immenses étendues buissonnantes laissent définitivement place à d'immenses champs de céréales et de colza. La pression de mouche diminue drastiquement, le mercure aussi. On se croirait presque dans le Condroz si on fait abstraction des silos géant pour le stockage du grain.
