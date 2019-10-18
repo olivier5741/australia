@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://rokiwi.github.io/en/australia/2019-09-wild-flowers-way/</loc>
+    <lastmod>2019-09-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rokiwi.github.io/australia/2019-09-wild-flowers-way/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rokiwi.github.io/en/australia/2019-09-wild-flowers-way/"
+                />
+  </url>
+  
+  <url>
     <loc>https://rokiwi.github.io/en/australia/2019-09-carey-downs/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -574,7 +589,7 @@
   
   <url>
     <loc>https://rokiwi.github.io/en/australia/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -637,7 +652,7 @@
   
   <url>
     <loc>https://rokiwi.github.io/en/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
