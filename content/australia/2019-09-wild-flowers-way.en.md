@@ -6,19 +6,19 @@ image: https://lh3.googleusercontent.com/mG9dxQ3X_wYvugGZMDwlbUUbnY9QfcG0tEp1yrt
 album: https://photos.app.goo.gl/vkk72kbrDvziwpHD7
 ---
 
-Still a few hundred kilometers of gravel roads before our wheels reach the tarmac of the highway. The huge bushy expanses give way to endless fields of cereals and rapeseed. The fly pressure decreases drastically, mercury too. It's almost like being in the Condroz (Belgium region) if you ignore the giant silos for storing grain.
+Another few hundred kilometers of gravel roads before our wheels reach the tarmac of the highway. The vast bushy expanses give way to endless fields of cereals and canola. The fly pressure decreases drastically, mercury too. It's almost like being in the Condroz (Belgium region) if you ignore the giant silos for grain storage.
 
 {{< figure src="https://lh3.googleusercontent.com/8IC8Zckpcr3kkRca92w64T-4LtlCOM9w6NhtSNdh8IqDtmYpgtFUCuBWQJ90jsVrf5OWLXbxNVpFYCxtt5fm4y-8lX2PX9r0QQZFNVxxAuo9GBkIpwItmkthE0Bl5JcD9PYrYSV-QYg=w600" title="On the way to the ocean from Carey Downs." >}}
 
-{{< figure src="https://lh3.googleusercontent.com/IEC8lHOtaPqX6SoHCwfKQUVROxYV9o7YIS-nv3_V6ubBaC8WC3fBsObcSL1LqebMPn0nVZnDFmgER2TaY84_skckB01zAax3OIMc9X5F-HhKdAk6NK2GyknR4yOTbKaD32a29ag00sg=w600" title="Entrance of rocky Jingamia Cave and the huge silo in Three Springs." >}}
+{{< figure src="https://lh3.googleusercontent.com/IEC8lHOtaPqX6SoHCwfKQUVROxYV9o7YIS-nv3_V6ubBaC8WC3fBsObcSL1LqebMPn0nVZnDFmgER2TaY84_skckB01zAax3OIMc9X5F-HhKdAk6NK2GyknR4yOTbKaD32a29ag00sg=w600" title="Rocky entrance of Jingamia Cave and the huge silo in Three Springs." >}}
 
 {{< figure src="https://lh3.googleusercontent.com/NgwKnNaFJJjmiGiH_LAvM3kXt-YJXNEctaFbrpBtKXrVsAvwqgWh3_4fxOLh9npojc0aGjX8ZqoJQFe_40meAmSh-U-uSl49UrbU0YJoABu9GjE45xvN-0EpVXNHU-hHUYdpPm_4ppY=w600" title="The Spanish-style church and gargoyle in Mullewa." >}}
 
-{{< figure src="https://lh3.googleusercontent.com/r5xcvWsVWb3Z9kVY5dZK9IwHKaknzMi5HtpMgbPsl_FSprXPIM3TYJzsjRuXj0vzjjCDuXjjaPF8BmyCRE8pMg_qg5VMPDQ0FNRlQJyhB_HJsEOVK-sCKtST5qPed7ymReoArpNBjrI=w600" title="Northampton and his little sheep." >}}
+{{< figure src="https://lh3.googleusercontent.com/r5xcvWsVWb3Z9kVY5dZK9IwHKaknzMi5HtpMgbPsl_FSprXPIM3TYJzsjRuXj0vzjjCDuXjjaPF8BmyCRE8pMg_qg5VMPDQ0FNRlQJyhB_HJsEOVK-sCKtST5qPed7ymReoArpNBjrI=w600" title="Northampton and its flock of sheep." >}}
 
-Field crops are not the main attraction of the region. It's spring and the recent rains have stimulated the flowering of many wild flowers along the roads. Carpet of daisies, orchids, carnivorous plants and other botanical curiosities. We went bananas in terms of macro pictures of flowers! See for yourself ...
+Crops are not the main attraction of the region. It's spring and the recent rains have triggered the flowering of many wild flowers along the roads. Carpet of daisies, orchids, carnivorous plants and other botanical curiosities. We went bananas in terms of macro pictures of flowers! See for yourself ...
 
-{{< figure src="https://lh3.googleusercontent.com/kgTLTzMPpl89qerk8Y-PW7N2-46oXvrBzge9zh_nwHsFNLI6AMnUXWi-R1mYEZhcqenwBMD9Hl5rsd4hlvHiQDnn7ccdVYXnh8AGNDbC-Zs9-XH2nUBtD060M7dsZURDLtHb4AO9ttE=w600" title="Mallow." >}}
+{{< figure src="https://lh3.googleusercontent.com/kgTLTzMPpl89qerk8Y-PW7N2-46oXvrBzge9zh_nwHsFNLI6AMnUXWi-R1mYEZhcqenwBMD9Hl5rsd4hlvHiQDnn7ccdVYXnh8AGNDbC-Zs9-XH2nUBtD060M7dsZURDLtHb4AO9ttE=w600" title="Purple." >}}
 
 {{< figure src="https://lh3.googleusercontent.com/1iAohsiYlXqpzX9OjiHAXmNjVAJ9cKfHr-Eqvz7Idf6J3LhKLQe9EfK-OgY08j_D3etSDG5cC6yMYN-pVfolquiT1Y8IwoquSx9Nkd2yZ1auZG058szhSWcZ9b8dQo6uo0U--5yRzJQ=w600" title="White." >}}
 
@@ -32,13 +32,13 @@ Field crops are not the main attraction of the region. It's spring and the recen
 
 {{< figure src="https://lh3.googleusercontent.com/edU_zypRkVI3ocnyKLO5tiEzeKMC8RBM1mCnbdVR9Z5TGR3tG7e-Rr8Jx73o6frYWLsbigF33sjI1Jt0ZCMis8t-I0H9KBA_hDhk5MCxYXOzY544gTnisJYai_c5OPJQ39QyB9XfWUY=w600" title="Yellow." >}}
 
-Back in civilization, we punctuate our route of historical, bucolic and cultural stops. In New Norcia, the only monastic city in Australia, we tried local beer brewed by the community and real bread !
+Back in the civilisation, we punctuate our route with historical, bucolic and cultural stops. In New Norcia, the only monastic city in Australia, we tried local beer brewed by the community and real bread !
 
 {{< figure src="https://lh3.googleusercontent.com/QdjOQROuzuJwVLScu_d07gUo69jTqWZcEpIlHnNczDCT98kC-g5SK9IFYKoGLU-_W0oojR-6GmUHOLf7sPGEzM4dhg2fgL_2lBVZjPPy9yUEogadlyQgcP0y2OAysJeH2eEbPUgjgs0=w600" title="The monastic town of New Norcia." >}}
 
-{{< figure src="https://lh3.googleusercontent.com/nRLhaIrCh30ql2tvVMYKRXSNgwt7ghlrSt35mx89cBpvQ99geEr_93AzMHA9DVnrY2ZvNpD8PTFAG2sBU4zR2k9sHLZEiHqI-uiWN5buXglUvQxS_oosYwTum4dBjny3q9Q25eMp8yk=w600" title="Toodyay and its mill. A giant ant obsessed with a big toe." >}}
+{{< figure src="https://lh3.googleusercontent.com/nRLhaIrCh30ql2tvVMYKRXSNgwt7ghlrSt35mx89cBpvQ99geEr_93AzMHA9DVnrY2ZvNpD8PTFAG2sBU4zR2k9sHLZEiHqI-uiWN5buXglUvQxS_oosYwTum4dBjny3q9Q25eMp8yk=w600" title="Toodyay and its mill. A giant ant obsessed by a big toe." >}}
 
-The Perth Hills, hills around Perth, are full of national parks. Already in 1900, people took the Perth train to join John Forest National Park and enjoy a Sunday picnic. The iron horse has now fallen into disuse although this green getaway is still popular. The regular passage of planes reminds us that the city is not far away.
+The Perth Hills are full of national parks. Already in 1900, people took the Perth train to join John Forest National Park and enjoy a Sunday picnic. The iron horse has now fallen into disuse although this green getaway is still popular. The regular passage of planes reminds us that the city is not far away.
 
 Our camping meetings are more 'exotic': we swap the Australian pensioners for young Italians. Countrymen in the soul, the suburbs of Perth seduce us only for a few days, we take leave of the townspeople to rejoin the county.
 
