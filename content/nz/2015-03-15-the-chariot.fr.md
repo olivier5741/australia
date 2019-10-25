@@ -17,13 +17,13 @@ Côté véhicule : la chariotte n'est pas très récente et consomme presque 9L 
 
 Côté maison, à l'achat : 7 sièges, un peu de matériel de camping de basse qualité et vraiment pas beaucoup de place pour nos affaires. 3 petites plaques en bois (MDF) recouvrent les sièges arrières repliés pour former un sommier, un peu bancal, sur lequel reposent 2 matelas qui forment notre lit "douillet". Certes, "il en faut peu pour être heureux" mais il y a des limites à tout. On est quand même parti pour vivre un an dedans, on a donc décidé d'améliorer la chariotte. 
 
-{{< figure src="http://lh6.ggpht.com/-EGXgHAlUtUg/VR5aqanWTyI/AAAAAAAAD2c/EfGz4BmfNWw/s1280/upload_-1.jpg" caption="" >}}
+![](http://lh6.ggpht.com/-EGXgHAlUtUg/VR5aqanWTyI/AAAAAAAAD2c/EfGz4BmfNWw/s1280/upload_-1.jpg "")
 
-{{< figure src="http://lh5.ggpht.com/-hge3oBJKtZY/VR5atbh1TwI/AAAAAAAAD2c/DoGse9--Lxg/s1280/upload_-1.jpg" caption="" >}}
+![](http://lh5.ggpht.com/-hge3oBJKtZY/VR5atbh1TwI/AAAAAAAAD2c/DoGse9--Lxg/s1280/upload_-1.jpg "")
 
 Pimp my chariot ! Comme quelques photos valent mieux qu'un long discours, voici le résultat de nombreuses heures de réflexion et quelques heures de bricolage...
 
-{{< figure src="http://lh3.ggpht.com/-p5PNuZX6JDw/VR5awXjXOAI/AAAAAAAAD2c/XcVBzSla7_Q/s1280/upload_-1.jpg" caption="" >}}
+![](http://lh3.ggpht.com/-p5PNuZX6JDw/VR5awXjXOAI/AAAAAAAAD2c/XcVBzSla7_Q/s1280/upload_-1.jpg "")
 
 <figure>
 <iframe src="https://docs.google.com/file/d/0BzIZ3dfuz-CEU0RhbURYYWtvMU0/preview" width="640" height="480"></iframe>
