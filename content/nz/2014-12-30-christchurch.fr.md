@@ -7,7 +7,7 @@ album: https://photos.app.goo.gl/t2X6PLNra64R12Aq9
 ---
 Située à cheval sur la ceinture de Feu du Pacifique, Christchurch est fréquemment secouée par des tremblements terre (4,7 sur l'échelle de Richter ce 24 décembre). En 2010, une secousse particulièrement violente a mis par terre une grosse partie de la ville et ses environs. Sa reconstruction en fait aujourd'hui un petit "paradis" pour architectes et autres métiers du bâtiment.
 
-{{< figure src="http://lh4.ggpht.com/-evlqFskmb_M/VPF3-5kj90I/AAAAAAAACLY/HS7ZiCguNGc/s1280/upload_-1.jpg " >}}
+![](http://lh4.ggpht.com/-evlqFskmb_M/VPF3-5kj90I/AAAAAAAACLY/HS7ZiCguNGc/s1280/upload_-1.jpg)
 
 ![](http://lh3.ggpht.com/-mB07-pNa4GY/VPF4EZio18I/AAAAAAAACLo/kjyzLOGhx1o/s1280/upload_-1.jpg  "Reconstruction")
 

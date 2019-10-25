@@ -48,7 +48,7 @@ Like everybody we wanted to visit Fiordland and its famous Milford sound. We dro
 
 * The most touristic road of Fiordland : *Milford Highway*
 
-{{< figure src="http://lh6.ggpht.com/-BM1m04o30Vk/VPfBUorsBGI/AAAAAAAAC5k/X4fKU5gc4e4/s1280/upload_-1.jpg" caution="The Chasm and Key Summit hike" >}}
+![](http://lh6.ggpht.com/-BM1m04o30Vk/VPfBUorsBGI/AAAAAAAAC5k/X4fKU5gc4e4/s1280/upload_-1.jpg "The Chasm and Key Summit hike")
 
 ![](http://lh5.ggpht.com/-Xk13TKzreBc/VPfBR4aa2WI/AAAAAAAAC5c/vKmQSrNks5A/s1280/upload_-1.jpg "The Famous Milford Sound")
 

@@ -23,6 +23,6 @@ When we are not working on version 2 of the Mentos (mainly additional storage an
 
 ![](https://lh3.googleusercontent.com/3N40YpNvk686I9KrMBPPRndqXudZOm_0kjIHxt9jKXfij-aW6E4n_UsHnfS4DuNsROVgmLshe6qt4Zzfy8aMUA7ItJBkz9W-iC46uMvCvs-tTlZpY_jZJWiTSlN6lXAm-NOG7zTxwmk=w600 "Augusta and Cape Leeuwin during our free time")
 
-{{< figure src="https://lh3.googleusercontent.com/g_loCTNHyQ3qQjKY5Glb_5c_9T_Qcse-8QIXHSUNwE9c57wf9dfF4uYfbdZEthCM3VzPilfGPiv0PsTQRxgR7lq1PHI21zKKXPAcK8u3uQ-79Au_kW7NnI-PlHWLYcLZnFxcKoSUNE0=w600" title="Karri forest (an eucalyptus specie) in Boranup. Snorkeling at Granny's pool."  >}}
+![](https://lh3.googleusercontent.com/g_loCTNHyQ3qQjKY5Glb_5c_9T_Qcse-8QIXHSUNwE9c57wf9dfF4uYfbdZEthCM3VzPilfGPiv0PsTQRxgR7lq1PHI21zKKXPAcK8u3uQ-79Au_kW7NnI-PlHWLYcLZnFxcKoSUNE0=w600 "Karri forest (an eucalyptus specie) in Boranup. Snorkeling at Granny's pool.")
 
 PS: Our quest for work was not totally vein: we harvested Cabernet Sauvignon for two days in a Margaret River vineyard.

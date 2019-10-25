@@ -48,7 +48,7 @@ Passage obligatoire par le Fjordland pour remonter jusqu'au Milford Sound. On a 
 
 * La route la plus touristique du Fjordland : *Milford Highway*
 
-{{< figure src="http://lh6.ggpht.com/-BM1m04o30Vk/VPfBUorsBGI/AAAAAAAAC5k/X4fKU5gc4e4/s1280/upload_-1.jpg" caution="The Chasm et la rando Key Summit" >}}
+![](http://lh6.ggpht.com/-BM1m04o30Vk/VPfBUorsBGI/AAAAAAAAC5k/X4fKU5gc4e4/s1280/upload_-1.jpg "The Chasm et la rando Key Summit")
 
 ![](http://lh5.ggpht.com/-Xk13TKzreBc/VPfBR4aa2WI/AAAAAAAAC5c/vKmQSrNks5A/s1280/upload_-1.jpg "Le fameux Milford Sound")
 

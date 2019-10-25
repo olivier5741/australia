@@ -20,7 +20,7 @@ Lucky us, every 6 months the people of Perth put their bulky goods on the verge 
 
 It's time to take the grasp the nettle. Clearing the back part: we sell the cargo barrier, we give the shelves and tear the plastic. Then we go to the full cleaning. The common Australian seems to use a leaf blower to begin this step, according to the habits and customs of our host.
 
-{{< figure src="https://lh3.googleusercontent.com/Vzn4BfbKNC1yjjL0lAZCBsR8PB98y0xaWSJmXYBA0KSJX_GosMRHONz8HXKfNnKuRUR1M8OHbkvOQyEOttY7juxV5A6YQhFEVWlkXNEr1IMgwOZUfXFJl4ImaEYkGOOwTBE30JuMOQU=w600" title= "Above the before/after the clearing and cleaning. Below, the various purchases and discoveries : mattress from the giant Swedish and water barrels" >}}
+![](https://lh3.googleusercontent.com/Vzn4BfbKNC1yjjL0lAZCBsR8PB98y0xaWSJmXYBA0KSJX_GosMRHONz8HXKfNnKuRUR1M8OHbkvOQyEOttY7juxV5A6YQhFEVWlkXNEr1IMgwOZUfXFJl4ImaEYkGOOwTBE30JuMOQU=w600 "Above the before/after the clearing and cleaning. Below, the various purchases and discoveries : mattress from the giant Swedish and water barrels")
 
 Then follows a cycle (which can, at times of intense questioning, seem infinite) of reflection, measurement, cutting, and finally assembly (sometimes disassembly and then reassembly). Then do it again an again ... Circular saw when it's straight, bevel when it's curved. The curves of the car are rarely tamed at the first cut.
 
