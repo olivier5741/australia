@@ -7,23 +7,23 @@ album: "https://goo.gl/photos/SiNeEBKHSS9sb6948"
 
 What's happening? Wanting to try something else? After nine months of wwoofing, we switch from couch surfing last week to volunteering now! Sometimes you don't really see the difference: working time and number of meals offered vary. But, in the end, we can check off some "kiwi must-do" in a record time...
 
-![](https://lh3.googleusercontent.com/-2x7y660JiOA/Vibxz0pBiSI/AAAAAAAAJRg/eXAAS-8Ymuw/s912-Ic42/upload_-1.jpg "Views from Mimiwhangata peninsula")
+![Views from Mimiwhangata peninsula](https://lh3.googleusercontent.com/-2x7y660JiOA/Vibxz0pBiSI/AAAAAAAAJRg/eXAAS-8Ymuw/s912-Ic42/upload_-1.jpg)
 
 Mimiwhangata [pronounced MimiFangata, it's Maori], is very remote ( but we quite like lost places, without phone coverage or internet, half an hour away from any village). A double of Freddy Mercury welcomes us, Chris Moretti (descendant of Italian migrants) and his wife Nadeane and his youngest son, Ben, 11 years old. We're warned from the beginning: 'Here, it's a farm, you're not going to cuddle birds!' Like in a wwoofing, we help to prepare the veggie garden for the new season: weeding, compost and mulch. Ben offers to be our guide on his 300 hectares peninsula. On the agenda: hunting and fishing.
 
-![](https://lh3.googleusercontent.com/-ZTHX_5fFjso/VibyJgBay1I/AAAAAAAAJSY/5PP1Gr40sWQ/s912-Ic42/upload_-1.jpg "Jack, fluffy chooks and the veggie garden")
+![Jack, fluffy chooks and the veggie garden](https://lh3.googleusercontent.com/-ZTHX_5fFjso/VibyJgBay1I/AAAAAAAAJSY/5PP1Gr40sWQ/s912-Ic42/upload_-1.jpg)
 
-![](https://lh3.googleusercontent.com/-GnUcvNPeSNA/VibyAIgF5aI/AAAAAAAAJSA/9Uwu-loAFGg/s912-Ic42/upload_-1.jpg "Incidental meetings")
+![Incidental meetings](https://lh3.googleusercontent.com/-GnUcvNPeSNA/VibyAIgF5aI/AAAAAAAAJSA/9Uwu-loAFGg/s912-Ic42/upload_-1.jpg)
 
 Highlights :
 
 - **Sea fishing** : we didn't catch much but about twenty dolphins came to say hello three times, they like scratching themselves on the rocks from the bay. We also learn how to fish urchins with bare hands (beware of spines) and how to eat them straight away. To reach the fishing spot, you need to cross a series of paddocks, go over a hill and traipse on rocks, carrying all the fishing gear supervised by half a dozen of shag families. We come back home with two small but delicious mullets.
 
-![](https://lh3.googleusercontent.com/-x37IQWNwiMQ/Vibx9pRo0yI/AAAAAAAAJR4/_hm0U0crfC0/s912-Ic42/upload_-1.jpg " On our way to the fishing spot (the green picture at  the bottom is actually a trial to photograph exotic introduced parrots)")
+![ On our way to the fishing spot (the green picture at  the bottom is actually a trial to photograph exotic introduced parrots)](https://lh3.googleusercontent.com/-x37IQWNwiMQ/Vibx9pRo0yI/AAAAAAAAJR4/_hm0U0crfC0/s912-Ic42/upload_-1.jpg)
 
 - **River fishing** : we tease the eel hidden under a big rock in the river. The bait is a piece of sheep heart, previously cut.
 
-![](https://lh3.googleusercontent.com/-XSTbt3I5Afk/VibyDYOkd-I/AAAAAAAAJSI/boIJnbc7LLs/s912-Ic42/upload_-1.jpg "Fishing")
+![Fishing](https://lh3.googleusercontent.com/-XSTbt3I5Afk/VibyDYOkd-I/AAAAAAAAJSI/boIJnbc7LLs/s912-Ic42/upload_-1.jpg)
 
 - **Butchery learning exchange** : we're taught how to skin and butcher (do you remember your biology lessons?) a sheep. We're not very good but Jack, the dog, isn't too fussy.
 
@@ -31,13 +31,13 @@ Highlights :
 
 - **Rabbit hunting** : Ben hunts rabbits with a riffle but also with a bow and arrows. They are as invasive as possums but, when he found a cute baby bunny rabbit, he nurtured it.
 
-![](https://lh3.googleusercontent.com/-oslKArtl6vE/VibyGpJ2jfI/AAAAAAAAJSQ/yO0_9UwsgaM/s912-Ic42/upload_-1.jpg "'Possum plucking, bunny rabbit and the company car")
+!['Possum plucking, bunny rabbit and the company car](https://lh3.googleusercontent.com/-oslKArtl6vE/VibyGpJ2jfI/AAAAAAAAJSQ/yO0_9UwsgaM/s912-Ic42/upload_-1.jpg)
 
 The topography of the farm is quite steep so it's easier to spread fertilisers with a plane. The pilot could be from the RAF: take-off and landing from the top of the hill and refill in 2'; then surgical strike. In a few hours, about fifty tonnes of Superphosphate are spread on the hills. It's what we can call efficiency isn't it?!
 
 {{< video src="https://drive.google.com/file/d/0BzIZ3dfuz-CEZ0FNMnlza1UzSjg/preview" caption="Refill in real time" >}}
 
-![](https://lh3.googleusercontent.com/-zqT9y5zp6KI/VibySq6v-JI/AAAAAAAAJSw/JGTDYLroXRU/s912-Ic42/upload_-1.jpg "Superphosphate spreading and the fuel-refill truck")
+![Superphosphate spreading and the fuel-refill truck](https://lh3.googleusercontent.com/-zqT9y5zp6KI/VibySq6v-JI/AAAAAAAAJSw/JGTDYLroXRU/s912-Ic42/upload_-1.jpg)
 
 Other "must-do" accomplished :
 
@@ -45,7 +45,7 @@ Other "must-do" accomplished :
 
 {{< video src="https://drive.google.com/file/d/0BzIZ3dfuz-CEYXRuTkMwZzBuNlE/preview" caption="Sheep shearing" >}}
 
-![](https://lh3.googleusercontent.com/-FhwjWacsHDQ/VibyQBd1zPI/AAAAAAAAJSo/RudCCC_AwfY/s912-Ic42/upload_-1.jpg "Shearing shed, sheep and shearer")
+![Shearing shed, sheep and shearer](https://lh3.googleusercontent.com/-FhwjWacsHDQ/VibyQBd1zPI/AAAAAAAAJSo/RudCCC_AwfY/s912-Ic42/upload_-1.jpg)
 
 - **In the skin of a DOC Ranger** : driving the company vehicle on the hills but also washing it and the camping toilets :)
 
@@ -53,11 +53,11 @@ Other "must-do" accomplished :
 
 - **Country golf** with Ben in the paddock next to the house. We learn how to improve our swing by aiming holes dug by excited bulls. By the way, when we help to move these bulls, we could notice their strength. They can jump a fence as easily as a goat, but without the grace.
 
-![](https://lh3.googleusercontent.com/-X4oCVJUHn94/Vibx5iAsS2I/AAAAAAAAJRw/vBd92ilTup0/s912-Ic42/upload_-1.jpg "During our free time...")
+![During our free time...](https://lh3.googleusercontent.com/-X4oCVJUHn94/Vibx5iAsS2I/AAAAAAAAJRw/vBd92ilTup0/s912-Ic42/upload_-1.jpg)
 
-![](https://lh3.googleusercontent.com/-bqdshv5AiPw/Vibx26qAiJI/AAAAAAAAJRo/3EtCdzAz-Us/s912-Ic42/upload_-1.jpg "...we enjoy...")
+![...we enjoy...](https://lh3.googleusercontent.com/-bqdshv5AiPw/Vibx26qAiJI/AAAAAAAAJRo/3EtCdzAz-Us/s912-Ic42/upload_-1.jpg)
 
-![](https://lh3.googleusercontent.com/-sf6k2oUHUpc/VibyNIxth9I/AAAAAAAAJSg/-ZvfpvLGhYg/s912-Ic42/upload_-1.jpg "... and we even played with a jigsaw")
+![... and we even played with a jigsaw](https://lh3.googleusercontent.com/-sf6k2oUHUpc/VibyNIxth9I/AAAAAAAAJSg/-ZvfpvLGhYg/s912-Ic42/upload_-1.jpg)
 
 The end is getting closer, only 250kms from Cape Reinga, Rerenga Wairua where the souls of the dead are leaving for another world in Maori belief.
 

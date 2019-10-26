@@ -9,11 +9,11 @@ After 6 long days spent weeding Shaun's vegetables, we're on the road again to t
 
 Kaka point and Nugget Point. Amongst our favourites, a seal colony, the lighthouse and the mighty view upon a circle of rocky peaks.
 
-![](http://lh4.ggpht.com/-V8K9i2FHnIM/VO_UOUjLQII/AAAAAAAACJM/EGory-EPBTw/s1280/upload_-1.jpg  "Nuggets Point")
+![Nuggets Point](http://lh4.ggpht.com/-V8K9i2FHnIM/VO_UOUjLQII/AAAAAAAACJM/EGory-EPBTw/s1280/upload_-1.jpg )
 
 Next on the list : Jacks Bay and the Blowhole ( 50 meter deep hole where you can admire the waves coming a hundred meter inside the lands).
 
-![](http://lh6.ggpht.com/-7AfadZj3DqA/VOjV_Khh6nI/AAAAAAAACHU/BR18gNc8v88/s1280/upload_-1.jpg  "Jacks Bay")
+![Jacks Bay](http://lh6.ggpht.com/-7AfadZj3DqA/VOjV_Khh6nI/AAAAAAAACHU/BR18gNc8v88/s1280/upload_-1.jpg )
 
 <figure>
 <iframe src="https://docs.google.com/file/d/0BzIZ3dfuz-CEWTk5UHpnSVhYWDg/preview" width="640" height="480"></iframe>
@@ -24,16 +24,16 @@ Jack's hole
 
 The most pictured falls in NZ, Purakanui Falls, was our last place to cross off the list before having the opportunity to sleep under the stars of Purakanui Bay campsite.
 
-![](http://lh5.ggpht.com/-lncfnlAPF-o/VOjWMt3icQI/AAAAAAAACHo/jKSynFPZ8JI/s1280/upload_-1.jpg  "Purakaunui Falls")
+![Purakaunui Falls](http://lh5.ggpht.com/-lncfnlAPF-o/VOjWMt3icQI/AAAAAAAACHo/jKSynFPZ8JI/s1280/upload_-1.jpg )
 
-![](http://lh5.ggpht.com/-kuL-6qmRM-w/VOjWDWe_XCI/AAAAAAAACHc/HxQrsOyNEDQ/s1280/upload_-1.jpg  "Purakaunui Bay in the evening")
+![Purakaunui Bay in the evening](http://lh5.ggpht.com/-kuL-6qmRM-w/VOjWDWe_XCI/AAAAAAAACHc/HxQrsOyNEDQ/s1280/upload_-1.jpg )
 
-![](http://lh4.ggpht.com/-ki4g-W4y8OA/VOjWQv6pMII/AAAAAAAACHw/j0cVckfgKM0/s1280/upload_-1.jpg  "Purakaunui Bay in the morning")
+![Purakaunui Bay in the morning](http://lh4.ggpht.com/-ki4g-W4y8OA/VOjWQv6pMII/AAAAAAAACHw/j0cVckfgKM0/s1280/upload_-1.jpg )
 
 Sunday the 8th of February, heavy traffic on the road : our chariot has to find its way through a herd of sheep to reach the Matai Falls. Last walk in Tahakopa, Possumers Track, before driving to Pukemaori where Andrew an Deborah are expecting us as their next wwoofers.
 
-![](http://lh3.ggpht.com/-mdO-Xunuy5I/VOjWVzrjxTI/AAAAAAAACH4/oBckVwa7A1U/s1280/upload_-1.jpg  "Matai Falls")
+![Matai Falls](http://lh3.ggpht.com/-mdO-Xunuy5I/VOjWVzrjxTI/AAAAAAAACH4/oBckVwa7A1U/s1280/upload_-1.jpg )
 
-![](http://lh5.ggpht.com/-pPqZHT0Hvy0/VOjV7TaD4qI/AAAAAAAACHM/yAzHQRMbKgU/s1280/upload_-1.jpg  "Tahakopa Bay")
+![Tahakopa Bay](http://lh5.ggpht.com/-pPqZHT0Hvy0/VOjV7TaD4qI/AAAAAAAACHM/yAzHQRMbKgU/s1280/upload_-1.jpg )
 
-![](http://lh3.ggpht.com/-pSewvE-EtRs/VOjWaxR_wsI/AAAAAAAACIA/PIZdKgvCzjw/s1280/upload_-1.jpg  "Lake Wilkie")
+![Lake Wilkie](http://lh3.ggpht.com/-pSewvE-EtRs/VOjWaxR_wsI/AAAAAAAACIA/PIZdKgvCzjw/s1280/upload_-1.jpg )

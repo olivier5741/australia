@@ -9,7 +9,7 @@ What changed at Carey Downs in a month? Harry, Alys and family spend some time i
 
 The family also welcomes a new mascot ... Blacky is a little orphan cow very sweet who likes a good scratch. She is a gourmet and she needs a bottle twice a day and calls for it loudly at the kitchen door. Playful, she likes to chew clean laundry that dries on the line.
 
-![](https://lh3.googleusercontent.com/x8oQ7N63H8OLhAEpQXm11NXHSpIbAf0510VSc51-3xHb2i-CmyuXjxjEYyNFv6nsB-Q4cLRjsqVyQaCZalpp5_REsoeAz6Tk4DdPWYnXgV2DYbihlgofsEn-VZzDBhCXmLZVeRS429U=w600 "Full moon's rise, Blacky and Carry Downs inland whaling station :p (we cannot tell you why a whale fat boiler ended here)")
+![Full moon's rise, Blacky and Carry Downs inland whaling station :p (we cannot tell you why a whale fat boiler ended here)](https://lh3.googleusercontent.com/x8oQ7N63H8OLhAEpQXm11NXHSpIbAf0510VSc51-3xHb2i-CmyuXjxjEYyNFv6nsB-Q4cLRjsqVyQaCZalpp5_REsoeAz6Tk4DdPWYnXgV2DYbihlgofsEn-VZzDBhCXmLZVeRS429U=w600)
 
 Hop hop, at work. To get back in the saddle, nothing better than assembling about twenty chairs in kit provided by the famous Swedish furniture shop. While Rossana is refining her assembly line, Olivier is commissioned to build four sewing machine extension tables.
 
@@ -17,7 +17,7 @@ Alys plans to expand the capacity of Carey Downs bedding and thus its fleet of d
 
 Two days later, the transition is done and the flying magnetic soil study team can move in there. In short, it is still mining exploration but with even more resources: a plane mounted with a magnetic sonar.
 
-![](https://lh3.googleusercontent.com/HRmBLsKkxL3ArTOio1WkUAnKkJljOyCvceZ1Q1IljdJjUAYePZnSnzcOdshdWzuPTLMM6QfYyBNoU9YVA5OrlT8_NHffb__7xbV8azVBmhgSYehLrD_crhMj4NIusKfOADe5_xzIbP0=w600 "Visitors of Carey Downs and the windmill we helped move")
+![Visitors of Carey Downs and the windmill we helped move](https://lh3.googleusercontent.com/HRmBLsKkxL3ArTOio1WkUAnKkJljOyCvceZ1Q1IljdJjUAYePZnSnzcOdshdWzuPTLMM6QfYyBNoU9YVA5OrlT8_NHffb__7xbV8azVBmhgSYehLrD_crhMj4NIusKfOADe5_xzIbP0=w600)
 
 The cows do not seem affected by the plane (unlike other stations where this big bird is used for mustering). We won't complain, we have to bring about fifty weaners for the imminent low stress stockmanship seminar.
 
@@ -26,6 +26,6 @@ Bruce, our coach, is the man for the job! After a theoretical talk, we go to pra
 The second thing is to lead them. Thanks to your position and your posture, you send "pressure waves" where you don't want them. Pointing your finger insistently to the eye of a cow, you make her turn around. While performing some magic tricks, 
 keep basic safety in mind. When you pressure a big bull of 800kg in the eye, it is always interesting to be close to the fence to evacuate quickly if necessary. Fortunately, he was nice since he had been walked for a day and was at ease. Everything works so well that Harry can now do his mustering almost alone, a piece of cake.
 
-![](https://lh3.googleusercontent.com/rumfhpUHFVZczMd4u2ouAuxaedkAVZkatkwL0Z9x38Loi5dpk6IEOYl8z0SYVUjJNUvHr6kD6gIzSH64WDOlBrQSGNjJStGnwg4N8BGAfRzWbsrxaB0gCnS9w16aDRw16shM4WpqEws=w600 "Cows becoming zen and walking them through the yards")
+![Cows becoming zen and walking them through the yards](https://lh3.googleusercontent.com/rumfhpUHFVZczMd4u2ouAuxaedkAVZkatkwL0Z9x38Loi5dpk6IEOYl8z0SYVUjJNUvHr6kD6gIzSH64WDOlBrQSGNjJStGnwg4N8BGAfRzWbsrxaB0gCnS9w16aDRw16shM4WpqEws=w600)
 
 We can tame cows but it is more difficult with time, it flies whatever happens. Let's meet the green pastures and forests of the south again.

@@ -11,28 +11,28 @@ Lundi matin, 8h, comme tout le monde, on va au travail... Nos particularités : 
 
 {{< video src="https://drive.google.com/file/d/0BzIZ3dfuz-CEVVVUUUdzaFpUSkE/preview" caption="En bref, notre job" >}}
 
-![](http://lh3.googleusercontent.com/-0c_MLDtSqi4/VYzuZd_dcGI/AAAAAAAAFrM/T2Nwsekb3ik/s1280/upload_-1.jpg "Taille d'hiver au vignoble")
+![Taille d'hiver au vignoble](http://lh3.googleusercontent.com/-0c_MLDtSqi4/VYzuZd_dcGI/AAAAAAAAFrM/T2Nwsekb3ik/s1280/upload_-1.jpg)
 
 16h fin de journée, on reprend la chariotte direction la bibliothèque. Pas pour louer un livre mais pour un logement :). Il paraîtrait qu'une des bibliothécaires, Susie, accueille de temps en temps des gens comme nous. Deux heures plus tard, on emprunte la longue allée qui mène à sa maison où on est accueilli par Jenn et Ron. Jenn est la vétérinaire taïwanaise qui loue aussi une chambre chez Susie et Ron est le vieux chien de berger de la maison. Un bon feu ronfle dans la cheminée, il fait lumineux et notre chambre est super confortable, le paradis quoi ! C'est dans ces excellentes conditions qu'on continue notre travail au vignoble. 
 
-![](http://lh3.googleusercontent.com/-mXRwpDYYcL8/VYzudtKtKHI/AAAAAAAAFrk/e_IUzGlxw80/s1280/upload_-1.jpg "La maison très victorienne de Susie")
+![La maison très victorienne de Susie](http://lh3.googleusercontent.com/-mXRwpDYYcL8/VYzudtKtKHI/AAAAAAAAFrk/e_IUzGlxw80/s1280/upload_-1.jpg)
 
-![](http://lh3.googleusercontent.com/-OoP45dT7DWI/VYzujtb0RWI/AAAAAAAAFsE/oSrsll4AVEE/s1280/upload_-1.jpg "Amberley Beach et Mount Grey")
+![Amberley Beach et Mount Grey](http://lh3.googleusercontent.com/-OoP45dT7DWI/VYzujtb0RWI/AAAAAAAAFsE/oSrsll4AVEE/s1280/upload_-1.jpg)
 
 On profite des week-ends pour aider Susie: rangement de ses différents garages (dont un servira de petit nid douillet à la chariotte) et granges, préparation de composts, vaccination des moutons, peinture et bricolage en tous genres. On pratique 'l'échange culturel alimentaire': Susie, qui est Anglaise, nous mijote d'excellents stews, Jenn nous initie à de nombreuses spécialités asiatiques (on vous conseille le hot pot) et on leur a cuisiné du gibier avec poires aux airelles et croquettes (de Belgique svp!). Ron, part contre, est végétarien :  le pauvre ami à développé une allergie à la viande, un comble pour un chien !
 
-![](http://lh3.googleusercontent.com/-0Qgc0NmTqV0/VYzus_59X7I/AAAAAAAAFs8/4jgOqnX6Y_A/s1280/upload_-1.jpg "Ron")
+![Ron](http://lh3.googleusercontent.com/-0Qgc0NmTqV0/VYzus_59X7I/AAAAAAAAFs8/4jgOqnX6Y_A/s1280/upload_-1.jpg)
 
-![](http://lh3.googleusercontent.com/-DzcigE65uHU/VYzuo6MnQkI/AAAAAAAAFsk/aCEN5gLh0FY/s1280/upload_-1.jpg "Amazon, une autre pensionnaire à Susie")
+![Amazon, une autre pensionnaire à Susie](http://lh3.googleusercontent.com/-DzcigE65uHU/VYzuo6MnQkI/AAAAAAAAFsk/aCEN5gLh0FY/s1280/upload_-1.jpg)
 
 Week-end spécial : on part à Kaikoura avec Ron (car Susie est en vacances à Wanaka) et Jenn, dans la maison de vacances de son patron (il nous a même proposé son bateau mais on ne sait pas naviguer :) ). 
 
-![](http://lh3.googleusercontent.com/-Fwm9UCtrYbY/VZ2wiOq9WLI/AAAAAAAAF5k/ssBNKXFCxdU/s1280/PhotoGrid_1436256539833.jpg "Kaikoura Beach")
+![Kaikoura Beach](http://lh3.googleusercontent.com/-Fwm9UCtrYbY/VZ2wiOq9WLI/AAAAAAAAF5k/ssBNKXFCxdU/s1280/PhotoGrid_1436256539833.jpg)
 
-![](http://lh3.googleusercontent.com/-rhGKFKrhrag/VZ2wiPGqOhI/AAAAAAAAF5Y/wrA0y9rvHc8/s1280/PhotoGrid_1436256800063.jpg "Sawcut Gorge, ou la balade aux 25 traversées de rivière (ça doit être vraiment super en été ;) )")
+![Sawcut Gorge, ou la balade aux 25 traversées de rivière (ça doit être vraiment super en été ;) )](http://lh3.googleusercontent.com/-rhGKFKrhrag/VZ2wiPGqOhI/AAAAAAAAF5Y/wrA0y9rvHc8/s1280/PhotoGrid_1436256800063.jpg)
 
 {{< video src="https://drive.google.com/file/d/0BzIZ3dfuz-CEbk1hNDEzTE02Zm8/preview" caption="Ron n'aime pas quand on croise d'autres véhicules sur la route" >}}
 
 Pimp my chariot - épisode 3: la cuisine. Nos petits gaz cookers bon marché ne sont même plus capables de faire bouillir de l'eau, il est temps d'investir ! Le nouveau modèle est entièrement en fonte et fonctionne avec une bonbonne de gaz. Le tout est dans un tiroir sur mesure qui s'ouvre à l'abri du coffre ouvert.
 
-![](http://lh3.googleusercontent.com/-4uiBBABowX4/VaCb_XhsVyI/AAAAAAAAF6s/eV6Xhajxt7c/s1280/PhotoGrid_1436569515374.jpg "Avant, après")
+![Avant, après](http://lh3.googleusercontent.com/-4uiBBABowX4/VaCb_XhsVyI/AAAAAAAAF6s/eV6Xhajxt7c/s1280/PhotoGrid_1436569515374.jpg)
