@@ -28,7 +28,7 @@ Parmi nos autres attributions, on s'occupe de Emerson. Il a bien grandi en notre
 
 ![Rosanna et Olivier (les veaux), Harry (Ha-Rikiki pour les intimes), ea. quand il rentrait encore dans la boîte et Emerson dans son véhicule de fonction](https://lh3.googleusercontent.com/TLJ4Hs8Rn-Zvp0NK4liENCBw-G4STRKRHFzBv1_j5ocC5KtoQS5PallTUVbNaSBG5CxMyiXQukQHI1yhvx433x7lH4463FCtQQi2ICjsqcto9ajyHDA9_iIDBcFKpHhZUQkvbv4H4Wg)
 
-Le printemps est en cours de route et on profite de quelques très belles journées pour aller à la plage. Que se soit après le marché avec Emerson et family (bien que ce dernier, terreur du bac à sable, a en fait peur des vagues) ou en amoureux à Two People's Bay avec ces eaux turquoises et son sable blanc ; l'océan a toujours quelque chose de magique.
+Le printemps est en cours de route et on profite de quelques très belles journées pour aller à la plage. Que ce soit après le marché avec Emerson et family (bien que ce dernier, terreur du bac à sable, a en fait peur des vagues) ou en amoureux à Two People's Bay avec ces eaux turquoises et son sable blanc ; l'océan a toujours quelque chose de magique.
 
 ![Two People's Bay et quelques curiosités de la ferme : Emma et ses deux énormes veaux (Batgirl en noir et Kenny) ainsi que Rupert, le buffle mascotte](https://lh3.googleusercontent.com/0ZgwzV-i7yoXzPiOFhfjUm-tAXkWOs2spD3N5cioMfhWaNhP7wcR11Q7uVmreihb5662NgA_JdrFcyozTZRwnsTjffYrCWWRMeSjwv5jVdr3NPiCXi6dy8G5PUQ6RZWJ3yQrljY7QVo)
 
