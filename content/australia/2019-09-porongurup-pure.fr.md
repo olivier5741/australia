@@ -3,7 +3,7 @@ title: Porongurup Pure bis
 date: 2019-09-29
 image: https://lh3.googleusercontent.com/NZyMrOKQzgZLc0poRwffHW_fLFXmanjfd9V8gHvrBHKRWxDBW8QCoAFnDOv3AFiQhXklzQG1gWCbufthHLvYZW_5KYkK9cegHvjcP-HNGyfaEixhNKlFoc0nVX8MwL1lQHJAbK0XTk8=w600
 album: https://photos.app.goo.gl/JPUzdWhA799mKqSj8
-draft: false
+draft: true
 ---
 
 De la pluie, du vent, un ciel plombé, il fait froid (d'après les standards australiens), pas de doute, on est de retour dans les Porongurup ! Cette chaîne de blocs granitiques nous toise dès poltron minet quand on va traire d'abord les vaches puis les brebis. Après la traite, les veaux et les agneaux retrouvent leurs mamans et vont passer la journée au pré. En fin d'après-midi, les petits sont séparés pour qu'ils nous laissent un peu de lait le lendemain matin.
