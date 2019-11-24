@@ -12,11 +12,11 @@ De la pluie, du vent, un ciel plombé, il fait froid (d'après les standards aus
 
 Les pis défilent, tous différents. Les vaches sont placides : on installe la trayeuse et voilà :). De temps en temps, une nouvelle recrue chahute le reste du groupe et te félicite d'avoir mis la trayeuse par une bonne grosse bouse... Il faut être attentif, ce sont les risques du métier ! Il y a entre sept et neuf vaches à traire pour le moment et elles ont toutes leur petit nom...
 
-![Les neufs vaches](https://lh3.googleusercontent.com/OdF25_0_PgQ1mIHjMIkkVJFlVe6AuIP-es3GPWIsqy0vObD5adM7tHwWdrjU_z3vkR_TzTUdT1tedKC7QqDERp_1FaEXBMTpGAaCSPCtaJkPLA4h5XW2g7LoQ-o5pJHiuQHBnFjj3cE)
+![Les neuf vaches : Hope, Ginger Ninja, Big Red, Tuby, Halle, Princess Leia, Emma, Ginger Meg, Molly](https://lh3.googleusercontent.com/OdF25_0_PgQ1mIHjMIkkVJFlVe6AuIP-es3GPWIsqy0vObD5adM7tHwWdrjU_z3vkR_TzTUdT1tedKC7QqDERp_1FaEXBMTpGAaCSPCtaJkPLA4h5XW2g7LoQ-o5pJHiuQHBnFjj3cE)
 
 Les brebis sont plus "chatouilleuses" et demandent plus d'attention, leur pis étant souvent asymétrique. Certaines ouvrent les vannes et inondent le système de lait, d'autres ont besoin d'être convaincues par de petits massages. Après quelques six semaines de boulot, on en reconnaît certaines parmi les 76, grâce à leur arrière-train. Il y a Santa avec une barbe de père Noël sur le pis, Girafe très haute sur pattes, princesse et son derrière tout rose, castor avec son reste de queue dodu. 
 
-![Des moutons et autre](https://lh3.googleusercontent.com/iKQr0fBW6oPfgEFYzjgRqex_EnpX0C0o83cSvr1KJlGfwXmo-CTsl24Szr7Clj9wVu6ZXbMuA7AuDurVVumiyV6623sgPlC6g5HqNh6_Vu5SXPw9pAMH4ktYnLpJk2aufjf3UQhwdKs=w2400)
+![Des moutons, Harry (Rikiki pour les intimes) quand il rentrait encore dans la boîte et Emerson dans sa Rolls-Royce](https://lh3.googleusercontent.com/iKQr0fBW6oPfgEFYzjgRqex_EnpX0C0o83cSvr1KJlGfwXmo-CTsl24Szr7Clj9wVu6ZXbMuA7AuDurVVumiyV6623sgPlC6g5HqNh6_Vu5SXPw9pAMH4ktYnLpJk2aufjf3UQhwdKs)
 
 Que fait-on avec tout ce lait ? Du fromage bien sûr : du Brie et du Camembert, du feta, du fromage frais, du Cheddar, du Pecorino, du Manchego. Mais le lait est aussi vendu frais (celui de mouton est particulièrement recherché par les gens intolérants au lactose). On fabrique également du yaourt, du kéfir, des laits aromatisés, de la crème fraîche, du feta sous huile et du Boursin. Tout se fait artisanalement et cela nous occupe deux ou trois jours par semaine. Ces délicieux produits sont écoulés dans différents magasins et restaurants de la région et également vendus à l'incontournable rendez-vous hebdomadaire du marché fermier de Albany. On y trouve enfin du vrai pain :) !! Et tant d'autres délicieuses victuailles locales telles des asperges, des champignons, des avocats, ...
 
@@ -28,7 +28,7 @@ Parmi nos autres attributions, on s'occupe de Emerson. Il a bien grandi en notre
 
 Le printemps est en cours de route et on profite de quelques très belles journées pour aller à la plage. Que se soit après le marché avec Emerson et family (bien que ce dernier, terreur du bac à sable, a en fait peur des vagues) ou en amoureux à Two People's Bay avec ces eaux turquoises et son sable blanc ; l'océan a toujours quelque chose de magique.
 
-![Two People's Bay et autre](https://lh3.googleusercontent.com/0ZgwzV-i7yoXzPiOFhfjUm-tAXkWOs2spD3N5cioMfhWaNhP7wcR11Q7uVmreihb5662NgA_JdrFcyozTZRwnsTjffYrCWWRMeSjwv5jVdr3NPiCXi6dy8G5PUQ6RZWJ3yQrljY7QVo)
+![Two People's Bay et quelques curiosités de la ferme : Emma et ses deux énormes veaux (Batgirl en noir et Kenny) ainsi que Rupert, le buffle mascotte](https://lh3.googleusercontent.com/0ZgwzV-i7yoXzPiOFhfjUm-tAXkWOs2spD3N5cioMfhWaNhP7wcR11Q7uVmreihb5662NgA_JdrFcyozTZRwnsTjffYrCWWRMeSjwv5jVdr3NPiCXi6dy8G5PUQ6RZWJ3yQrljY7QVo)
 
 Petit crochet de quelques jours à Bunbury où on passe dire bonjour à nos co-volontaires de Carey Downs : Glenys et Rod, l'aventureux couple de 80 ans. C'est également le moment de dire au revoir pour de bon à la côte ouest : dernier coucher de soleil sur l'océan.   
 
