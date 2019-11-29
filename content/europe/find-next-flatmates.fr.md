@@ -1,7 +1,7 @@
 ---
 title: Maison avec jardin à Mont-Saint-Guibert
 date: 2018-10-25 06:01:56 +0000
-image: https://lh3.googleusercontent.com/Gr4KPvzn7KkZYSvvG8E5zH8tJg4wOoznTyYMpdE5sWW-rmdOnYK_i339BWZkqeO24-LmEtRB_8FjyRhsuTSB5euRmOEx2G8T6ZzCObXBP-FP0M08_cUuRtAA3QHLOgNX46NjsIMyPR0=w600
+image: https://lh3.googleusercontent.com/Gr4KPvzn7KkZYSvvG8E5zH8tJg4wOoznTyYMpdE5sWW-rmdOnYK_i339BWZkqeO24-LmEtRB_8FjyRhsuTSB5euRmOEx2G8T6ZzCObXBP-FP0M08_cUuRtAA3QHLOgNX46NjsIMyPR0
 album: https://photos.app.goo.gl/HmSk5UyiZf79HWyi9
 draft: true
 
@@ -20,7 +20,7 @@ La dynamique de coloc : notre coloc est une coloc qui vit et où l’accent est 
 
 La chambre : notre chambre fait environ 25m2. Très agréable, lumineuse avec un velux qui donne sur l’arrière de la maison avec une vue splendide sur le jardin et les campagnes vallonnées.
 
-![La chambre](https://lh3.googleusercontent.com/Gr4KPvzn7KkZYSvvG8E5zH8tJg4wOoznTyYMpdE5sWW-rmdOnYK_i339BWZkqeO24-LmEtRB_8FjyRhsuTSB5euRmOEx2G8T6ZzCObXBP-FP0M08_cUuRtAA3QHLOgNX46NjsIMyPR0=w600)
+![La chambre](https://lh3.googleusercontent.com/Gr4KPvzn7KkZYSvvG8E5zH8tJg4wOoznTyYMpdE5sWW-rmdOnYK_i339BWZkqeO24-LmEtRB_8FjyRhsuTSB5euRmOEx2G8T6ZzCObXBP-FP0M08_cUuRtAA3QHLOgNX46NjsIMyPR0)
 
 Le prix: Le loyer est fixé à 504€/mois (charges et internet compris) pour un couple (loyer moins élevé dans le cas d'une personne seule \[429€\], la répartition des coûts tenant compte aussi du nombre de personnes vivant dans la maison).
 

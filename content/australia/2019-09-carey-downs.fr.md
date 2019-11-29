@@ -1,7 +1,7 @@
 ---
 title: Carey Downs bis
 date: 2019-09-05
-image: https://lh3.googleusercontent.com/oWyAFEGk8LxGZQHcBrAaOwSndgmJfZ7gpJ8eHrJk_rMjvb2kJ1vHj60sMPeq6KlCyuULNE2M1L_9TVg6998ZmqLNIJBldT4J7ugcaaRI4THP54LNPChlLGVsB_Pea9wzfqt18zAOakA=w600
+image: https://lh3.googleusercontent.com/oWyAFEGk8LxGZQHcBrAaOwSndgmJfZ7gpJ8eHrJk_rMjvb2kJ1vHj60sMPeq6KlCyuULNE2M1L_9TVg6998ZmqLNIJBldT4J7ugcaaRI4THP54LNPChlLGVsB_Pea9wzfqt18zAOakA
 album: https://photos.app.goo.gl/MFxeS5xHwP8KHncr7
 ---
 
@@ -9,7 +9,7 @@ Qu'est ce qui a changé à Carey Downs en un mois? Harry, Alys et family passent
 
 La maisonnée accueille désormais une nouvelle mascotte... Blacky est une petite vache orpheline toute douce qui aime bien les gratouilles.  Gourmande, elle a besoin d'un biberon deux fois par jour et le réclame bruyamment à la porte de la cuisine. Jouette, elle aime mâchonner la lessive propre qui sèche sur le fil.
 
-![Lever de pleine lune, Blacky et un ancien chaudron pour faire fondre la graisse de baleine (ne nous demandez pas comment c'est arrivé là :) )](https://lh3.googleusercontent.com/x8oQ7N63H8OLhAEpQXm11NXHSpIbAf0510VSc51-3xHb2i-CmyuXjxjEYyNFv6nsB-Q4cLRjsqVyQaCZalpp5_REsoeAz6Tk4DdPWYnXgV2DYbihlgofsEn-VZzDBhCXmLZVeRS429U=w600)
+![Lever de pleine lune, Blacky et un ancien chaudron pour faire fondre la graisse de baleine (ne nous demandez pas comment c'est arrivé là :) )](https://lh3.googleusercontent.com/x8oQ7N63H8OLhAEpQXm11NXHSpIbAf0510VSc51-3xHb2i-CmyuXjxjEYyNFv6nsB-Q4cLRjsqVyQaCZalpp5_REsoeAz6Tk4DdPWYnXgV2DYbihlgofsEn-VZzDBhCXmLZVeRS429U)
 
 Hop hop, au travail. Pour se remettre en selle, rien de tel que d'assembler une vingtaine de chaises en kit du célèbre géant de l'ameublement suédois. Pendant que Rossana affine sa chaîne de montage, Olivier est chargé de mission construction de quatres tables d'extension de machine à coudre. 
 
@@ -17,7 +17,7 @@ Alys a comme projet d'agrandir la capacité d'accueil de Carey Downs et donc sa 
 
 Deux jours plus tard, la transition est opérée et l'équipe volante d'étude de sol par résonance magnétique peut y prendre ses quartiers. En bref, c'est toujours de l'exploration minière mais avec encore plus de moyens : un avion monté d'un sonar magnétique.
 
-![Visiteurs de Carey Downs et l'éolienne-pompe qu'on a aidé à déplacer](https://lh3.googleusercontent.com/HRmBLsKkxL3ArTOio1WkUAnKkJljOyCvceZ1Q1IljdJjUAYePZnSnzcOdshdWzuPTLMM6QfYyBNoU9YVA5OrlT8_NHffb__7xbV8azVBmhgSYehLrD_crhMj4NIusKfOADe5_xzIbP0=w600)
+![Visiteurs de Carey Downs et l'éolienne-pompe qu'on a aidé à déplacer](https://lh3.googleusercontent.com/HRmBLsKkxL3ArTOio1WkUAnKkJljOyCvceZ1Q1IljdJjUAYePZnSnzcOdshdWzuPTLMM6QfYyBNoU9YVA5OrlT8_NHffb__7xbV8azVBmhgSYehLrD_crhMj4NIusKfOADe5_xzIbP0)
 
 Les vaches ne semblent guère affectées par le survol de l'avion (à l'instar d'autres stations où ce gros oiseau est utilisé pour le rassemblement). Ce n'est pas plus mal car on doit en récupérer une cinquantaine pour l'imminent séminaire sur comment manipuler du bétail en induisant un minimum de stress.
 
@@ -25,6 +25,6 @@ Bruce, notre coach, est l'homme de la situation! Après quelques explications th
 
 Le second truc, c'est de les diriger. Grâce ta position et ta posture, tu envoies des "ondes de pression" où elles ne doivent pas aller. En pointant le doigt avec insistance vers l'oeil d'une vache, tu lui fais faire demi tour. Bon, dans tout ça, il ne faut pas oublier la sécurité des usagers. Quand tu "pressurises" un gros taureau de 800kg dans l'oeil, c'est toujours intéressant d'être le long des barrières pour évacuer rapidement si nécessaire. Heureusement, il était gentil car ça faisait une journée qu'on le manipulait / baissait son stress. Tout fonctionne tellement bien que Harry pourra faire son rassemblement annuel presque tout seul, les doigts dans le nez.
 
-![Vaches devenues zens et manipulations à travers les enclos](https://lh3.googleusercontent.com/rumfhpUHFVZczMd4u2ouAuxaedkAVZkatkwL0Z9x38Loi5dpk6IEOYl8z0SYVUjJNUvHr6kD6gIzSH64WDOlBrQSGNjJStGnwg4N8BGAfRzWbsrxaB0gCnS9w16aDRw16shM4WpqEws=w600)
+![Vaches devenues zens et manipulations à travers les enclos](https://lh3.googleusercontent.com/rumfhpUHFVZczMd4u2ouAuxaedkAVZkatkwL0Z9x38Loi5dpk6IEOYl8z0SYVUjJNUvHr6kD6gIzSH64WDOlBrQSGNjJStGnwg4N8BGAfRzWbsrxaB0gCnS9w16aDRw16shM4WpqEws)
 
 On peut dompter les vaches mais c'est plus difficile avec le temps, il file quoiqu'il arrive. On se "bush" d'ici pour retourner vers les verts pâturages et forêts du sud. 
