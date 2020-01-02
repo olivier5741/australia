@@ -21,7 +21,7 @@ Les progrès de Emerson sont constants : il s'exprime de plus en plus clairement
 
 Nos talents de bétonneurs sont arrivés aux oreilles de Hamish et Kylie, des amis de nos hôtes et nous voilà embauchés pour une petite journée à couler un mur dans leur jardin.
 
-On a aussi trouvé du travail chez une autre amie à Nic et Scottie qui a un verger d'avocats. Pendant dix jours, on devient cueilleur d'avocats professionnels. Armé d'un filet à avocats (un peu l'équivalent du filet à papillon) et d'un sac ventral pour entreposer notre butin, on grimpe dans les arbres pour cueillir tous les fruits. Ils sont encore durs comme des cailloux et mûriront dans l'entrepôt. L'ambiance est décontractée, nos "collègues" sont tout juste sortis de secondaire et notre chef d'équipe n'est pas beaucoup plus âgé. Quand il fait trop chaud, on a même droit à une pause "glaces" l'après midi.
+On a aussi trouvé du travail chez une autre amie à Nic et Scottie qui a un verger d'avocats. Pendant dix jours, on devient cueilleur d'avocats professionnel. Armé d'un filet à avocats (un peu l'équivalent du filet à papillon) et d'un sac ventral pour entreposer notre butin, on grimpe dans les arbres pour cueillir tous les fruits. Ils sont encore durs comme des cailloux et mûriront dans l'entrepôt. L'ambiance est décontractée, nos "collègues" sont tout juste sortis de secondaire et notre chef d'équipe n'est pas beaucoup plus âgé. Quand il fait trop chaud, on a même droit à une pause "glaces" l'après midi.
 
 ![La cueillette des avocats](https://lh3.googleusercontent.com/fLwPr5tYzblMmeRKOrHEnXLv-BINW3kncvdKULzCoam8fZJuxfFjTaw80BVzEpzgy6mdi5e1OjDxDdYiRS2n01YK7GtGI69C1SzfQ1JL-1I0ZjJzGioY0N9rovw6z4fLgCmr67g7gc8)
 
