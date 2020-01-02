@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://rokiwi.github.io/australia/2019-11-porongurup-pure-tris/</loc>
+    <lastmod>2019-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rokiwi.github.io/australia/2019-09-porongurup-pure/</loc>
     <lastmod>2019-09-29T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -15,11 +20,6 @@
                 hreflang="fr"
                 href="https://rokiwi.github.io/australia/2019-09-porongurup-pure/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://rokiwi.github.io/australia/2019-11-porongurup-pure-tris/</loc>
-    <lastmod>2019-09-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -654,7 +654,7 @@
   
   <url>
     <loc>https://rokiwi.github.io/australia/</loc>
-    <lastmod>2019-09-29T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -717,7 +717,7 @@
   
   <url>
     <loc>https://rokiwi.github.io/</loc>
-    <lastmod>2019-09-29T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
