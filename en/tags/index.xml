@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Rossana &amp; Olivier in ...</title>
+    <link>https://rokiwi.github.io/en/tags/</link>
+    <description>Recent content in Tags on Rossana &amp; Olivier in ...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-be</language>
+    <copyright>2018 Rossana &amp; Olivier in ... powered by Hugo and hosted on Github.</copyright>
+    
+	<atom:link href="https://rokiwi.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
