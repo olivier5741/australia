@@ -20,9 +20,9 @@ First stop, Bremer Bay.
 
 Fine white sand, crunching under your feet (because it is mainly composed of silica), turquoise water, a 4wd of fishermen standing out in the distance, we start a 20km walk at Point Ann. We leave the hustle and bustle (Australia scale) of Bremer Bay to explore Fitzgerald River National Park.
 
-![Fitzgerald River National Park East side, Point Ann at dusk] (https://lh3.googleusercontent.com/Q-zKNyDByH1RCQwC9SDxIFZM6WQFs_yzDgwTm7lVTtT2Gjp4YuMows-KxNLIb1KQwMWwCKoOyD2lZGspp7oyOCQJU75OWmu6XMXQHJVPIprh-Rm-NV-wvPrlNWi5w14kuYG55ev-HW4)
+![Fitzgerald River National Park East side, Point Ann] (https://lh3.googleusercontent.com/Q-zKNyDByH1RCQwC9SDxIFZM6WQFs_yzDgwTm7lVTtT2Gjp4YuMows-KxNLIb1KQwMWwCKoOyD2lZGspp7oyOCQJU75OWmu6XMXQHJVPIprh-Rm-NV-wvPrlNWi5w14kuYG55ev-HW4)
 
-![Fitzgerald River National Park East side, Point Ann](https://lh3.googleusercontent.com/onpzuyYTGbnjhKVWTSxJZph3Yn9ut2OdVF7p8umRmnj75MQDmKrKtpigW_xYTwFu4396HtVe7N8UnmmF1abgUlf1LSg49jWrTSmXlvY8r0pzXHwuMfppRtCwhULPU47STsigFoOtetw).
+![Fitzgerald River National Park East side, Point Ann at dusk](https://lh3.googleusercontent.com/onpzuyYTGbnjhKVWTSxJZph3Yn9ut2OdVF7p8umRmnj75MQDmKrKtpigW_xYTwFu4396HtVe7N8UnmmF1abgUlf1LSg49jWrTSmXlvY8r0pzXHwuMfppRtCwhULPU47STsigFoOtetw).
 
 We must also discover the other half of the park (no direct access between the two parts). We resume the road along the northern boundary of the park. On the way, Ravensthorpe, a small cereal village in the middle of nowhere (another one!), welcomes us with its huge decorated silos. Hopetoun is not very far away, we can once again see the ocean, its pristine beaches and the turquoise water behind the relaxed seaside town.
 
@@ -30,7 +30,7 @@ We must also discover the other half of the park (no direct access between the t
 
 We have a close look at all the plants, the park is world renowned for its incredible biodiversity. The emblem of the park is the royal hakea, a slender plant 2m high with degraded foliage ranging from green to red and yellow. Who says beach, also says swimming, splashing in the waves, reading and sun bathing ...
 
-![Waves breaking on the south coast. Ascension of East Mount Barren](https://lh3.googleusercontent.com/i6I6wGvp-aDiknCgNO-SO4eHwExRftNSTH9kZVkuXNhjIylEnD8mbAmUH_qio8F2PB8nwKeFvRFUmRI4qd2TN-BB87LHf-1a1OPv5xCiWRk7NioLSlSAcddn1FJG0FyM1KRbHU_YxWA)
+![Waves breaking on the south coastal. Ascension of East Mount Barren](https://lh3.googleusercontent.com/i6I6wGvp-aDiknCgNO-SO4eHwExRftNSTH9kZVkuXNhjIylEnD8mbAmUH_qio8F2PB8nwKeFvRFUmRI4qd2TN-BB87LHf-1a1OPv5xCiWRk7NioLSlSAcddn1FJG0FyM1KRbHU_YxWA)
 
 Thanks to Jodie and Darryl, we visit their friend Lisa in Hopetoun. Epic moment: we are invited to have tea at Lisa's house, who we do not yet know and, at the same time, we have an appointment with our future Workaway host, Jurg, passing through town. We finally end up all four of us, sitting on Lisa's terrace, sipping tea and enjoying a delicious homemade cake.
 
