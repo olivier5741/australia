@@ -22,7 +22,7 @@ Fine white sand, crunching under your feet (because it is mainly composed of sil
 
 ![Fitzgerald River National Park East side, Point Ann] (https://lh3.googleusercontent.com/Q-zKNyDByH1RCQwC9SDxIFZM6WQFs_yzDgwTm7lVTtT2Gjp4YuMows-KxNLIb1KQwMWwCKoOyD2lZGspp7oyOCQJU75OWmu6XMXQHJVPIprh-Rm-NV-wvPrlNWi5w14kuYG55ev-HW4)
 
-![Fitzgerald River National Park East side, Point Ann at dusk](https://lh3.googleusercontent.com/onpzuyYTGbnjhKVWTSxJZph3Yn9ut2OdVF7p8umRmnj75MQDmKrKtpigW_xYTwFu4396HtVe7N8UnmmF1abgUlf1LSg49jWrTSmXlvY8r0pzXHwuMfppRtCwhULPU47STsigFoOtetw).
+![Fitzgerald River National Park East side, Point Ann at dusk](https://lh3.googleusercontent.com/onpzuyYTGbnjhKVWTSxJZph3Yn9ut2OdVF7p8umRmnj75MQDmKrKtpigW_xYTwFu4396HtVe7N8UnmmF1abgUlf1LSg49jWrTSmXlvY8r0pzXHwuMfppRtCwhULPU47STsigFoOtetw)
 
 We must also discover the other half of the park (no direct access between the two parts). We resume the road along the northern boundary of the park. On the way, Ravensthorpe, a small cereal village in the middle of nowhere (another one!), welcomes us with its huge decorated silos. Hopetoun is not very far away, we can once again see the ocean, its pristine beaches and the turquoise water behind the relaxed seaside town.
 
