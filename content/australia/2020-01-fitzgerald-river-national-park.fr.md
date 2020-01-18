@@ -21,9 +21,9 @@ Première escale, Bremer Bay.
 
 Du sable fin et blanc, crissant sous les pieds (car il est composé essentiellement de silice), une eau turquoise, un 4x4 de pêcheurs se distinguant au loin, on débute une balade 20km à Point Ann. On a laissé l'agitation (toute relative) de Bremer Bay pour  s'infiltrer dans le parc national de Fitzgerald River.
 
-![Fitzgerald River National Park côté Est, Point Ann au coucher](https://lh3.googleusercontent.com/Q-zKNyDByH1RCQwC9SDxIFZM6WQFs_yzDgwTm7lVTtT2Gjp4YuMows-KxNLIb1KQwMWwCKoOyD2lZGspp7oyOCQJU75OWmu6XMXQHJVPIprh-Rm-NV-wvPrlNWi5w14kuYG55ev-HW4)
+![Fitzgerald River National Park côté Est, Point Ann](https://lh3.googleusercontent.com/Q-zKNyDByH1RCQwC9SDxIFZM6WQFs_yzDgwTm7lVTtT2Gjp4YuMows-KxNLIb1KQwMWwCKoOyD2lZGspp7oyOCQJU75OWmu6XMXQHJVPIprh-Rm-NV-wvPrlNWi5w14kuYG55ev-HW4)
 
-![Fitzgerald River National Park côté Est, Point Ann](https://lh3.googleusercontent.com/onpzuyYTGbnjhKVWTSxJZph3Yn9ut2OdVF7p8umRmnj75MQDmKrKtpigW_xYTwFu4396HtVe7N8UnmmF1abgUlf1LSg49jWrTSmXlvY8r0pzXHwuMfppRtCwhULPU47STsigFoOtetw)
+![Fitzgerald River National Park côté Est, Point Ann au coucher](https://lh3.googleusercontent.com/onpzuyYTGbnjhKVWTSxJZph3Yn9ut2OdVF7p8umRmnj75MQDmKrKtpigW_xYTwFu4396HtVe7N8UnmmF1abgUlf1LSg49jWrTSmXlvY8r0pzXHwuMfppRtCwhULPU47STsigFoOtetw)
 
 Pour ne pas repartir sur une seule jambe, il nous faut découvrir l'autre moitié du parc (pas d'accès direct entre les deux parties). On reprend la route le long de la frontière Nord du parc. En chemin, Ravensthorpe, petite bourgade céréalières au milieu de nulle part (encore une !), nous accueille avec ses énormes silos décorés. Hopetoun n'est plus très loin, on distingue à nouveau l'océan, ses plages immaculés et l'eau turquoise derrière la cité balnéaire décontractée.
 
