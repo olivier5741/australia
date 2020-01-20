@@ -7,7 +7,7 @@ album: https://photos.app.goo.gl/tf9FgjGzjUWACgDS7
 draft: false
 ---
 
-Nous voilà parti pour quelques jours de volontariat chez Georgina, Jurg et leur ado Gian-luca. Vous vous demandez probablement quelle mouche nous a piqué ? Un nouveau volontariat alors qu'on vient à peine de se remettre en route ? L'unique route asphaltée qui traverse le sud de l'Australie d'Ouest en Est est fermée à cause de la fumée d'incendies aux alentours. Esperance, dernière ville avant le désert du Nullarbor, est prise d'assaut par les voyageurs bloqués. Pour éviter la cohue, on fait du volontariat... :)
+Nous voilà parti pour quelques jours de volontariat chez Georgina, Jurg et leur ado Gian-Luca. Vous vous demandez probablement quelle mouche nous a piqué ? Un nouveau volontariat alors qu'on vient à peine de se remettre en route ? L'unique route asphaltée qui traverse le sud de l'Australie d'Ouest en Est est fermée à cause de la fumée d'incendies aux alentours. Esperance, dernière ville avant le désert du Nullarbor, est prise d'assaut par les voyageurs bloqués. Pour éviter la cohue, on fait du volontariat... :)
 
 ![Esperance](https://lh3.googleusercontent.com/9bjerr6DhtcLBD1LyyaVGivanpN9Pw56JC6Yp1K2n0NJY_AVO2aIIaIOSkFFQNT1ncGnAp58HjlN6t4V7o3XLFADOLbqokMY_8Zi9dda68i_gB1I18GVthueUDFZJ-YvG4707qTpmVI)
 
