@@ -15,7 +15,7 @@ Nous voilà parti pour quelques jours de volontariat chez Georgina, Jurg et leur
 
 Au menu de ce nouveau workaway, protéger les arbres fruitiers des opportunistes : l'herbe qui, ici, n'hésite pas à grimper à l'assaut du tronc ainsi que les poules qui grattent les racines superficielles. On installe donc des cages autour des pommiers. 
 
-On reste dans la rubrique "parc et jardin", il faut débarrasser des stères de branches de sapins fraîchement coupées. Ça rappelle les charrées du grand feu de Carlsbourg sauf que la remorque est toute petite. Il faut donc bien tasser pour en mettre un max. Il pleut mais on est pas en sucre :D.
+On reste dans la rubrique "parc et jardin", il faut débarrasser des stères de branches de sapins fraîchement coupées. Ça rappelle les charrées du grand feu de Carlsbourg sauf que la remorque est toute petite. Il faut donc bien tasser pour en mettre un max. Il pleut un peu mais on n'est pas en sucre. On est tellement efficace qu'un couple de sympathiques retraités s'arrête même pour nous demander si on a une carte de visite pour aller entretenir leur jardin.
 
 ![Chez Jurg & Georgina. Snoopy, le chien noir et blanc en bout de queue. Mr Cuddles, le matou](https://lh3.googleusercontent.com/joQ267yK5PotdiKIhnCapcAIlGlMNVmtQJBi_GCEW-2mXZ0LEoVFrkRjdInnAgG6XeY93RdI5gamUq7nECboV7Ftf0k_pHYiVrBxYPX_uW4A0gSTU0o3u-d-l2H5shKDG4nghV7pTJ4)
 
