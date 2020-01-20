@@ -7,13 +7,15 @@ album: https://photos.app.goo.gl/tf9FgjGzjUWACgDS7
 draft: false
 ---
 
-Nous voilà parti pour quelques jours de volontariat chez Georgina, Jurg et leur ado Gian-Luca. Vous vous demandez probablement quelle mouche nous a piqué ? Un nouveau volontariat alors qu'on vient à peine de se remettre en route ? L'unique route asphaltée qui traverse le sud de l'Australie d'Ouest en Est est fermée à cause de la fumée d'incendies aux alentours. Esperance, dernière ville avant le désert du Nullarbor, est prise d'assaut par les voyageurs bloqués. Pour éviter la cohue, on fait du volontariat... :)
+Nous voilà parti pour quelques jours de volontariat chez Georgina, Jurg et leur ado Gian-Luca. Vous vous demandez probablement quelle mouche nous a piqués ? Un nouveau volontariat alors qu'on vient à peine de se remettre en route ? L'unique route asphaltée qui traverse le sud de l'Australie d'Ouest en Est est fermée à cause de la fumée d'incendies aux alentours. Esperance, dernière ville avant le désert du Nullarbor, est prise d'assaut par les voyageurs bloqués. Pour éviter la cohue, on fait du volontariat... :)
 
 ![Esperance](https://lh3.googleusercontent.com/9bjerr6DhtcLBD1LyyaVGivanpN9Pw56JC6Yp1K2n0NJY_AVO2aIIaIOSkFFQNT1ncGnAp58HjlN6t4V7o3XLFADOLbqokMY_8Zi9dda68i_gB1I18GVthueUDFZJ-YvG4707qTpmVI)
 
 ![Les plages d'Esperance](https://lh3.googleusercontent.com/YXcIa4vwyOF8LOPtjy2pPGRgVyRM4Bd03WmjIm0hEPSXy_FLJZmTh_Q5K_Ly7yvZrSMYXHOqt3tvRAiIXooJzkZfQepKz8aR4VZhoJxvSdka2W3An8q75d3kjeUPogNOAWCH84LPBDs)
 
-Au menu de ce nouveau workaway, protéger les arbres fruitiers des opportunistes : l'herbe qui, ici, n'hésite pas à grimper à l'assaut du tronc ainsi que les poules qui grattent les racines superficielles. On installe donc des cages autour des pommiers. On reste dans la rubrique "parc et jardin", il faut débarrasser des stères de branches de sapins fraîchement coupées. Ça rappelle les charrée du grand feu de Carlsbourg sauf que la remorque est toute petite. Il faut donc bien tasser pour en mettre un max. Il pleut mais on est pas en sucre :D.
+Au menu de ce nouveau workaway, protéger les arbres fruitiers des opportunistes : l'herbe qui, ici, n'hésite pas à grimper à l'assaut du tronc ainsi que les poules qui grattent les racines superficielles. On installe donc des cages autour des pommiers. 
+
+On reste dans la rubrique "parc et jardin", il faut débarrasser des stères de branches de sapins fraîchement coupées. Ça rappelle les charrées du grand feu de Carlsbourg sauf que la remorque est toute petite. Il faut donc bien tasser pour en mettre un max. Il pleut mais on est pas en sucre :D.
 
 ![Chez Jurg & Georgina. Snoopy, le chien noir et blanc en bout de queue. Mr Cuddles, le matou](https://lh3.googleusercontent.com/joQ267yK5PotdiKIhnCapcAIlGlMNVmtQJBi_GCEW-2mXZ0LEoVFrkRjdInnAgG6XeY93RdI5gamUq7nECboV7Ftf0k_pHYiVrBxYPX_uW4A0gSTU0o3u-d-l2H5shKDG4nghV7pTJ4)
 
