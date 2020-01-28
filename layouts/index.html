@@ -11,7 +11,7 @@
     {{ partial "header" . }}
     <main class="main">
       <section class="articles">
-          {{ range .Pages.GroupBy "Section" }}
+          {{ range .Sections }}
           <h1 id="{{ .Key }}">{{ T .Key }}</h1>
               {{ range .Pages.GroupByPublishDate "Jan 2006" }}
               <div>
