@@ -1,7 +1,7 @@
 ---
 title: Fitzgerald River National Park
 date: 2020-01-02
-image: https://lh3.googleusercontent.com/a3osXlh3PUSkKx6h0puzc6dAJ2GmAgLuJXTSRjmhkuS4jpt3WhVNn3N1o-bnIXijWUVbesHJZuUTy-UI84kgFh5C8QqNJHyqGnszJu6SDSidb_IixpgRuEWTMlHYSo3UQXx4wmvq388
+image: https://lh3.googleusercontent.com/7DGOf_BgIQb-S5035R2EcgxWKaRixb_P1CHtzubxGT_9-he1w_pD6F8iZGyfkcZDjoLhwjljImpdhcA6VT8yqq9xwkoGXMQexJ86LYu4WQ5w_UpNU7NZJLUq4BmDbOQvqHKeGNFNX2c
 album: https://photos.app.goo.gl/TE4GYk1YEmxtdZed6
 draft: false
 ---
