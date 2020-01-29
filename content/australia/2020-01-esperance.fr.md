@@ -7,7 +7,7 @@ album: https://photos.app.goo.gl/tf9FgjGzjUWACgDS7
 draft: false
 ---
 
-Nous voilà parti pour quelques jours de volontariat chez Georgina, Jurg et leur ado Gian-Luca. Vous vous demandez probablement quelle mouche nous a piqués ? Un nouveau volontariat alors qu'on vient à peine de se remettre en route ? L'unique route asphaltée qui traverse le sud de l'Australie d'Ouest en Est est fermée à cause de la fumée d'incendies aux alentours. Esperance, dernière ville avant le désert du Nullarbor, est prise d'assaut par les voyageurs bloqués. Pour éviter la cohue, on fait du volontariat... :)
+Nous voilà parti pour quelques jours de volontariat chez Georgina, Jürg et leur ado Gian-Luca. Vous vous demandez probablement quelle mouche nous a piqués ? Un nouveau volontariat alors qu'on vient à peine de se remettre en route ? L'unique route asphaltée qui traverse le sud de l'Australie d'Ouest en Est est fermée à cause de la fumée d'incendies aux alentours. Esperance, dernière ville avant le désert du Nullarbor, est prise d'assaut par les voyageurs bloqués. Pour éviter la cohue, on fait du volontariat... :)
 
 ![Esperance](https://lh3.googleusercontent.com/9bjerr6DhtcLBD1LyyaVGivanpN9Pw56JC6Yp1K2n0NJY_AVO2aIIaIOSkFFQNT1ncGnAp58HjlN6t4V7o3XLFADOLbqokMY_8Zi9dda68i_gB1I18GVthueUDFZJ-YvG4707qTpmVI)
 
@@ -17,11 +17,11 @@ Au menu de ce nouveau workaway, protéger les arbres fruitiers des opportunistes
 
 On reste dans la rubrique "parc et jardin", il faut débarrasser des stères de branches de sapins fraîchement coupées. Ça rappelle les charrées du grand feu de Carlsbourg sauf que la remorque est toute petite. Il faut donc bien tasser pour en mettre un max. Il pleut un peu mais on n'est pas en sucre. On est tellement efficace qu'un couple de sympathiques retraités s'arrête même pour nous demander si on a une carte de visite pour aller entretenir leur jardin.
 
-![Chez Jurg & Georgina. Snoopy, le chien noir et blanc en bout de queue. Mr Cuddles, le matou](https://lh3.googleusercontent.com/joQ267yK5PotdiKIhnCapcAIlGlMNVmtQJBi_GCEW-2mXZ0LEoVFrkRjdInnAgG6XeY93RdI5gamUq7nECboV7Ftf0k_pHYiVrBxYPX_uW4A0gSTU0o3u-d-l2H5shKDG4nghV7pTJ4)
+![Chez Jürg & Georgina. Snoopy, le chien noir et blanc en bout de queue. Mr Cuddles, le matou](https://lh3.googleusercontent.com/joQ267yK5PotdiKIhnCapcAIlGlMNVmtQJBi_GCEW-2mXZ0LEoVFrkRjdInnAgG6XeY93RdI5gamUq7nECboV7Ftf0k_pHYiVrBxYPX_uW4A0gSTU0o3u-d-l2H5shKDG4nghV7pTJ4)
 
-![Chez Jurg & Georgina. Lynx, la chèvre](https://lh3.googleusercontent.com/p0pl2QgmI0FEyMpq1SExfYuCoe8rrl-58igBRKTF4S0PD__esQFiV7ErdXECHIoWBcZycrtIvxRPe0SsLyZcNomXczhNFvym_xzZvkAx7ISIWkJ1OgN5_Df58e2TCILvvomzaiW89gg)
+![Chez Jürg & Georgina. Iynx, la chèvre](https://lh3.googleusercontent.com/p0pl2QgmI0FEyMpq1SExfYuCoe8rrl-58igBRKTF4S0PD__esQFiV7ErdXECHIoWBcZycrtIvxRPe0SsLyZcNomXczhNFvym_xzZvkAx7ISIWkJ1OgN5_Df58e2TCILvvomzaiW89gg)
 
-Jurg et Georgina insistent beaucoup : il ne faut pas travailler trop et profiter de l'incroyable région ! On a donc congé un jour particulièrement ensoleillé pour aller visiter Cape Legrand et ses sublimes plages (on commence à être à court d'adjectifs pour décrire le paysage ;) ). Eau cristalline, sable immaculé, lagon turquoise, ça en deviendrait presque banal. Mais la faune locale s'y met aussi : kangourous sur la plage et dauphins surfant dans les vagues ! 
+Jürg et Georgina insistent beaucoup : il ne faut pas travailler trop et profiter de l'incroyable région ! On a donc congé un jour particulièrement ensoleillé pour aller visiter Cape Legrand et ses sublimes plages (on commence à être à court d'adjectifs pour décrire le paysage ;) ). Eau cristalline, sable immaculé, lagon turquoise, ça en deviendrait presque banal. Mais la faune locale s'y met aussi : kangourous sur la plage et dauphins surfant dans les vagues ! 
 
 ![Parc national de Cape Legrand](https://lh3.googleusercontent.com/EjBdDwB-IVzM3c2_BSajTr2-dKBHAij73Hg_bkiQNsNp943PrksueuE4PZkYgI8WKVDCHVYjR4m8U7GlZqX0yynDaEIN1OqZY8izoXmQh8zHCTG349G9Cle6A9gFGnCB8SPf1zH5NY4)
 
