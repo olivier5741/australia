@@ -14,7 +14,7 @@ metaDataFormat = "yaml"
  image = 'favicon.png'
 
 [blackfriday]
- smartypants = false # https://discourse.gohugo.io/t/content-render-character-issue-sample-rsquo/14899/2
+ angledQuotes = true # https://discourse.gohugo.io/t/content-render-character-issue-sample-rsquo/14899/2
 
 [params]
  localeOgp = "fr-be"
