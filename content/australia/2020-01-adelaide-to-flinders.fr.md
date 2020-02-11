@@ -3,7 +3,7 @@ title: Adelaïde vers les Flinders Range
 date: 2020-01-19
 image: https://lh3.googleusercontent.com/Rp19Yr1JpFi5gQhCH8uU7gvXv5Gk9WErNx3SzkVUv_Orp0N5Wu4yJOODVstOr9bhYjTB_1VejDMvmpNJTiys_H9exlsIhqQBxe-biyDMAxKnR89wamGxJA3EqVrm0q3wmGh4nPmAZ5E
 album: https://photos.app.goo.gl/vpb5SBzDm5GUMUFq6
-draft: false
+draft: true
 ---
 
 "Toc, toc, toc. Y a quelqu'un ?" Dans une des artères centrales d'Adélaïde, au premier étage de l'auberge de jeunesse, on frappe à la porte de la chambre indiquée par la dame de l'accueil. "Oh, Katy, c'est votre maman" avait-elle dit avec un grand sourire et un certain étonnement. "Oui, elle est dans sa chambre". "Shrkkkk", la porte s'ouvre et oh surprise, une dame nous ouvre. Pour sûr ce n'est pas Katy, on ne change pas tant que ça en un an ! Le quiproquo de la patronne est rapidement effacé avec humour et de tout façon Katy, de retour de sa balade matinale, ne tarde pas à passer le seuil d'entré.
