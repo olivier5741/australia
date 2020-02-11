@@ -12,18 +12,18 @@ L'éclate totale peut commencer !!
 
 On reprend la vie à trois dans le Mentos... Après une très rapide visite d'Adélaïde (un musée et le jardin botanique), on se dirige vers la campagne aux alentours. 
 
-!(https://lh3.googleusercontent.com/leqQJ2FCDiZ-xZ9Zhk8sNS93NXR7LLuyXXg2LMiSCSucDrv3zL-06HpY9iphEWyycwffodMNB8suEoxar2GzjydSWYHVMNUc7xPpXL0iYTxo9n-C4jtVBTmKc73EXXfdfkf-XRh_KJY)[Adélaïde et sa campagne avoisinante]
+![Adélaïde et sa campagne avoisinante](https://lh3.googleusercontent.com/leqQJ2FCDiZ-xZ9Zhk8sNS93NXR7LLuyXXg2LMiSCSucDrv3zL-06HpY9iphEWyycwffodMNB8suEoxar2GzjydSWYHVMNUc7xPpXL0iYTxo9n-C4jtVBTmKc73EXXfdfkf-XRh_KJY)
 
-!(https://lh3.googleusercontent.com/0s2Lg_4dIcH9zWcMCV6UsOyF6biD9ogT7B3JTe0z_ndwbJCGSy6_qUY2RwillAMTWhGCIcIrxaHj7YODa-Epg37DkgIIdEb3H0xiiLBJyNugfCi-7hMq-UAG7GeQMa0ecq7ct69z6qU)[Port Pirie et Port Germein]
+![Port Pirie et Port Germein](https://lh3.googleusercontent.com/0s2Lg_4dIcH9zWcMCV6UsOyF6biD9ogT7B3JTe0z_ndwbJCGSy6_qUY2RwillAMTWhGCIcIrxaHj7YODa-Epg37DkgIIdEb3H0xiiLBJyNugfCi-7hMq-UAG7GeQMa0ecq7ct69z6qU)
 
 Désolé petits pieds, aujourd'hui vous êtes enfermés pour la journée. On dégaine nos bottines pour une balade de 18kms (finalement 22kms d'après le compteur de pas de Katy) à travers les gorges de Mount Remarkable National Park. ***. Une deuxième nuit dans le parc semble s'imposer pour se remettre de nos émotions.
 
-!(https://lh3.googleusercontent.com/GuRNcT5gDVuO9WKjHoGEQf9JGorirS-8AlEqzRDbL1KuKwxa_dMIsBZ0-iL7leTqAQJ7LU-tBBMiwYtyrcjBbVuMr3wilN55Nak0qo5ctRtfqiC872BUxnk3pd1wcJtfg_fjDDwa8NQ)[Parc National de Mount Remarkable]
+![Parc National de Mount Remarkable](https://lh3.googleusercontent.com/GuRNcT5gDVuO9WKjHoGEQf9JGorirS-8AlEqzRDbL1KuKwxa_dMIsBZ0-iL7leTqAQJ7LU-tBBMiwYtyrcjBbVuMr3wilN55Nak0qo5ctRtfqiC872BUxnk3pd1wcJtfg_fjDDwa8NQ)
 
-!(https://lh3.googleusercontent.com/oQ20PvZu2tEPL8L4WVQcBZ379vxlSv-6O6i2Sr_CymbWOEFU_KWV99zttHwGdc0weyCawVeVVk50l7R2C569Hx2s5OXKQQrS4GFE3e1mcxPEKvmMDJ8VLfIFsjV2wvyKNDrFSzvjV3E)[Les villages historiques de Quorn et Melrose]
+![Les villages historiques de Quorn et Melrose](https://lh3.googleusercontent.com/oQ20PvZu2tEPL8L4WVQcBZ379vxlSv-6O6i2Sr_CymbWOEFU_KWV99zttHwGdc0weyCawVeVVk50l7R2C569Hx2s5OXKQQrS4GFE3e1mcxPEKvmMDJ8VLfIFsjV2wvyKNDrFSzvjV3E)
 
 Pour donner à Katy un petit goût de l'outback, on part pour les Flinders Range : poussière rouge, mouches et paysages à couper le souffle. 
 
-!(https://lh3.googleusercontent.com/GqwCUxquUwkDg8VD22QATueg8Wr0JsdqnZIMOX_1tPJk2maIIR8nya00jos2SVcpBnzEmYWUvj8Ndl90wmLwtvfX9TC3abx8FFAfrzUtF5XTQ4hiaTYnLmZY0DctDBGDIn6GuxvBHkM)[Le parc national de Flinders Range]
+![Le parc national de Flinders Range](https://lh3.googleusercontent.com/GqwCUxquUwkDg8VD22QATueg8Wr0JsdqnZIMOX_1tPJk2maIIR8nya00jos2SVcpBnzEmYWUvj8Ndl90wmLwtvfX9TC3abx8FFAfrzUtF5XTQ4hiaTYnLmZY0DctDBGDIn6GuxvBHkM)
 
 L'été n'a pas dit son dernier mot, le mercure grimpe autour des 40°C et nos journées finissent souvent à l'eau (à la piscine du camping ou dans la mer)
