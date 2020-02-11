@@ -1,4 +1,3 @@
-
 ---
 title: Le Nullarbor
 date: 2020-01-15
