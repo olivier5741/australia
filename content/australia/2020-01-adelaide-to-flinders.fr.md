@@ -3,10 +3,10 @@ title: Adelaïde et Flinders Range
 date: 2020-01-19
 image: https://lh3.googleusercontent.com/Rp19Yr1JpFi5gQhCH8uU7gvXv5Gk9WErNx3SzkVUv_Orp0N5Wu4yJOODVstOr9bhYjTB_1VejDMvmpNJTiys_H9exlsIhqQBxe-biyDMAxKnR89wamGxJA3EqVrm0q3wmGh4nPmAZ5E
 album: https://photos.app.goo.gl/vpb5SBzDm5GUMUFq6
-draft: true
+draft: false
 ---
 
-"Toc, toc, toc. Y a quelqu'un ?" Dans une des artères centrales d'Adélaïde, au premier étage de l'auberge de jeunesse, on frappe à la porte de la chambre indiquée par la dame de l'accueil. "Oh, Katy, c'est votre maman?" avait-elle dit avec un grand sourire et un certain étonnement. "Oui, elle est dans sa chambre". "Shrkkkk", la porte s'ouvre et oh surprise, une dame nous ouvre. Pour sûr ce n'est pas Katy, on ne change pas tant que ça en un an ! Le quiproquo de la patronne est rapidement effacé avec humour et de tout façon Katy, de retour de sa balade matinale, ne tarde pas à passer le seuil d'entré.
+"Toc, toc, toc. Y a quelqu'un ?" Dans une des artères centrales d'Adélaïde, au premier étage de l'auberge de jeunesse, on frappe à la porte de la chambre indiquée par la dame de l'accueil. "Oh, Katy, c'est votre maman?" avait-elle dit avec un grand sourire et un certain étonnement. "Oui, elle est dans sa chambre". "Shrkkkk", la porte s'ouvre et oh surprise, une dame nous ouvre. Pour sûr ce n'est pas Katy, on ne change pas tant que ça en un an ! Le quiproquo de la patronne est rapidement effacé avec humour et de tout façon Katy, de retour de sa balade matinale, ne tarde pas à passer le seuil d'entrée.
 
 L'éclate totale peut commencer !!  On reprend la vie à trois dans le Mentos... Après une très rapide visite d'Adélaïde (un musée et le jardin botanique), on se dirige vers la campagne aux alentours. 
 
@@ -18,7 +18,7 @@ Désolé petits pieds, aujourd'hui vous êtes enfermés pour la journée. On dé
 
 ![Parc National de Mount Remarkable](https://lh3.googleusercontent.com/GuRNcT5gDVuO9WKjHoGEQf9JGorirS-8AlEqzRDbL1KuKwxa_dMIsBZ0-iL7leTqAQJ7LU-tBBMiwYtyrcjBbVuMr3wilN55Nak0qo5ctRtfqiC872BUxnk3pd1wcJtfg_fjDDwa8NQ)
 
-{{< video "https://lh3.googleusercontent.com/WydHf6vHiceYcF2FCeu7QyFcgmVeIqmAEK1mIHGNoh9TZ5hI00Rrlr6XZtghZb2UyTX4gh526L1jUa3OYkYEvXAkFVdsiLlLIsSigmh1MO8DcECv-G9AiQ3ZXoziXr3jN5CsdIPTLXY=m18" >}}
+{{< video src="https://lh3.googleusercontent.com/WydHf6vHiceYcF2FCeu7QyFcgmVeIqmAEK1mIHGNoh9TZ5hI00Rrlr6XZtghZb2UyTX4gh526L1jUa3OYkYEvXAkFVdsiLlLIsSigmh1MO8DcECv-G9AiQ3ZXoziXr3jN5CsdIPTLXY=m18" >}}
 
 Pour donner à Katy un petit goût de l'outback, on part pour les Flinders Range : poussière rouge, mouches et paysage minéral à couper le souffle. 
 
