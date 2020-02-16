@@ -5,7 +5,7 @@ title: Adelaide and Flinders Range
 date: 2020-01-19
 image: https://lh3.googleusercontent.com/Rp19Yr1JpFi5gQhCH8uU7gvXv5Gk9WErNx3SzkVUv_Orp0N5Wu4yJOODVstOr9bhYjTB_1VejDMvmpNJTiys_H9exlsIhqQBxe-biyDMAxKnR89wamGxJA3EqVrm0q3wmGh4nPmAZ5E
 album: https://photos.app.goo.gl/vpb5SBzDm5GUMUFq6
-draft: false
+draft: true
 ---
 
 "Knock, knock, knock. Anyone there?" In one of Adelaide's main streets, on the first floor of the youth hostel, there is a knock on the door. This is the room the lady at the reception told us to go to. "Oh, is Katy your mom?" she said with a big smile and a certain astonishment. "Yes, she is in her room". "Shrkkkk", the door opens and oh surprise, there is a lady. For sure it's not Katy, people don't change that much in a year! We had a good laugh with the receptionist over the misunderstanding and in any case Katy, back from her morning stroll, does not take long to cross the entrance.
