@@ -1,16 +1,14 @@
-
-
 ---
 title: Adelaide and Flinders Range
 date: 2020-01-19
 image: https://lh3.googleusercontent.com/Rp19Yr1JpFi5gQhCH8uU7gvXv5Gk9WErNx3SzkVUv_Orp0N5Wu4yJOODVstOr9bhYjTB_1VejDMvmpNJTiys_H9exlsIhqQBxe-biyDMAxKnR89wamGxJA3EqVrm0q3wmGh4nPmAZ5E
 album: https://photos.app.goo.gl/vpb5SBzDm5GUMUFq6
-draft: true
+draft: false
 ---
 
-"Knock, knock, knock. Anyone there?" In one of Adelaide's main streets, on the first floor of the youth hostel, there is a knock on the door. This is the room the lady at the reception told us to go to. "Oh, is Katy your mom?" she said with a big smile and a certain astonishment. "Yes, she is in her room". "Shrkkkk", the door opens and oh surprise, there is a lady. For sure it's not Katy, people don't change that much in a year! We had a good laugh with the receptionist over the misunderstanding and in any case Katy, back from her morning stroll, does not take long to cross the entrance.
+"Knock, knock, knock. Anyone there?" We're in one of Adelaide's main streets, on the first floor of the youth hostel. This is the room the lady at the reception told us to go to. "Oh, is Katy your mom?" she said with a surprised smile. "Yes, she is in her room". "Shrkkkk", the door opens and omg... For sure, it's not Katy, people don't change that much in a year! We had a good laugh with the receptionist over the misunderstanding and in any case Katy, back from her morning stroll, does not take long to arrive.
 
-Let's get crazy !! Three people in the Mentos all over again... After a very quick visit to Adelaide (a museum and the botanical garden), we head towards the nearby countryside.
+Let's get crazy !! Three people in the Mentos all over again... After a very quick visit of Adelaide (a museum and the botanical garden), we head towards the nearby countryside.
 
 ![Adelaide and around (we saw our first Koala!)](https://lh3.googleusercontent.com/leqQJ2FCDiZ-xZ9Zhk8sNS93NXR7LLuyXXg2LMiSCSucDrv3zL-06HpY9iphEWyycwffodMNB8suEoxar2GzjydSWYHVMNUc7xPpXL0iYTxo9n-C4jtVBTmKc73EXXfdfkf-XRh_KJY)
 
@@ -29,5 +27,3 @@ To give Katy a little taste of the outback, we leave for the Flinders Range: red
 Summer isn't over yet, it's getting steaming hot, around 40 ° C and our days end, if possible, in the water (at the campsite pool or in the sea) ...
 
 ![The historic villages of Melrose and Quorn](https://lh3.googleusercontent.com/oQ20PvZu2tEPL8L4WVQcBZ379vxlSv-6O6i2Sr_CymbWOEFU_KWV99zttHwGdc0weyCawVeVVk50l7R2C569Hx2s5OXKQQrS4GFE3e1mcxPEKvmMDJ8VLfIFsjV2wvyKNDrFSzvjV3E)
-
-
