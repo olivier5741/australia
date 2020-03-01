@@ -9,7 +9,7 @@ Rokiwi a fait peau neuve et reprend du service...
 
 Pour profiter d'un dernier voyage en "tomate" et se décrasser de presque trois ans de routine avant l'Australie, on s'est donné cinq semaines de voyage en Europe...
 
-![La tomate, notre voiture.](https://lh3.googleusercontent.com/23joM5ZtzyZw2RRc7Z5VKrtwClrtq5_MgrbXRx_Dd5v5HafTJ4eaZV0Rq8l5q2w9XV3mHurhbKglHfwlbLrMM3E_g7eYgrdF7P-CtJKjbIruTuuTRHqJ9IWgT-TM8-3-Hn3PdvgXQHI)
+![La tomate, notre voiture.](https://lh3.googleusercontent.com/RXs5IPzcRDBcBw7zXs90XhI5Tf-WqpacbQOjbiitwPuB9mbqdQL98nZTxUqZ9biLpxXPL3ME4btaLHLsYYtmaBFZc7_gI6fZmnTf309OYkCx_NMzt_JS2C77eyJHI4OLpgLcdqzxrHc)
 
 Première escale : les îles britanniques. On a pris le ferry de Calais pour Douvres et on a trois jours pour atteindre Fishguard au pays de Galles où un ferry pour l'Irlande nous attend. En chemin, English breakfast, visite de Bristol et nombreuses balades dans la campagne anglaise.
 
