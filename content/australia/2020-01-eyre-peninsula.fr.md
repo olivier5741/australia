@@ -3,7 +3,7 @@ title: La péninsule de Eyre
 date: 2020-01-29
 image: https://lh3.googleusercontent.com/inEI09pAd1PSQzC19LWzZixBsdFH2lWNSAiejLJ1fRGG15kOt6mEN8t7wFsoCyZw166904RGAI6LunUp1DCBueb0zYw9OMAPln5uIFW2BqsCxA-_BxjR2-fxqDg8kon9awk8XmEe3Ks
 album: https://photos.app.goo.gl/tFRALyNWpsdSUC1i9
-draft: false
+draft: true
 ---
 
 La jetée, cette institution de la côte sud. Historiquement, tout village côtier qui se respecte doit, tôt au tard, demander au gouvernement de construire une jetée. Que ce soit pour exporter le grain, du minerai (gypse, dolomie, cuivre, ...), de la laine et importer tous les biens de première nécessité non produits sur place (conserves, sucre, savon, ...), c'est un peu le cordon ombilical de la bourgade. Sans elle, un petit bateau intermédiaire doit faire la navette entre la terre et le plus gros bateau amarré au loin, entreprise fatiguante et totalement dépendante de l'humeur de la mer.
