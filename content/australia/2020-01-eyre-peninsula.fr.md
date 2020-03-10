@@ -18,7 +18,7 @@ Telle une cerise sur le gâteau, la péninsule se termine par un parc national. 
 
 ![Street art et mosaïques à Tumby Bay](https://lh3.googleusercontent.com/_zSptMeHZu8t7_YQoAUoQNUHRa2I5xELqBfYpoMFo6NZb774TF-e5d_15BxwZiiOsGQyZbamlZxunIVqQezgO2WKllNrMAFKH4v23zdtomp7g6WzPaIzUaXDAvjXtx-ovtG1DFPUCEQ)
 
-![La côte ouest de la péninsule: Coffin Bay, sculptures sur Les falaises de Ellison et Cummins](https://lh3.googleusercontent.com/oVHOsLvX5jQht-F4Voo6TU5-IWcemXKXBj2l_aPzqAHCgwzIOxy2z3PyNMz-xA6-LX56Z7wHJI6cHzfstEL31q_M2c8vwuOkPjKg15a0TicZ9iAQ1WDqvcrjygWvMjT4Fwf1CuwGrXU)
+![La côte ouest de la péninsule: Coffin Bay, sculptures sur les falaises de Ellison et Cummins](https://lh3.googleusercontent.com/oVHOsLvX5jQht-F4Voo6TU5-IWcemXKXBj2l_aPzqAHCgwzIOxy2z3PyNMz-xA6-LX56Z7wHJI6cHzfstEL31q_M2c8vwuOkPjKg15a0TicZ9iAQ1WDqvcrjygWvMjT4Fwf1CuwGrXU)
 
 Katy veille à ce que les vacances restent trépignantes : dans une bourgade balnéaire des plus paisibles (comprenez "il n'y avait pas un chat"), curieuse d'en connaître un peu plus, elle ouvre la boîte du défibrillateur public. L'alarme s'enclenche (et oui il y a un antivol!) et un lointain voisin accourt pour nous venir potentiellement en aide. Encore 100m de plus et on aurait pu défibriller le valeureux mais plus si jeune voisin. 
 
