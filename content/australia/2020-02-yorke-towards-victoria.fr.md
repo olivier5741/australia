@@ -16,7 +16,7 @@ Eremophila alternifolia, Santalum acuminatum, Grevillea parallelinervis, ... Un 
 
 On atteint la partie la plus séduisante de la jambe : les orteils. Qui l'eût cru? Le parc national de Innes, aux confins de la péninsule de Yorke, tient ses promesses. Son charme meurtrier en a percé plus d'un en témoigne les nombreuses épaves gisant tantôt aux fonds de ses eaux tantôt totalement exposées sur la plage. Les dauphins, les kangourous mignons sur la plage ne manquent pas de redorer son blason. En chemin pour une piscine naturelle creusé dans les rochers, on assiste même, de loin, à la célébration d'un mariage sur la plage. Eh oui, ce n'est pas que dans les films américains. Mêmes les phares de la péninsule sont design. Après une visite de la ville fantôme de Inneston, construite pour héberger ceux qui y exploitaient le gypse, on chatouille le bitume le long de la plante du pied.
 
-![Les somptueuses plages du parc national de Innes](https://lh3.googleusercontent.com/lkBwJuuWw27M8-vSt2nP16FvaVCS4bsWMPEBbcAy7oCDMsj10zJ_Z6gkt9uiBn5ERxJXVhg1MFTM2QkvEvar4wrZzNeOh3bBo6tz6rRrqA8lorNeCqCk7ycdqLRpxffa7wcNd6ivyqQ)
+![Les somptueuses plages du parc national de Innes](https://lh3.googleusercontent.com/U8EPJlQFdqDVGjbDpNF0wsTx_MYGol2OKWK4u1j0ZJVQvqoAfAmy0DPTekzmpWr25EvweFwR1LdcBYQ7gxvWua6f9le4Mwxkp5MnXyBbHXrpbHx-Wy-jUee1nRwdnwHUP8UERElLz0o)
 
 ![Le parc national de Innes, son passé minier, ses épaves et un œuf de requin](https://lh3.googleusercontent.com/lkBwJuuWw27M8-vSt2nP16FvaVCS4bsWMPEBbcAy7oCDMsj10zJ_Z6gkt9uiBn5ERxJXVhg1MFTM2QkvEvar4wrZzNeOh3bBo6tz6rRrqA8lorNeCqCk7ycdqLRpxffa7wcNd6ivyqQ)
 
@@ -34,7 +34,7 @@ La péninsule (promis c'est la dernière) de Fleurieu n'est qu'à quelques encab
 
 ![Un parfum lunaire le long des falaises de Fleurieu](https://lh3.googleusercontent.com/OxFdihvym1zm_ww6ZDqt4J18TdUioZR0XmXpePWssKMCM9coD6k6f1Nbj_QfQX_ytZ9QhJbooifYwL5G2FYazz49X2Ual90onZhpur3UL9KsQy2TY53-NN5tzh_RhbzV1GmUr2AQZRs)
 
-![La péninsule de Fleurieu, entre terre et mer](https://lh3.googleusercontent.com/g221RAzV2255CL5qqXyRRa-uFPkkhCPhNXrDvwbrf5ZCd_Uqj4jc00lGIGmR1WpDielotBqlpPwL22nOg6vyp4ciSCS1vxlcRTcQHDHzu1zS2W2mI81Yz-2mDyPM5T7wcSWcqd7GOe8)
+![La péninsule de Fleurieu, entre terre et mer](https://lh3.googleusercontent.com/LwPxPGeYOYVJaneB3Z9Pxwy6aEeYYtxQw4rE8gXZ6fNvyUY_z47YSQbyMLfdm2_vg9qYu9uGYhq1ZL8TjPo-tb0i2tLMZYMQpo4oBlJ5tScqzzAMCEZsHTRerdtwfn2ISz0nuu8SdOM)
 
 Contournant le lac d'Alexandrina et de Yari, on brise la tranquillité de ce qui fut un jour le Mississippi Australien par une chevauchée d'émeu. Des bateaux à aubes reliaient les différents ports de cet immense lac. Mettre le Mentos sur une barge pour franchir le fleuve qui s'y jette nous transporte aux Pays-Bas le temps d'une traversée. Un lagon de plus de 100km (distance somme toute banale dans ce pays-continent) séparée de l'océan par une simple dune de sable constitue le parc national de Coorong,  ... Écosystème complexe ...
 
