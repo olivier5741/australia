@@ -1,4 +1,4 @@
-Of---
+---
 title: Yorke vers Victoria
 date: 2020-02-13
 image: https://lh3.googleusercontent.com/iWH6MlDV_ZcYJZYoV8h-nBnB8LXQhbtf-mWOAMEuk-DIbSmF5YzdcNmH3eF36OZD541suvmD65KO70BSuaprHspfr7jh8YpMYyqrj5R3ITN7zMO1JRnQRfMUWw5GkapHRUKncViGr0E
