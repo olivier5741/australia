@@ -3,7 +3,7 @@ title: Eyre Peninsula
 date: 2020-01-29
 image: https://lh3.googleusercontent.com/inEI09pAd1PSQzC19LWzZixBsdFH2lWNSAiejLJ1fRGG15kOt6mEN8t7wFsoCyZw166904RGAI6LunUp1DCBueb0zYw9OMAPln5uIFW2BqsCxA-_BxjR2-fxqDg8kon9awk8XmEe3Ks
 album: https://photos.app.goo.gl/tFRALyNWpsdSUC1i9
-draft: false
+draft: true
 ---
 
 The jetty, this institution ... Historically, any self-respecting coastal village must, sooner or later, ask the government to build a pier. Whether to export grain, ore (gypsum, dolomite, copper, ...), wool and import all essential goods not produced on site (canned goods, sugar, soap, ...), c is a bit the umbilical cord of the village. Without it, a small intermediate boat has to shuttle between land and the largest boat moored in the distance, a tiring endeavor and totally dependent on the mood of the sea.
