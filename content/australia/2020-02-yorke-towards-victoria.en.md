@@ -2,9 +2,8 @@
 title: Yorke to Victoria
 date: 2020-02-13
 image: https://lh3.googleusercontent.com/iWH6MlDV_ZcYJZYoV8h-nBnB8LXQhbtf-mWOAMEuk-DIbSmF5YzdcNmH3eF36OZD541suvmD65KO70BSuaprHspfr7jh8YpMYyqrj5R3ITN7zMO1JRnQRfMUWw5GkapHRUKncViGr0E
-
 album: https://photos.app.goo.gl/z8GALWHEMem4ZkyS6
-draft: false
+draft: true
 ---
 
 Australia has only one leg. Like Italy to Europe, Australia also has its boot: the Yorke peninsula.
