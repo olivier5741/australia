@@ -2,13 +2,17 @@
 title: Chez Liz et Do
 date: 2020-02-26
 image: https://lh3.googleusercontent.com/rYE-d2NudtqxO32PpkbuDlt2P-THRq8ibOdRUmJF1MRzhk4h6PzdrjSR3FItkx-lH5pj_sx-MLrhyd2fe9Ur8ZykBp6amfoZ_by4lp5O_MjgQ_5yxIKee4xkmZGUs3DICRifDjlg8Ds
-album:  https://photos.app.goo.gl/s24STSKS4vbxDA287
-draft: true
+album: https://photos.app.goo.gl/s24STSKS4vbxDA287
+draft: false
 ---
 
 Pour que Katy puisse bénéficier du Mentos librement (sans deux psychorigides tout le temps sur ses talons), on envisage deux semaines de volontariat au nord de Melbourne.
 
 Liz, Do et leur ado Aiden nous accueillent chaleureusement et avec grande classe dans un bungalow personnel. À la base, c'était une location AirBNB mais cela demandait pas mal de travail de lavage et autre changement de draps à chaque weekend. Loger des volontaires permet d'accueillir des gens qui vont travailler pour toi, win-win. :)
+
+{{< video src="https://drive.google.com/uc?export=download&id=1NGtebrksg0s-bqDPweW7sII6lMJ2B_Dn" caption="Un echidné depuis la fenêtre du bungalow" >}}
+
+https://drive.google.com/file/d/1NGtebrksg0s-bqDPweW7sII6lMJ2B_Dn/view?usp=drivesdk
 
 La maisonnée est adepte des principes de permaculture. Le potager est bien rempli : tomates, concombres, courgettes, pommes de terre, salades en tout genre, basilic, rhubarbe, poires, prunes, ... Tout ce qui ne trouve pas sa place pour pousser dans l'enceinte de la propriété est cueilli dans la nature : champignons, pommes, poires, baies d'aubépine et d'églantier. C'est l'abondance pour le moment mais Liz et Do ont de la suite dans les idées et préparent l'hiver. Ce sont des pros de la conservation : séchage, sirop, bocaux, congélation. Tous les moyens sont bons pour déguster ces bons produits au plus froid de l'hiver. [Note météorologique: on a définitivement terminé l'été et quitté les tropiques, il pleut régulièrement, il fait pas plus de 10°C certains jours et, des fois, il neige]. Autant vous dire que les repas sont goûtus et, souvent, avec au moins 50% d'ingrédients produits sur place.
 
@@ -28,4 +32,4 @@ C'est totalement par hasard (mais fort heureux par les temps qui courent) que l'
 
 Quelques rouleaux plus tard, notre séjour touche à sa fin : notre aventurière, Katy, décolle pour la Belgique et notre ferry nous attend pour la ... Tasmanie.
 
-![En chemin pour le ferry : Werribee Gorge, Brisbane Ranges et à la plage à Geelong](https://lh3.googleusercontent.com/PipjHRKvu5LLKRxj2ynIKv1n5ghNF_N_ytgQIxiwqj0CXMVTEl5xdyueuxGwKX_EwMqGfnBLO1OsI5oi4bn-7gzeDnIbPkeB33_DWewwhPqPoY2T9woe4LH0XvznZbsEMKKZ-Fu74vg
+![En chemin pour le ferry : Werribee Gorge, Brisbane Ranges et à la plage à Geelong](https://lh3.googleusercontent.com/PipjHRKvu5LLKRxj2ynIKv1n5ghNF_N_ytgQIxiwqj0CXMVTEl5xdyueuxGwKX_EwMqGfnBLO1OsI5oi4bn-7gzeDnIbPkeB33_DWewwhPqPoY2T9woe4LH0XvznZbsEMKKZ-Fu74vg)
