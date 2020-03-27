@@ -3,7 +3,7 @@ title: Chez Liz et Do
 date: 2020-02-26
 image: https://lh3.googleusercontent.com/rYE-d2NudtqxO32PpkbuDlt2P-THRq8ibOdRUmJF1MRzhk4h6PzdrjSR3FItkx-lH5pj_sx-MLrhyd2fe9Ur8ZykBp6amfoZ_by4lp5O_MjgQ_5yxIKee4xkmZGUs3DICRifDjlg8Ds
 album: https://photos.app.goo.gl/s24STSKS4vbxDA287
-draft: false
+draft: true
 ---
 
 Pour que Katy puisse bénéficier du Mentos librement (sans deux psychorigides tout le temps sur ses talons), on envisage deux semaines de volontariat au nord de Melbourne.
