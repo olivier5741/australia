@@ -21,7 +21,7 @@ Selling the car is time consuming but we manage to spend some time hanging out. 
 
 ![Muriwai](https://lh3.googleusercontent.com/-DxhoythLKHs/Vj-NQj7HJ2I/AAAAAAAAL5I/8Wyig7YfgYc/s912-Ic42/upload_-1.jpg)
 
-{{< video src="https://drive.google.com/file/d/0BzIZ3dfuz-CEcEZ2MU95ZWhlb1E/preview" caption="Gannett Colony" >}}
+{{< video src="https://drive.google.com/uc?export=download&id=1PLm0F3-BTuCWePGu3VZT5Fx6hHnZb8xv" caption="Gannett Colony" >}}
 
 Tiritiri Matangi is an island in the bay well worth the visit. We sail to this bird sanctuary free of any predators. It gives you a rough idea what NZ was like before men put a foot on it : colourful and noisy. Many birds more or less endangered make a hell of a party but unfortunately some cannot be found on the two main islands anymore.
 

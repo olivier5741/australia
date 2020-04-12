@@ -21,7 +21,7 @@ Surpris par la soudaineté à laquelle la nuit tombe, on s'arrête au premier ca
 
 ![Wharariki : la garderie pour phoques](http://lh3.googleusercontent.com/-XNCEQYj5LMA/VTR4PBwl2bI/AAAAAAAAE8w/ByGVVi4iLjc/s1280/upload_-1.jpg)
 
-{{< video src="https://docs.google.com/file/d/0BzIZ3dfuz-CEWFRZbzFXSXphNzQ/preview" caption="Jeu de phoques" >}}
+{{< video src="https://drive.google.com/uc?export=download&id=1P8ypsUloLev2iwrxd_efPJtUzSh3PiUi" caption="Jeu de phoques" >}}
 
 Comme Farewell Spit est un cul-de-sac (d'une centaine de kilomètres certes mais un cul-de-sac tout de même), on revient sur nos pas, ce qui implique de repasser la Takaka Hill, un col de 700m qui a bien fait suer la chariotte. On laisse notre véhicule se reposer à l'ombre d'un palmier pour quelques heures, le temps de marcher une partie du Abel Tasman Coastal Track. Ces mêmes plages de sable fin ont attiré, en 1642, Abel Tasman, explorateur en mission pour la Compagnie des Indes Orientales à la recherche de nouveaux territoires. Le premier contact avec les indigènes a été culinaire : les Maoris ont mangé trois membres de l'équipage. Tasman est reparti sans demander son reste et les Anglais, qui avaient apparemment moins de goût, sont revenus en 1769 (et on se demande pourquoi il n'y a pas de bons fromages en Nouvelle-Zélande?).
 

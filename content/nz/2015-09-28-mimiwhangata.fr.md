@@ -5,7 +5,7 @@ image: "https://lh3.googleusercontent.com/-_ti03QkE2MQ/Vib1iGqLkgI/AAAAAAAAJew/f
 album: "https://goo.gl/photos/SiNeEBKHSS9sb6948"
 ---
 
-Mais que nous arrive-t-il ? L’appel de l’inconnu ? Voilà que du traditionnel wwoofing, on jongle du couch surfing la semaine passée au volontariat ! Parfois c’est un peu kif-kif bourricot (le temps de travail et le nombre de repas offerts fluctuent d’une offre à l’autre). Mais, en fin de compte, on vient de cocher pas mal de ‘must-do néo-zélandais’ en un temps record. Voyez plutôt …
+Mais que nous arrive-t-il ? L’appel de l’inconnu ? Voilà que du traditionnel wwoofing, on jongle du couch surfing la semaine passée au volontariat ! Parfois c'est un peu kif-kif bourricot (le temps de travail et le nombre de repas offerts fluctuent d’une offre à l’autre). Mais, en fin de compte, on vient de cocher pas mal de ‘must-do néo-zélandais’ en un temps record. Voyez plutôt …
 
 ![Vues de la péninsule de Mimiwhangata](https://lh3.googleusercontent.com/-2x7y660JiOA/Vibxz0pBiSI/AAAAAAAAJRg/eXAAS-8Ymuw/s912-Ic42/upload_-1.jpg)
 
@@ -35,7 +35,7 @@ Quelques anecdotes :
 
 Comme le profil de la ferme est assez escarpé, l’engrais est épandu par un petit avion. Le pilote est digne de la RAF : décollage et atterrissage depuis le dessus de la colline et chargement en 2’ top chrono; ensuite, frappe ‘chirurgicale’. En quelques heures, une cinquantaine de tonnes de superphosphate se retrouve sur les 300ha de collines. Si ça c’est pas efficace ?!
 
-{{< video src="https://drive.google.com/file/d/0BzIZ3dfuz-CEZ0FNMnlza1UzSjg/preview" caption="Ravitaillement en temps réel" >}}
+{{< video src="https://drive.google.com/uc?export=download&id=1Po5dFelg-JOE8qVS58W0ChzKWxuROwwy" caption="Ravitaillement en temps réel" >}}
 
 ![Épandage du superphosphate et le camion-remplisseur-fuel](https://lh3.googleusercontent.com/-zqT9y5zp6KI/VibySq6v-JI/AAAAAAAAJSw/JGTDYLroXRU/s912-Ic42/upload_-1.jpg)
 
@@ -43,7 +43,7 @@ Parmi les autres ‘must-do’ accomplis :
 
 - **La tonte de mouton** : il n’y en avait que 16 et on a contribué pour un demi mouton seulement. Il faut croire qu’on est un peu trop lent… C’est toute une technique !
 
-{{< video src="https://drive.google.com/file/d/0BzIZ3dfuz-CEYXRuTkMwZzBuNlE/preview" caption="Tonte des moutons" >}}
+{{< video src="https://drive.google.com/uc?export=download&id=0BzIZ3dfuz-CEYXRuTkMwZzBuNlE" caption="Tonte des moutons" >}}
 
 ![Le shed, les moutons et la tonte](https://lh3.googleusercontent.com/-FhwjWacsHDQ/VibyQBd1zPI/AAAAAAAAJSo/RudCCC_AwfY/s912-Ic42/upload_-1.jpg)
 

@@ -35,7 +35,7 @@ Highlights :
 
 The topography of the farm is quite steep so it's easier to spread fertilisers with a plane. The pilot could be from the RAF: take-off and landing from the top of the hill and refill in 2'; then surgical strike. In a few hours, about fifty tonnes of Superphosphate are spread on the hills. It's what we can call efficiency isn't it?!
 
-{{< video src="https://drive.google.com/file/d/0BzIZ3dfuz-CEZ0FNMnlza1UzSjg/preview" caption="Refill in real time" >}}
+{{< video src="https://drive.google.com/uc?export=download&id=1Po5dFelg-JOE8qVS58W0ChzKWxuROwwy" caption="Refill in real time" >}}
 
 ![Superphosphate spreading and the fuel-refill truck](https://lh3.googleusercontent.com/-zqT9y5zp6KI/VibySq6v-JI/AAAAAAAAJSw/JGTDYLroXRU/s912-Ic42/upload_-1.jpg)
 
@@ -43,7 +43,7 @@ Other "must-do" accomplished :
 
 - **Sheep shearing** : there were only 16 and we shore only half a sheep. We must have been too slow, it's an art! :)
 
-{{< video src="https://drive.google.com/file/d/0BzIZ3dfuz-CEYXRuTkMwZzBuNlE/preview" caption="Sheep shearing" >}}
+{{< video src="https://drive.google.com/uc?export=download&id=0BzIZ3dfuz-CEYXRuTkMwZzBuNlE" caption="Sheep shearing" >}}
 
 ![Shearing shed, sheep and shearer](https://lh3.googleusercontent.com/-FhwjWacsHDQ/VibyQBd1zPI/AAAAAAAAJSo/RudCCC_AwfY/s912-Ic42/upload_-1.jpg)
 

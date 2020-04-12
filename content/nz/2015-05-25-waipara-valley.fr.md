@@ -9,7 +9,7 @@ album: "https://goo.gl/photos/oQNW58aD5EvzE4wC7"
 
 Lundi matin, 8h, comme tout le monde, on va au travail... Nos particularités : on a passé la nuit au camping municipal, on est habillé comme des cosmonautes (il fait froid !) et on reçoit un sécateur en guise de matériel. Le boulot commence ...
 
-{{< video src="https://drive.google.com/file/d/0BzIZ3dfuz-CEVVVUUUdzaFpUSkE/preview" caption="En bref, notre job" >}}
+{{< video src="https://drive.google.com/uc?export=download&id=1OgSpexVPYj9LzYfgM4e5fAnGLYoIzFd4" caption="En bref, notre job" >}}
 
 ![Taille d'hiver au vignoble](http://lh3.googleusercontent.com/-0c_MLDtSqi4/VYzuZd_dcGI/AAAAAAAAFrM/T2Nwsekb3ik/s1280/upload_-1.jpg)
 
@@ -31,7 +31,7 @@ Week-end spécial : on part à Kaikoura avec Ron (car Susie est en vacances à W
 
 ![Sawcut Gorge, ou la balade aux 25 traversées de rivière (ça doit être vraiment super en été ;) )](http://lh3.googleusercontent.com/-rhGKFKrhrag/VZ2wiPGqOhI/AAAAAAAAF5Y/wrA0y9rvHc8/s1280/PhotoGrid_1436256800063.jpg)
 
-{{< video src="https://drive.google.com/file/d/0BzIZ3dfuz-CEbk1hNDEzTE02Zm8/preview" caption="Ron n'aime pas quand on croise d'autres véhicules sur la route" >}}
+{{< video src="https://drive.google.com/uc?export=download&id=0BzIZ3dfuz-CEbk1hNDEzTE02Zm8" caption="Ron n'aime pas quand on croise d'autres véhicules sur la route" >}}
 
 Pimp my chariot - épisode 3: la cuisine. Nos petits gaz cookers bon marché ne sont même plus capables de faire bouillir de l'eau, il est temps d'investir ! Le nouveau modèle est entièrement en fonte et fonctionne avec une bonbonne de gaz. Le tout est dans un tiroir sur mesure qui s'ouvre à l'abri du coffre ouvert.
 
