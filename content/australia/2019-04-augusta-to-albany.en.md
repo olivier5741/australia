@@ -19,7 +19,7 @@ At the end of this summer, the various waterfalls, supposed to be bursting with 
 
 ![A tree trunk across the river. A suspension bridge over a cascade (not so picturesque when it is almost dry.) Eucalyptus dried up in a lake. The large bird is a kookaburra (giant king hunter). ](https://lh3.googleusercontent.com/xQ1WUmDm6hxTeQZEuFzcVerJ4_zGTS9zJD7zINoUGWl1TUZF22tj9uSlgWC1DWO4EpKfaZ2b44N9wG0b7SOKjFN3dgpo7hEz8VEbINCPnh8T745hys4bjN4cLmF6FLPG6V4R5kVKFgw)
 
-{{< youtube Lu_EzJD8IjU >}}
+{{< video src="https://drive.google.com/uc?export=download&id=1RcipZyKxq3_yahyc3tcQNxj6KeXZGWd1" caption="Bird song">}}
 
 Nature, we talk a lot about it. It's a fact, biodiversity is one of Australia's gems. But there is also History ... In millions of years, the Australian continent acquires its independence by unhooking the super continent of the southern hemisphere, there are impressive rocky remains dating back to those distant times. In thousands of years, there is the establishment of Aborigines on their island. Very close to nature, it is a set of peoples with very different languages ​​and legends (we hope to be able to tell you more later). Hundreds of years ago, the first European settlers in Western Australia set foot in Albany, a prolific whaling station (many whales cross its shallow waters to rest on their way to their annual migration (we have not seen any, it was not the season :)). Then, they infiltrate inland attracted by farmland and forest potential. Finally, it is from the port of Albany that the Australian and New Zealand troops left to lend a hand to the English (and their allies) during World War II.
 
