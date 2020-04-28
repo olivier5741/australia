@@ -12,9 +12,9 @@ Les restrictions se mettent en place pour limiter la dissémination du coronavir
 
 Après un long chemin sinueux, on arrive dans la vallée de Lorinna, chez Marie, Scott et les ados Rosie et Zac. On se salue avec le pied, eh oui, la distanciation sociale... Leur maisonnette est toute petite mais très confortable et chaleureuse, du feu ronfle dans la grosse cuisinière à bois, il y a du pain au four et de l'anguille, fraîchement pêchée dans le lac, pour dîner (c'est délicieux, soit dit en passant !).
 
-Le formidable jardin potager est, fort heureusement, bien rempli. Il est constitué de buttes dont le but est d'accumuler plus de matière organique au dessus du sol (de façon bien plus rapide et bon marché que de créer des lits surélevés), de retenir plus d'eau dans le sol et de générer une barrière bien nette contre les mauvaises herbes. Personne n'est végétarien dans la famille: il y a deux vaches à lait, une vache à viande, un bœuf, un taureau et quelques lapins. Les deux chiens (Sam et Bibi) et les deux chats (Jackie et Annabelle) sont nourris aux wallabies (qui pullulent en Tasmanie depuis la disparition du tigre).
-
 ![La maison et le potager](https://lh3.googleusercontent.com/lcEJV4XIR0s76JCDEViWrAvsAtt9M549AhLM0lQ8xGyrzpAlMkXq3j8RzVA6kwesb7TasZ7Jyd3-19kmUXTa4mZdyUY2fv8icO5nkFcLXxnrCISEBuKmEZEVxOTUcxVQHdAarpWA0Jc)
+
+Le formidable jardin potager est, fort heureusement, bien rempli. Il est constitué de buttes dont le but est d'accumuler plus de matière organique au dessus du sol (de façon bien plus rapide et bon marché que de créer des lits surélevés), de retenir plus d'eau dans le sol et de générer une barrière bien nette contre les mauvaises herbes. Personne n'est végétarien dans la famille: il y a deux vaches à lait, une vache à viande, un bœuf, un taureau et quelques lapins. Les deux chiens (Sam et Bibi) et les deux chats (Jackie et Annabelle) sont nourris aux wallabies (qui pullulent en Tasmanie depuis la disparition du tigre).
 
 ![Le duo canin et l'indétrônable Annabelle sur l'épaule d'Olivier](https://lh3.googleusercontent.com/tbJxqIm_QGA1OqfcBBv-LVI6b8tg9xqOYxTwW1JvqIcNaKbPQ7W-UPGpymO1QQF5k4WmWDUIRbnmNuCxAsEsgOIX4X2Cdl9wUaHS9eR0wPWjvwUOzTbYZhk1hjfSOnklEU0qW_MVtKo)
 
