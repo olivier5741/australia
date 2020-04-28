@@ -3,7 +3,7 @@ title: Lorinna Valley
 date: 2020-03-21
 image: https://lh3.googleusercontent.com/Ql_Bi1ohSaJxJOl6ZHxPRnRbWtQlRNDMYeiCNclvZr4ygJUyK_toMBlImhDsQW8vuLvA580bBBP08IpNJ09TOFW1u_2nt335UM6sn2DQ0V87u1RCz8bDVPAd_YJDf-kdNvDztocj94Y
 album: https://photos.app.goo.gl/N2GsYCgm53bwckH1A
-draft: false
+draft: true
 ---
 
 D'après quelques conseils préparationnistes (vous savez, ces gens qui s'attendent à survivre à la fin du monde civilisé), en cas de pandémie, il faut s'isoler dans un endroit facilement défendable, riche en ressources renouvelables (eau et nourriture). La Tasmanie s'est donc imposée comme choix à nos yeux. [Blague à part : c'était déjà dans notre programme à visiter avant l'arrivée de l'hiver austral]
