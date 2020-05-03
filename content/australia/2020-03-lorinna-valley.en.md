@@ -8,7 +8,7 @@ draft: false
 
 If you follow the (doomsday) prepper philosophy (you know, the ones who plan and train to survive the end of the civilized world), in the event of a pandemic, you must isolate in a place easy to defend and rich in renewable resources (water and food). Tasmania is exactly that [just kidding, we planned to visit the island before the austral winter anyway].
 
-Restrictions are in place to limit the spread of the coronavirus. We are allowed to enter Tasmania as long as we quarantine for 14 days. Never mind, let's do volunteer work! What a great idea : we choose an remote valley with no running water or electricity, the children are home schooled and the land produces almost enough food to sustain the family. In short, we self-isolate ...
+Restrictions are in place to limit the spread of the coronavirus. We are allowed to enter Tasmania as long as we quarantine for 14 days. Never mind, let's do volunteer work! What a great idea : we choose a remote valley with no running water or electricity, the children are homeschooled and the land produces almost enough food to sustain the family. In short, we self-isolate ...
 
 After a long winding road, we reach Lorinna valley, at Marie', Scott' and the teenagers Rosie and Zac's place. Foot shake is the proper greeting, you know, social distancing ... Doesn't matter how tiny the house is, it's very comfortable and warm, fire snores in the big wood stove : homemade bread and eel, freshly caught in the lake, for dinner (delicious fish by the way!).
 
@@ -24,7 +24,6 @@ Work is not all, we even laugh a lot around here! We join wild card games (many 
 
 ![The tiny houses in the area](https://lh3.googleusercontent.com/gxdtwlEsKmEeSELlVaU1v7mNRu7yQYpskRxfVC9qTR-UI-hEdP8E8cs4carTv8j-d88K3-o6QhdvGIyKrsCjTnj4jKmUOwZACMg-SLVop0lK-N0YnADhRtVfkRM-GDS4-bfwE3o1tvE)
 
-![Back to wilderness in the remote forests of Tasmania] (https://lh3.googleusercontent.com/-XwcdtubFNlG8C34lz8CK8DNiK26OCnPdcHATU5Ihi5y4DJSJ-FXQagDfWiSp9lIpsmlfL2Uw-ObL8xsIE60Ml6iXB8G4kpkImyc_-vrO8IBjotdx_iKNbYbZZ06hUc8YE6Xr568CPc)
+![Back to wilderness in the remote forests of Tasmania](https://lh3.googleusercontent.com/-XwcdtubFNlG8C34lz8CK8DNiK26OCnPdcHATU5Ihi5y4DJSJ-FXQagDfWiSp9lIpsmlfL2Uw-ObL8xsIE60Ml6iXB8G4kpkImyc_-vrO8IBjotdx_iKNbYbZZ06hUc8YE6Xr568CPc)
 
 Besides splitting our sides, we perform it on the wood as well. We collect cubic meters of eucalyptus for the winter. The stove is roaring, now that Nanny Brook (Scott's mom) has joined the band. Our quarantine ends and like Jack, we hit the road for other adventures in the south of Tasmania.
-
