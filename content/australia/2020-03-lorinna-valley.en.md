@@ -3,7 +3,7 @@ title: Lorinna Valley
 date: 2020-03-21
 image:  https://lh3.googleusercontent.com/Ql_Bi1ohSaJxJOl6ZHxPRnRbWtQlRNDMYeiCNclvZr4ygJUyK_toMBlImhDsQW8vuLvA580bBBP08IpNJ09TOFW1u_2nt335UM6sn2DQ0V87u1RCz8bDVPAd_YJDf-kdNvDztocj94Y
 album: https://photos.app.goo.gl/N2GsYCgm53bwckH1A
-draft: false
+draft: true
 ---
 
 If you follow the (doomsday) prepper philosophy (you know, the ones who plan and train to survive the end of the civilized world), in the event of a pandemic, you must isolate in a place easy to defend and rich in renewable resources (water and food). Tasmania is exactly that [just kidding, we planned to visit the island before the austral winter anyway].
