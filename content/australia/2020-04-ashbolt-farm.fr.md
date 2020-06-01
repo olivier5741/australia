@@ -3,7 +3,7 @@ title: Ashbolt Farm
 date: 2020-04-05
 image:  https://lh3.googleusercontent.com/KG16y7iOilmqwStYPaBh1_ovUPr8B-Jqv5S5x4NM5gnsTg1-zh-hxIhA3IUppwhOxB-R_LnuFOyZXRPNu1y33qjoe5hv9A0xrLj2SdD32zW4SB48iGlodR7vwrZdXwssfghFVMgC4as
 album: https://photos.app.goo.gl/CDL4QEhMRqCaxy5k6 
-draft: false
+draft: true
 ---
 
 La cabane de Lorinna Valley était un peu étroite pour tout ce petit monde, on cherche donc d'autres bonnes âmes pour nous héberger. La Tasmanie est toujours en isolement : campings et parcs nationaux sont fermés, les déplacements doivent se limiter à l'essentiel. Via workaway, on prend contact avec Anne et Bob qui ont besoin de bras dans leur ferme. On traverse l'île du Nord au Sud en quelques heures pour se retrouver à New Norfolk, près de Hobart.
