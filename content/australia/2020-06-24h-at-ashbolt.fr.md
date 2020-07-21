@@ -3,7 +3,7 @@ title: Ashbolt Farm
 date: 2020-06-03
 image: https://lh3.googleusercontent.com/lXqJ-sUUr44JMlj2M--jOJT-x2bLc2DLNlDzL4bI_HbHvBjGFVQnd60EFfpharVehc23nAGlvsNeI_3oEPZzBXKDeF7I3o8Zhc-JHCXg11bGK4iMYw_gJmEk3Ib_um9PdD8dPg-eeEw
 album: https://photos.app.goo.gl/wduqQssXTpBZDh4C8
-draft: false
+draft: true
 ---
 
 "No milk today my love is gone away" 
