@@ -1,8 +1,8 @@
 ---
 title: Ashbolt Farm
 date: 2020-04-05
-image: https://lh3.googleusercontent.com/KG16y7iOilmqwStYPaBh1_ovUPr8B-Jqv5S5x4NM5gnsTg1-zh-hxIhA3IUppwhOxB-R_LnuFOyZXRPNu1y33qjoe5hv9A0xrLj2SdD32zW4SB48iGlodR7vwrZdXwssfghFVMgC4as
-album: https://photos.app.goo.gl/CDL4QEhMRqCaxy5k6
+image: 
+album: https://lh3.googleusercontent.com/KG16y7iOilmqwStYPaBh1_ovUPr8B-Jqv5S5x4NM5gnsTg1-zh-hxIhA3IUppwhOxB-R_LnuFOyZXRPNu1y33qjoe5hv9A0xrLj2SdD32zW4SB48iGlodR7vwrZdXwssfghFVMgC4as https://photos.app.goo.gl/CDL4QEhMRqCaxy5k6
 draft: false
 ---
 
@@ -10,7 +10,7 @@ The cabin of Lorinna Valley was a bit narrow for all these people, so we are loo
 
 We stay in the old chicken coop, completely and comfortably rehabilitated. Our cute little cabin, nested in the orchard still needs some improvements to make our life easier. Anne and Bob are kind of collectors and their (huge!) sheds are full of various materials that are just waiting to be exploited. Being "experts" in recycled furniture of all types, we build shelves and drawers under the sink as well as a sofa bed. We are not the only volunteers, Elena and Mitchell live in a small container (fitted out of course) a little further. And there are three employees we work with regularly: Baden, Chris and Hendrick.
 
-![The cabin in the orchard. Bernard, the lizard who lives on our doorstep. A visiting spider and Hortus, our sourdough] (https://lh3.googleusercontent.com/J8ucyxCM7tQXKk9lPwzWvGFJDhHtysgbW6wPDuNJC0yhch7I_IvQXsuDQ_3b7c7ezy0DuEnjFRVhq_QkNUZMWfcSn3Y96ddkDYmjrxt7CdNT14TUbDrklZhFYZQO7odKo7l_VKrAQSc)
+![The cabin in the orchard. Bernard, the lizard who lives on our doorstep. A visiting spider and Hortus, our sourdough](https://lh3.googleusercontent.com/J8ucyxCM7tQXKk9lPwzWvGFJDhHtysgbW6wPDuNJC0yhch7I_IvQXsuDQ_3b7c7ezy0DuEnjFRVhq_QkNUZMWfcSn3Y96ddkDYmjrxt7CdNT14TUbDrklZhFYZQO7odKo7l_VKrAQSc)
 
 There's no shortage of work, never! It is a large farm which produces elders drinks (flowers and / or fruit), olive oil, Hereford cows and goats. There is, of course, the endless fence repair job, like in every farm in the world. The vegetable patch also needs attention and weeding. Apples, pears, crab apples and quinces are ripe, we pick them to be pressed before the opossums eat them. We are also starting a great process of tidying up and rearranging the sheds. There are tools and materials for all tastes, from plumber to electrician, carpenter to blacksmith, but it's like looking for a needle in haystack.
 
