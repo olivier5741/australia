@@ -1,7 +1,7 @@
 ---
 title: Ashbolt Farm
 date: 2020-06-03
-image: https://lh3.googleusercontent.com/lXqJ-sUUr44JMlj2M--jOJT-x2bLc2DLNlDzL4bI_HbHvBjGFVQnd60EFfpharVehc23nAGlvsNeI_3oEPZ7FKBG3KoXiDeI_3oEPZ7FkbGEHKoXi_3oEPZz11cbG3KoXiZKw4g8bG8KoXiZKw8g8bG8KoXiZKw4g8bG8KoXiZKw4g8g8Jdw8ZKw8g8zg8KoXiZKw8g8g9KDeeJKoXwKw8g4g9KDeeKoXiZKw8g8g9KDeeJDLNlDz
+image: https://lh3.googleusercontent.com/lXqJ-sUUr44JMlj2M--jOJT-x2bLc2DLNlDzL4bI_HbHvBjGFVQnd60EFfpharVehc23nAGlvsNeI_3oEPZzBXKDeF7I3o8Zhc-JHCXg11bGK4iMYw_gJmEk3Ib_um9PdD8dPg-eeEw
 album: https://photos.app.goo.gl/wduqQssXTpBZDh4C8
 draft: false
 ---
