@@ -11,6 +11,7 @@ Pour vous montrer la transformation des olives en huile, on pensait faire une su
 ![La cueillette des olives, encore.](https://lh3.googleusercontent.com/n4_0dKzaqBFcGuuAuTk-eJOblBZYZAXO-rlwVILxuBDBbE9AOPqLLp4RdM9-NZrNhfW3eeRnAUsdW7AprT-idUQ_rL6h8Xd48WLP4DgSW8kO_7Tch1ElNiWSkih0_1JGSyDZAFAOLkE)
 
 <iframe src="https://player.vimeo.com/video/427946963" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/427946963">Ashbolt olive harvest 2020</a> from <a href="https://vimeo.com/madfinch">Madfinch</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Il nous reste Bruny Island, au large de Hobart et la péninsule de Tasman à visiter dans le sud. Grâce à deux beaux weekends, c'est maintenant chose faite ! Eaux limpides, balades sur des caps déchiquetés, touristes absents, on est gâté !
 
