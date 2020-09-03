@@ -3,14 +3,16 @@ title: Bye bye Ashbolt farm
 date: 2020-08-06
 image: https://lh3.googleusercontent.com/FNk_J0DkGw-xICXhq938Zhb1SZ6PL7iO84iM-FcvXNo_fiy30EgehUEfxSpQ5eKxfp5e6I9k2qLmQbg40Wt18LbG-pc-RwcRcUZ45CKBfFdhZPYXa1V7q8pfVTxu7Q5UzAYx6v2CLig
 album: https://photos.app.goo.gl/6aqSPjLWuwzDkESY7
-draft: true
+draft: false
 ---
 
 Pour vous montrer la transformation des olives en huile, on pensait faire une super vidéo... Mais les lumières n'étaient pas bonnes, on n'avait pas le temps, ... Heureusement, un photographe professionnel est passé le premier jour de la récolte, il faisait très beau, il avait un drone... Bref, sa vidéo vend du rêve !! En vrai, c'était parfois un peu moins glamour... C'est bruyant, ça fait mal aux épaules et au cou et, certains jours, il y a tellement de brouillard qu'on ne voit pas le bout de la rangée... ;)
 
 ![La cueillette des olives, encore.](https://lh3.googleusercontent.com/n4_0dKzaqBFcGuuAuTk-eJOblBZYZAXO-rlwVILxuBDBbE9AOPqLLp4RdM9-NZrNhfW3eeRnAUsdW7AprT-idUQ_rL6h8Xd48WLP4DgSW8kO_7Tch1ElNiWSkih0_1JGSyDZAFAOLkE)
 
-<iframe src="https://player.vimeo.com/video/427946963" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p><a href="https://vimeo.com/427946963">Ashbolt olive harvest 2020</a> from <a href="https://vimeo.com/madfinch">Madfinch</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/427946963" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+{{% vimeo id="427946963" caption="On était probablement pas assez photogénique ce jour-là pour ne pas apparaître sur la vidéo :p." %}}
 
 Il nous reste Bruny Island, au large de Hobart et la péninsule de Tasman à visiter dans le sud. Grâce à deux beaux weekends, c'est maintenant chose faite ! Eaux limpides, balades sur des caps déchiquetés, touristes absents, on est gâté !
 
@@ -26,7 +28,7 @@ Brusquement, alors qu'il restait presque un demi verger à récolter, Bob et Ann
 
 Le printemps est en route, les jours rallongent, il fait plus doux (sauf le jour où il neige pour nous rappeler que c'est encore l'hiver !)... On traverse les Midlands, au nord-est de Hobart. Ce sont d'immenses plaines à moutons, inondées par les récentes pluies, ponctuées de petites villes historiques. On tente de camper la première nuit dans les hautes collines mais la neige nous empêche de grimper une petite côte pour se garer à plat. Le Mentos a une très mauvaise adhérence et, malgré nos nombreuses couvertures, la nuit n'aurait pas été chaude...
 
-![Ross, petite ville historique. Te rappelles-tu de [cette photo-ci](https://lh3.googleusercontent.com/OionzKi9EfVdMvbJhv5maFxqByNDPr9-045RP9ukTbgsBWq_SGB82M5SqI_-Gfa_SJFc4JN_AayXmTjfogmLSSOVSMAjZoWKzuKh-XBD9qsFCzkft2zb3ka1HedW7bCKagxGVvb6ZlI) :)](https://lh3.googleusercontent.com/vqojRqZZWbWgCvwwzNSoqnfSak9-jcV-HdrRn3_4Rj_C0HNeXP7kIAS19j1swCDRIl893T4s65GCTa5xal9jRExj-fYcDbPaZ-3APpSNayWb75JKOpmikLejT63tTF4WbQQHzfEn9WM)
+![Ross, cette petite ville historique.](https://lh3.googleusercontent.com/vqojRqZZWbWgCvwwzNSoqnfSak9-jcV-HdrRn3_4Rj_C0HNeXP7kIAS19j1swCDRIl893T4s65GCTa5xal9jRExj-fYcDbPaZ-3APpSNayWb75JKOpmikLejT63tTF4WbQQHzfEn9WM)
 
 On bifurque donc vers la côte Est. À Bicheno, on scrute la mer pour voir les baleines en migration... Mais elles ne sont pas là aujourd'hui ! Il y a quelques phoques qui prennent le soleil sur un rocher et toute une colonie de bruyants pingouins à la nuit tombée (on ne peut pas les prendre en photos pour ne pas les aveugler avec le flash de l'appareil photo).
 
