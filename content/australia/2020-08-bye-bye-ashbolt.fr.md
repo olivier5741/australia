@@ -1,9 +1,9 @@
- ---
+---
 title: Bye bye Ashbolt farm
 date: 2020-08-06
 image: https://lh3.googleusercontent.com/FNk_J0DkGw-xICXhq938Zhb1SZ6PL7iO84iM-FcvXNo_fiy30EgehUEfxSpQ5eKxfp5e6I9k2qLmQbg40Wt18LbG-pc-RwcRcUZ45CKBfFdhZPYXa1V7q8pfVTxu7Q5UzAYx6v2CLig
 album: https://photos.app.goo.gl/6aqSPjLWuwzDkESY7
-draft: false
+draft: true
 ---
 
 Pour vous montrer la transformation des olives en huile, on pensait faire une super vidéo... Mais les lumières n'étaient pas bonnes, on n'avait pas le temps, ... Heureusement, un photographe professionnel est passé le premier jour de la récolte, il faisait très beau, il avait un drone... Bref, sa vidéo vend du rêve !! En vrai, c'était parfois un peu moins glamour... C'est bruyant, ça fait mal aux épaules et au cou et, certains jours, il y a tellement de brouillard qu'on ne voit pas le bout de la rangée... ;)
