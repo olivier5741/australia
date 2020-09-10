@@ -3,10 +3,10 @@ title: Bye bye Ashbolt farm
 date: 2020-08-06
 image: https://lh3.googleusercontent.com/FNk_J0DkGw-xICXhq938Zhb1SZ6PL7iO84iM-FcvXNo_fiy30EgehUEfxSpQ5eKxfp5e6I9k2qLmQbg40Wt18LbG-pc-RwcRcUZ45CKBfFdhZPYXa1V7q8pfVTxu7Q5UzAYx6v2CLig
 album: https://photos.app.goo.gl/6aqSPjLWuwzDkESY7
-draft: false
+draft: true
 ---
 
-The idea was to make a nice video to show how olives are turned into oil ... But the lights weren't good, we didn't have the time, ... Hopefully a professional photographer came by on the first day of the harvest, the weather was very nice and he had a drone ... The video was brilliant !! In reality, it wasn't that glamorous ... It's noisy, your shoulders and neck hurt and, on some days, there is so much fog that you can't see the end of the row. ..;)
+The idea was to make a nice video to show how olives are turned into oil ... But the lights weren't good, we didn't have the time, ... Hopefully a professional photographer came by on the first day of the harvest, the weather was very nice and he had a drone ... The video was brilliant !! In reality, it wasn't that glamorous ... It's noisy, your shoulders and neck hurt and, on some days, there is so much fog that you can't see the end of the row ... ;)
 
 ![The olive harvest, again and again.](https://lh3.googleusercontent.com/n4_0dKzaqBFcGuuAuTk-eJOblBZYZAXO-rlwVILxuBDBbE9AOPqLLp4RdM9-NZrNhfW3eeRnAUsdW7AprT-idUQ_rL6h8Xd48WLP4DgSW8kO_7Tch1ElNiWSkih0_1JGSyDZAFAOLkE)
 
@@ -38,7 +38,7 @@ The charming little village of St Marys is the perfect spot for morning tea. "Ho
 
 ![Bay of Fires, great sun and dolphins surfing the waves.](https://lh3.googleusercontent.com/TDcqiIi7C_4CuoLvzRs7JI0WxYzmfb81AuxUyaFed6iloKbRjVd15Ni18c6ruNGNOvaLJHORR2bZS8FVmqiNfCIWBtfFkpVA9jR-AFE4n0o8oIzqZaSmoVph5s9aj_RlHcQENcaIids)
 
-The season may not be optimal for climbing summits but heavy rains fuel up the waterfalls. Halls Falls, St Columba Falls, Ralph Falls don't disappoint us. Even at Lylidale Falls, giant ferns were everywhere. Too bad the platypus (seen this morning in the public park pond) overshadows all of today's attraction.
+The season may not be optimal for climbing summits but heavy rains fuel up the waterfalls. Halls Falls, St Columba Falls, Ralph Falls don't disappoint us. Even at Lylidale Falls, giant ferns are everywhere. Too bad the platypus (seen this morning in the public park pond) overshadows all of today's attraction.
 
 ![The center of the northwest. A pademelon, a platypus and a pioneer carved into a stump.](https://lh3.googleusercontent.com/NUbPiIM35V1WBVagDSm-WOgRRcMqKabNU4OwrEz-qcCdyjCG6gvJjvd_IGaOUkjK5qp642jccSKpyFH3gKD6yM4OqVoYwqsJ6XpckXyi3Qk7Ysv0UIIw6tCLQhUvo2Lfja2O0cuCkLQ)
 
