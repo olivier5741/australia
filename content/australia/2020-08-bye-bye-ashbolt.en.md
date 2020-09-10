@@ -3,7 +3,7 @@ title: Bye bye Ashbolt farm
 date: 2020-08-06
 image: https://lh3.googleusercontent.com/FNk_J0DkGw-xICXhq938Zhb1SZ6PL7iO84iM-FcvXNo_fiy30EgehUEfxSpQ5eKxfp5e6I9k2qLmQbg40Wt18LbG-pc-RwcRcUZ45CKBfFdhZPYXa1V7q8pfVTxu7Q5UzAYx6v2CLig
 album: https://photos.app.goo.gl/6aqSPjLWuwzDkESY7
-draft: false
+draft: true
 ---
 
 To show you the transformation of olives into oil, we thought we would make a great video ... But the lights weren't good, we didn't have time, ... Fortunately, a professional photographer came by on the first day of the harvest, the weather was very nice, he had a drone ... In short, his video sells dreams !! In truth, it was sometimes a little less glamorous ... It's noisy, it hurts your shoulders and neck and, on some days, there is so much fog that you can't see the end of the row. ..;)
