@@ -39,7 +39,7 @@ Dans le charmant petit village de St Marys, on se rend au café : "Est-ce que vo
 
 ![Bay of Fires, grand soleil et des dauphins surfant la vague.](https://lh3.googleusercontent.com/TDcqiIi7C_4CuoLvzRs7JI0WxYzmfb81AuxUyaFed6iloKbRjVd15Ni18c6ruNGNOvaLJHORR2bZS8FVmqiNfCIWBtfFkpVA9jR-AFE4n0o8oIzqZaSmoVph5s9aj_RlHcQENcaIids)
 
-La saison n'est peut-être pas optimale pour gravir des sommets mais les averses donnent du corps aux chutes d'eau. Halls Falls, St Columba Falls, Ralph Falls ne nous déçoivent pas. Même à Lylidale Falls, les fougères géantes étaient au rendez-vous. Dommage que l'ornithorynque de ce matin, dans l'étang du parc public, ne lui vole la chandelle de meilleure attraction de la journée. 
+La saison n'est peut-être pas optimale pour gravir des sommets mais les averses donnent du corps aux chutes d'eau. Halls Falls, St Columba Falls, Ralph Falls ne nous déçoivent pas. Même à Lylidale Falls, les fougères géantes étaient au rendez-vous. Dommage que l'ornithorynque de ce matin, dans l'étang du parc public, ne lui vole la vedette de meilleure attraction de la journée. 
 
 ![Le centre du nord-ouest. Un pademelon, un ornithorynque et un pionnier tronçonné dans une souche. ](https://lh3.googleusercontent.com/NUbPiIM35V1WBVagDSm-WOgRRcMqKabNU4OwrEz-qcCdyjCG6gvJjvd_IGaOUkjK5qp642jccSKpyFH3gKD6yM4OqVoYwqsJ6XpckXyi3Qk7Ysv0UIIw6tCLQhUvo2Lfja2O0cuCkLQ)
 
