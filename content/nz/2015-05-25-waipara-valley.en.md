@@ -3,7 +3,7 @@ title: "Waipara Valley"
 date: 2015-05-25
 date-begin: 2015-05-25
 date-end: 2015-07-07
-image: "http://lh3.googleusercontent.com/-HgZ1JWj35gE/VYzuTx6IpyI/AAAAAAAAFqs/IL4Bjsk76cw/s1280/upload_-1.jpg"
+image: "https://lh3.googleusercontent.com/-HgZ1JWj35gE/VYzuTx6IpyI/AAAAAAAAFqs/IL4Bjsk76cw/s1280/upload_-1.jpg"
 album: "https://goo.gl/photos/oQNW58aD5EvzE4wC7"
 ---
 
@@ -11,30 +11,30 @@ Monday morning, 8am, like everybody, we're going to work... What's special about
 
 {{< video src="https://drive.google.com/uc?export=download&id=1OgSpexVPYj9LzYfgM4e5fAnGLYoIzFd4" caption="Our job in a nutshell" >}}
 
-![Winter pruning in the vineyard](http://lh3.googleusercontent.com/-0c_MLDtSqi4/VYzuZd_dcGI/AAAAAAAAFrM/T2Nwsekb3ik/s1280/upload_-1.jpg)
+![Winter pruning in the vineyard](https://lh3.googleusercontent.com/-0c_MLDtSqi4/VYzuZd_dcGI/AAAAAAAAFrM/T2Nwsekb3ik/s1280/upload_-1.jpg)
 
 4pm, the day is over and we go to the library. Is it to borrow a book? No, not this time. It's to ask for an accommodation! :) We're told that one of the librarian, Susie, sometimes welcomes people like us. Two hours later, we're driving along her driveway. We're let in by Jenn and Ron. Jenn is the Taiwanese vet who also rent a room at Susie's and Ron is the old working dog from the house. There's a huge fire, the house is bright and our room is really comfortable, we're in heaven!! In these excellent conditions, we keep on working at the vineyard.
 
-![Susie's Victorian house](http://lh3.googleusercontent.com/-mXRwpDYYcL8/VYzudtKtKHI/AAAAAAAAFrk/e_IUzGlxw80/s1280/upload_-1.jpg)
+![Susie's Victorian house](https://lh3.googleusercontent.com/-mXRwpDYYcL8/VYzudtKtKHI/AAAAAAAAFrk/e_IUzGlxw80/s1280/upload_-1.jpg)
 
 
-![Amberley Beach and Mount Grey](http://lh3.googleusercontent.com/-OoP45dT7DWI/VYzujtb0RWI/AAAAAAAAFsE/oSrsll4AVEE/s1280/upload_-1.jpg)
+![Amberley Beach and Mount Grey](https://lh3.googleusercontent.com/-OoP45dT7DWI/VYzujtb0RWI/AAAAAAAAFsE/oSrsll4AVEE/s1280/upload_-1.jpg)
 
 
 We help Susie during the weekends: tidying her several garages (one of them is meant for our lovely car) and sheds, preparing some compost, vaccinating the sheep, painting and some tinkering.  'Culinary cultural exchange' is intense : Susie, from England, cooks up wonderful stews, Jenn introduces us to asian specialities (try the hot pot !!) and we cooked them venison with cranberried pears and croquettes. On the other side, Ron is vegetarian : the poor thing is allergic to meat, incredible for a dog.
 
-![Ron](http://lh3.googleusercontent.com/-0Qgc0NmTqV0/VYzus_59X7I/AAAAAAAAFs8/4jgOqnX6Y_A/s1280/upload_-1.jpg)
+![Ron](https://lh3.googleusercontent.com/-0Qgc0NmTqV0/VYzus_59X7I/AAAAAAAAFs8/4jgOqnX6Y_A/s1280/upload_-1.jpg)
 
-![Amazon, another of Susie's guest](http://lh3.googleusercontent.com/-DzcigE65uHU/VYzuo6MnQkI/AAAAAAAAFsk/aCEN5gLh0FY/s1280/upload_-1.jpg)
+![Amazon, another of Susie's guest](https://lh3.googleusercontent.com/-DzcigE65uHU/VYzuo6MnQkI/AAAAAAAAFsk/aCEN5gLh0FY/s1280/upload_-1.jpg)
 
 Special weekend : we go to Kaikoura with Ron (Susie is on holiday in Wanaka) and Jen. Jen's boss offered us his holiday home (the boat was even part of the deal but no one got his navigation permit ... :) )
 
-![Kaikoura Beach](http://lh3.googleusercontent.com/-Fwm9UCtrYbY/VZ2wiOq9WLI/AAAAAAAAF5k/ssBNKXFCxdU/s1280/PhotoGrid_1436256539833.jpg)
+![Kaikoura Beach](https://lh3.googleusercontent.com/-Fwm9UCtrYbY/VZ2wiOq9WLI/AAAAAAAAF5k/ssBNKXFCxdU/s1280/PhotoGrid_1436256539833.jpg)
 
-![Sawcut Gorge, or how to cross 25 times the same river (should be amazing in summer ;) )](http://lh3.googleusercontent.com/-rhGKFKrhrag/VZ2wiPGqOhI/AAAAAAAAF5Y/wrA0y9rvHc8/s1280/PhotoGrid_1436256800063.jpg)
+![Sawcut Gorge, or how to cross 25 times the same river (should be amazing in summer ;) )](https://lh3.googleusercontent.com/-rhGKFKrhrag/VZ2wiPGqOhI/AAAAAAAAF5Y/wrA0y9rvHc8/s1280/PhotoGrid_1436256800063.jpg)
 
 {{< video src="https://drive.google.com/uc?export=download&id=0BzIZ3dfuz-CEbk1hNDEzTE02Zm8" caption="Ron seems to dislike crossing other vehicules" >}}
 
 Pimp my chariot - third episode : the kitchen. Our tiny cheap gaz cookers are no longer able to boil water. We need to invest. We purchase a new machine made of cast iron that can be plugged into a gaz bottle. The whole is in a tailored drawer that retracts under the cover of the open rear door.
 
-![Before, after](http://lh3.googleusercontent.com/-4uiBBABowX4/VaCb_XhsVyI/AAAAAAAAF6s/eV6Xhajxt7c/s1280/PhotoGrid_1436569515374.jpg)
+![Before, after](https://lh3.googleusercontent.com/-4uiBBABowX4/VaCb_XhsVyI/AAAAAAAAF6s/eV6Xhajxt7c/s1280/PhotoGrid_1436569515374.jpg)

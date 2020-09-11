@@ -1,7 +1,7 @@
 ---
 title: "Nougatine/praliné"
 date: 2015-03-30
-image: "http://lh3.ggpht.com/-f4G8tUyLOc8/VSRPCeJJeAI/AAAAAAAAD7c/9y8rNaLdSQA/s1280/upload_-1.jpg"
+image: "https://lh3.ggpht.com/-f4G8tUyLOc8/VSRPCeJJeAI/AAAAAAAAD7c/9y8rNaLdSQA/s1280/upload_-1.jpg"
 ---
 
 ## Ingrédients:

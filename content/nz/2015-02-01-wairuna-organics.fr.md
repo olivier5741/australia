@@ -1,7 +1,7 @@
 ---
 title: Wairuna organics
 date: 2015-02-01 00:00:00 +0000
-image: http://lh6.ggpht.com/-gcehNllkj8A/VOb_AenaU8I/AAAAAAAABUE/Lqh3a4PMq8k/s1280/upload_-1.jpg
+image: https://lh6.ggpht.com/-gcehNllkj8A/VOb_AenaU8I/AAAAAAAABUE/Lqh3a4PMq8k/s1280/upload_-1.jpg
 album: https://goo.gl/photos/t5oshXucxc4fdPQo8
 
 ---
