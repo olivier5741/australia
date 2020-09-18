@@ -3,7 +3,7 @@ title: Gunns Plains
 date: 2020-08-14
 image: https://lh3.googleusercontent.com/WAppcyH8bbKYlnE4EQdKaQbglYUzsyi34MPNk2Xx1no75lHq__PWtM3iDdKf7N2Prq4AHtT1g-y0tiWXmx2IFZEjij3LrnPPVCDzuhLwG3bht4U-v7Y5Z6wJuEyFY5M1oOSDsJy4w-w
 album: https://photos.app.goo.gl/617VNUA48XmLV2eh7
-draft: false
+draft: true
 ---
 
 On arrive chez Penny et Steve par une maussade journée pluvieuse... Mais on est accueilli avec énormément d'enthousiasme par deux poilus amicaux... Suivis de près par Penny et Steve, tout aussi motivés ! Cela fait 4 ans qu'ils ont quitté la chaleur de Brisbane pour une ferme dans les vertes plaines du Nord de la Tasmanie. Ils élèvent des vaches Angus et Hereford et la saison des vêlages bat son plein, les prairies sont remplies de mamans et leurs petits. Pour ne pas qu'on soit dérangé s'ils se relèvent la nuit, on loge dans leur luxueuse location Airbnb (vide vu le manque de touristes lié au Covid) à quelques kilomètres de la ferme. On n'a rarement été aussi confortablement installé !
