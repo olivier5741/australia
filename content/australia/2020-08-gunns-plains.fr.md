@@ -1,0 +1,35 @@
+---
+title: Gunns Plains
+date: 2020-08-14
+image: https://lh3.googleusercontent.com/WAppcyH8bbKYlnE4EQdKaQbglYUzsyi34MPNk2Xx1no75lHq__PWtM3iDdKf7N2Prq4AHtT1g-y0tiWXmx2IFZEjij3LrnPPVCDzuhLwG3bht4U-v7Y5Z6wJuEyFY5M1oOSDsJy4w-w
+album: https://photos.app.goo.gl/617VNUA48XmLV2eh7
+draft: false
+---
+
+On arrive chez Penny et Steve par une maussade journée pluvieuse... Mais on est accueilli avec énormément d'enthousiasme par deux poilus amicaux... Suivis de près par Penny et Steve, tout aussi motivés ! Cela fait 4 ans qu'ils ont quitté la chaleur de Brisbane pour une ferme dans les vertes plaines du Nord de la Tasmanie. Ils élèvent des vaches Angus et Hereford et la saison des vêlages bat son plein, les prairies sont remplies de mamans et leurs petits. Pour ne pas qu'on soit dérangé s'ils se relèvent la nuit, on loge dans leur luxueuse location Airbnb (vide vu le manque de touristes lié au Covid) à quelques kilomètres de la ferme. On n'a rarement été aussi confortablement installé !
+
+![La ferme, ses environs et les poilus](https://lh3.googleusercontent.com/GxeLS0df5ALcJTzcRlGo1C_0MtczKd4YKigbZuNuUx9cEYWDVCkmBPl3wK742tHndOZqjDJwgILooG26xNyN3JHRuvmZOXhvaAGpUERPETFaYLv0FekSPF4SLsSsCVSbahZysbkSg_E)
+
+Tout roule comme sur des roulettes à la ferme et nos services de volontaires sont plutôt nécessaires dans le jardin... Alors que tout semble tellement paisible dans la vallée, une guerre sans merci se déroule dans les parterres de fleurs... Tout est envahi de lys italiens, une horrible plante invasive avec de gros bulbes plein de réserves très profond dans le sol... On creuse donc pour déterrer un maximum de ces indésirables mais le moindre petit bulbe oublié repousse en un rien de temps ! À peine a-t-on terminé un côté du jardin, qu'on peut recommencer à l'autre extrémité... Une seconde guerre est également déclarée contre les pierres dans les prairies... Armé du buggy, on sillonne les prairies et le moindre caillou, qui endommagerait la faucheuse, est ramassé... Il y a aussi la guerre contre les ronces le long de la rivière mais on ne peut pas être sur tous les fronts à la fois... ;)
+
+Finalement, une tâche à ne surtout pas négliger est de s'occuper des chiens... Percy et Lily adorent se promener, dans le bush, le long de la rivière, à la plage... La mission plage est notre préférée. Petit un,  explorer la plage un max avec les poilus et les déchaîner dans les piscines naturelles laissées par la mer à marée basse. Petit deux, récolter des algues à ras bord dans la benne du pickup pour le potager. Petit trois, groomer les chiens au dog wash (on a pas dit que c'était la mission favorite des chiens...).
+
+![Les poilus à la plage, trop cool. Les poilus au dog wash, un peu moins cool ...](https://lh3.googleusercontent.com/M3U3vlkslAyiQLz8lJ627Oe-eXwTYI2Mua_mbU0Fu_-V9QpthcYXncR1Tdms10VrGKkrUhqHaOh_-ZgAVb8rlsnO3PX0g5n0ml6D2PxUOnbnrqktLK-6eBUzYcd4R8dprnVzhAyTNQk)
+
+À trente ans, il est temps que Bibi apprenne à créer sa propre chance, enfin son propre bol ... (un cours d'humour semble plus approprié). La surprise d'anniversaire est un workshop de tour à bois. Quelques heures plus tard, on ressort fièrement avec nos deux petits bols (idéal pour mettre des chips selon notre coach, Brodwin). Il se fait tard et Brodwin nous propose de dormir dans leur shack. Waouw, trop sympa, tout en bois, un feu ouvert, sorry le Mentos mais là c'est dur de résister. Quelques jours plus tôt, Steve et Penny avait invité Helmet, un sculpteur et également un de nos proches voisins, pour célébrer ce cap de la trentaine.  On est complètement sous le charme de l'hospitalité tasmanienne.
+
+![Bibi a trente ans. Les bols prennent forme](https://lh3.googleusercontent.com/FXabd2A4mO7Uq-W5JcI2k-nII-bgxR5l-wn9ZHQcMKemvtCpVMWUw6oWqEFvhjV8SZ9SHKqEwMdDo7qJ-0etGXq6iiSM22mtQSfWALNJbi1jfzEmlmk00eIlnp8Uftj6kUAxA2OXujc)
+
+"J'ai trouvé des chaussettes !" s'écrie Steve. "Les manteaux et pantalons de pluie sont sur le canapé, le réchaud doit être dans la remise" s'enthousiasme Penny. Du bonnet jusqu'aux chaussettes (à part le caleçon ou culotte), Penny et Steve nous prêtent du matos de ouf malade pour faire le Overland track. Choix peu original on vous l'admet : c'est la randonnée la plus célèbre de Tasmanie. La petite touche olé-olé est de faire la traversée en hiver. Brrr ... Heureusement il y a des huttes à intervalles réguliers. Elles sont chauffées ... ouf ... jusqu'à un certain degré (au sens propre) : au-delà de 10°C le système ne s'active pas pour économiser le gaz helitreuillé. Brrr quand même. C'est ça le "bush walking". Enfin le vrai bush walker ne dort que dans une tente, n'emprunte que des chemins peu/non balisés et ne contourne pas les mares de boues.
+
+Le trek ne bat pas des records d'affluence en cette période et vu le covid. Se balader dans ses régions isolées et sauvages est avant tout social malgré tout :). Au comptoir d'inscription (passage obligatoire histoire de faire peur au plouc mal équipé), on fait la connaissance de Alen et Lauren. Après une journée éprouvante sur les flancs de Cradle Mountain à travers la neige, on retrouve nos 8 compagnons du jour à la première hutte. Discute, popote, photos de wombat, la soirée est décontractée. On craque total le deuxième jour, on saute une hutte et l'on se retrouve à marcher 24kms. 
+
+![Le Overland track, Cradle Mountain et notre plus beau wombat](https://lh3.googleusercontent.com/MIfvKpF6PtAqzy9FMwxKWe73IdfGzfdKzPwRq0HDRAYMubOlRN1UDZligFy76Vj1AQFngilRijH3gtcxIhGPEBBe5ATdYZf-RzSffAxuPW-1Cqw7b-bm4ur5FRjRwvCWjKgkde6qP94)
+
+![La fin du Overland track](https://lh3.googleusercontent.com/-fDHp3EI1gcxKmwZOPfivfA-Mf95A9x8WKyJX9BY9UHqYXlK56nzgyA9jChdzyA5dQZ7x7XI1QtQ2dc-Hfj6I5RdyHgaJlthl110YReo-8a3NoJVugcDLzEdoc3-pcUoTw_7SaXpz1M) 
+...
+
+// Grâce au prêt de matériel de randonnée par Penny et Steve, on se décide à partir pour plusieurs jours. Notre choix n'est pas super original, Overland Track est la randonnée la plus célèbre de Tasmanie, bien balisée et ponctuée de huttes à intervalles réguliers. Au moins, on réduit le risque de se perdre en route. Covid oblige, on est sûr que ça ne se bousculera pas sur le sentier...
+
+// Chaussette penny et Steve, nourriture p et s ...
+// Ornithorynques sur le retour
