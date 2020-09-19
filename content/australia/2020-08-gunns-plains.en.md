@@ -1,14 +1,14 @@
 ---
 title: Gunns Plains
 date: 2020-08-14
-image: https://lh3.googleusercontent.com/WAppcyH8bbKYlnE4EQdKaQbglYUzsyi34MPNk2Xx1no75lHq__PWtM3iDdKf7N2Prq4AHtT1g-y0tiWXwwx2IFZ4Pzhyv3b3Lrn
+image: https://lh3.googleusercontent.com/WAppcyH8bbKYlnE4EQdKaQbglYUzsyi34MPNk2Xx1no75lHq__PWtM3iDdKf7N2Prq4AHtT1g-y0tiWXmx2IFZEjij3LrnPPVCDzuhLwG3bht4U-v7Y5Z6wJuEyFY5M1oOSDsJy4w-w
 album: https://photos.app.goo.gl/617VNUA48XmLV2eh7
-draft: false
+draft: true
 ---
 
 We arrive at Penny and Steve's house on a gloomy rainy day ... But we are greeted with great enthusiasm by two friendly hairy ... Followed closely by Penny and Steve, just as motivated! It's been 4 years since they left the heat of Brisbane for a farm in the green plains of northern Tasmania. They raise Angus and Hereford cows and the calving season is in full swing, the meadows are filled with mothers and their young. So as not to be disturbed if they get up at night, we stay in their luxurious Airbnb rental (empty given the lack of tourists linked to the Covid) a few kilometers from the farm. We have rarely been so comfortably installed!
 
-![The farm, its surroundings and the hairy people](https://lh3.googleusercontent.com/GxeLS0df5ALcJTzcRlGo1C_0MtczKd4YKigbZuNuUx9cEYWDVCkmBPl3wK742tHndOZqjDJuvaHrzbLK742tHndOZqjDJuvaHrZBYNooG26JahxDJuvaHZBYNooG26x)
+![The farm, its surroundings and the hairy people](https://lh3.googleusercontent.com/GxeLS0df5ALcJTzcRlGo1C_0MtczKd4YKigbZuNuUx9cEYWDVCkmBPl3wK742tHndOZqjDJwgILooG26xNyN3JHRuvmZOXhvaAGpUERPETFaYLv0FekSPF4SLsSsCVSbahZysbkSg_E)
 
 Everything runs smoothly on the farm and our volunteer services are rather necessary in the garden ... While everything seems so peaceful in the valley, a merciless war is taking place in the flower beds ... Everything is invaded Italian lilies, a horrible invasive plant with large bulbs full of reserves very deep in the ground ... So we dig to unearth a maximum of these unwanted but the smallest forgotten bulb grows back in no time! No sooner has one side of the garden been completed, than one can start again at the other end ... A second battle is also declared against the stones in the meadows ... Armed with the buggy, we cross the meadows and the smallest stone, which would damage the mower, is picked up ... There is also the fight against the brambles along the river but we cannot be on all fronts at the same time ... ;)
 
