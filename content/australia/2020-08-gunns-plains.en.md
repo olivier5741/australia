@@ -3,7 +3,7 @@ title: Gunns Plains
 date: 2020-08-14
 image: https://lh3.googleusercontent.com/WAppcyH8bbKYlnE4EQdKaQbglYUzsyi34MPNk2Xx1no75lHq__PWtM3iDdKf7N2Prq4AHtT1g-y0tiWXmx2IFZEjij3LrnPPVCDzuhLwG3bht4U-v7Y5Z6wJuEyFY5M1oOSDsJy4w-w
 album: https://photos.app.goo.gl/617VNUA48XmLV2eh7
-draft: false
+draft: true
 ---
 
 We arrive at Penny and Steve's cottage on a gloomy rainy day ... But we are greeted with great enthusiasm by two hairy doggies ... Followed closely by Penny and Steve, just as motivated! It's been 4 years since they left the heat of Brisbane for a farm in the green plains of northern Tasmania. They raise Angus and Hereford cows and the calving season is in full swing, the meadows are filled with mothers and their young. So as not to be disturbed if they get up at night, we stay in their luxurious Airbnb rental (empty given the lack of tourists due to Covid) a few kilometers from the farm. We have rarely been so comfortably installed, jay ! 
