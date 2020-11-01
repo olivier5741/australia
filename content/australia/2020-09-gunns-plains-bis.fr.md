@@ -3,7 +3,7 @@ title: Gunns Plains bis
 date: 2020-09-14
 image: https://lh3.googleusercontent.com/t94PwAzc8XGvglGqQpRLsfO_Z5FmPQ8t0q9vFFMT5sYJBjCFY3fe3jCYrZmoLEkbWugBuRDAsrdGZ0BiP0Udn3r7dWG7Ky5WGD0rANmAZCUZByW0MwbsNQ0nZFdhvxrH5Rs1XiLfZy0
 album: https://photos.app.goo.gl/fFoPr12FjdA6iYdE9
-draft: false
+draft: true
 ---
 
 Le temps passe vite quand on s'amuse... Chouchouté presque à l'excès, on est encore chez Penny et Steve pour un petit temps.
