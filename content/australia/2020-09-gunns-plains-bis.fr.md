@@ -14,8 +14,6 @@ On épingle notre destination sur la carte : le nord ouest de la Tasmanie, parfa
 
 On quitte la côte pour s'enfoncer dans la forêt tempérée humide. La route est controversée. Pour la petite histoire, notre voisin, Helmut, sculpteur, s'était fait arrêté par la police lors d'une manifestation pour empêcher la construction de la route (et donc l'accès à la forêt par les exploitants forestiers) il y a une trentaine d'années. C'est d'ailleurs en Tasmanie que le premier parti écologiste au monde est né pour lutter contre l'exploitation forestière à outrance.
 
-Pour pérenniser la protection de l'environnement, 
-
 ![La ville de Stanley au pied d'un énorme rocher surnommé The Nut et le nord-ouest de la Tasmanie.](https://lh3.googleusercontent.com/wWSZ3Y-Dh8UPqr0ugGtcMqW2vzT74HL3VEzBD-li0RkjHX2buo0iqvB_SbQ8qS60EhYeVc4sZCYz7XDs-VBFSzUGeUPTUAFWVG6f6liXcPUlmGIX9YBGGPUZkaoAAo6SVEDQnR75iEY)
 
 On est prêt pour partir bosser: le buggy, est garé devant l'atelier, le câble électrique, le tuyau d'irrigation et les outils sont dans le bac arrière. Il ne reste plus qu'à résoudre l'épineux problème de banquette. Il n'y a malheureusement pas assez de place pour deux chiens et deux adultes, il va falloir que certains se dévouent à aller dans le bac... Les deux "chauffe-banquette" nous regardent avec intérêt creuser la tranchée, déposer la gaine, reboucher, passer un câble et connecter le tout. La manœuvre a pour but de faire passer le courant sous la barrière et donc éviter un coup de jus quand la porte est ouverte. Bientôt midi, Penny est en congé et nous mijote sa soupe préférée du moment : panais-carrote-pomme (préalablement rôtis au four) avec une franche cuillérée de mascarpone.
