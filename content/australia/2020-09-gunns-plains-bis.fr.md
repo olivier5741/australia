@@ -12,7 +12,7 @@ draft: false
 
 On épingle notre destination sur la carte : le nord ouest de la Tasmanie, parfait pour fêter le cap des 60 ans de l'équipe. La région regorge de vestiges aborigènes : grottes, restes de festin de coquillages (20 000 générations dégustant des crustacés, ça fait un conséquent monticule de coquilles) et même de délicates gravures sur pierre. Ils avaient bien choisi leur coin, il paraît que, à l'heure actuelle, c'est encore ici qu'on respire l'air le plus pur du monde (elixir de jeunesse éternelle assuré).
 
-On quitte la côte pour s'enfoncer dans la forêt tempérée humide. La route est controversée. Notre voisin, Helmut, sculpteur, nous avait raconté qu'il s'est fait arrêté par la police lors d'une manifestation pour empêcher la construction de la route (et donc l'accès à la forêt par les exploitants forestiers) il y a une trentaine d'années. La protection de l'environnement n'est jamais chose acquise.
+On quitte la côte pour s'enfoncer dans la forêt tempérée humide. La route est controversée. Notre voisin, Helmut, sculpteur, nous avait raconté qu'il s'est fait arrêté par la police lors d'une manifestation pour empêcher la construction de la route (et donc l'accès à la forêt par les exploitants forestiers) il y a une trentaine d'années. Pour se rappeler que la protection de l'environnement n'est jamais chose acquise.
 
 ![La ville de Stanley au pied d'un énorme rocher surnommé The Nut. Le nord-ouest de la Tasmanie.](https://lh3.googleusercontent.com/wWSZ3Y-Dh8UPqr0ugGtcMqW2vzT74HL3VEzBD-li0RkjHX2buo0iqvB_SbQ8qS60EhYeVc4sZCYz7XDs-VBFSzUGeUPTUAFWVG6f6liXcPUlmGIX9YBGGPUZkaoAAo6SVEDQnR75iEY)
 
@@ -30,8 +30,8 @@ On avait déjà hésité à visiter Maria Island il y a quelques mois. Justement
 
 Du soleil est annoncé sur la côte ouest (où il pleut en moyenne trois fois (!!) plus qu'en Belgique), on sort de nos tranchées pour quelques jours. Tullah est la porte d'entrée de l'ouest profond. La ruée minière est aujourd'hui bien estompée, néanmoins des lignes de trams désaffectées à Rosebery et des collines au revêtement lunaire à Queenstown font écho à un passé tumultueux. Mais, grâce à l'abondante pluviométrie, la forêt humide ne tarde pas à enfouir ces cicatrices. On cartographie soigneusement les différentes chutes d'eau pour ne pas en louper une seule (dont la plus haute de l'île, 104m) puis on se concentre sur les points d'intérêts autour de l'indomptable rivière Franklin. À Strahan, on assiste à un émouvant coucher du soleil sur les "tombes" des 300 baleines échouées ici il y a quelques semaines (on espérait également dénicher un diable en quête d'un steak de baleine glané sur la plage, mais rien ...).
 
-![La côte ouest](https://lh3.googleusercontent.com/0wKCKZ-1N7t-B4CbVDZTgHBKPgh-NUu28UJ6CkNbL1iI9jRnE_3AajZSanK_fLGxuRREUp73EWb30bmAR8ppQe3OwvWVco26D62VwvqLmuFxCdwn3xgODMycZNTDR2GpcZN-50Nyw48)
+![La côte ouest : de Tullah à Strahan](https://lh3.googleusercontent.com/0wKCKZ-1N7t-B4CbVDZTgHBKPgh-NUu28UJ6CkNbL1iI9jRnE_3AajZSanK_fLGxuRREUp73EWb30bmAR8ppQe3OwvWVco26D62VwvqLmuFxCdwn3xgODMycZNTDR2GpcZN-50Nyw48)
 
-![La côte ouest centrale](https://lh3.googleusercontent.com/bkw2-VYro_oBui3BLz-8cqhh1b4LkeNQJj8n4Gf6sKuAM0SwUDcQcSl87REQMZ3g3zeLDg_DDohdXiSC6fvkYETCOVgAu64Q3GS9vHo9ERmitogzZBcyJ7RBoLnXqHcpl0701oNkoyc)
+![La côte ouest : de Queenstown à la rivière Franklin](https://lh3.googleusercontent.com/bkw2-VYro_oBui3BLz-8cqhh1b4LkeNQJj8n4Gf6sKuAM0SwUDcQcSl87REQMZ3g3zeLDg_DDohdXiSC6fvkYETCOVgAu64Q3GS9vHo9ERmitogzZBcyJ7RBoLnXqHcpl0701oNkoyc)
 
 Faute de l'inexistence de tranchées autocreusantes, on retourne paisiblement à la ferme. Je connais des poilus qui vont être content de pouvoir à nouveau lécher nos assiettes de soupe (presque) vides.
