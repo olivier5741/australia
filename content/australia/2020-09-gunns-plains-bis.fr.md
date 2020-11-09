@@ -34,4 +34,4 @@ Du soleil est annoncé sur la côte ouest (où il pleut en moyenne trois fois (!
 
 ![La côte ouest : de Queenstown à la rivière Franklin](https://lh3.googleusercontent.com/bkw2-VYro_oBui3BLz-8cqhh1b4LkeNQJj8n4Gf6sKuAM0SwUDcQcSl87REQMZ3g3zeLDg_DDohdXiSC6fvkYETCOVgAu64Q3GS9vHo9ERmitogzZBcyJ7RBoLnXqHcpl0701oNkoyc)
 
-Faute de l'inexistence de tranchées autocreusantes, on retourne paisiblement à la ferme. Je connais des poilus qui vont être content de pouvoir à nouveau lécher nos assiettes de soupe (presque) vides.
+Bon c'est pas tout ça, les tranchées ne vont pas se creuser toutes seules. On a bien profité, on peut retourner paisiblement à la ferme. Je connais des poilus qui vont être content de pouvoir à nouveau lécher nos assiettes de soupe (presque) vides.
