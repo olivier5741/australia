@@ -26,7 +26,7 @@ We had already hesitated to visit Maria Island a few months ago. Penny is going 
 
 {{< video src="https://drive.google.com/uc?export=download&id=1HK6_gGopI-znRzffwGuuXolrdyKHCVXl" caption="One wombat running and another yawning" >}}
 
-Just to really celebrate Roro's thirties, we left for three days of horseback riding, one of them on the beach](https://lh3.googleusercontent.com/p9kSNUw71s_reUXdwfXpdxZRrFJ7WYOF8ZtmPzMHucLacw1gZzETdfeFF0No9URTlSuh-fUAm7deXlviVQK7raIMCPARnvMy6JTV6Yr-Sw5QuDo-NzT1GtDYQhODTaGSVdku2zm-E6s)
+![Just to really celebrate Roro's thirties, we left for three days of horseback riding, one of them on the beach](https://lh3.googleusercontent.com/p9kSNUw71s_reUXdwfXpdxZRrFJ7WYOF8ZtmPzMHucLacw1gZzETdfeFF0No9URTlSuh-fUAm7deXlviVQK7raIMCPARnvMy6JTV6Yr-Sw5QuDo-NzT1GtDYQhODTaGSVdku2zm-E6s)
 
 The sun is forecast on the west coast (where it rains on average three times (!!) more than in Belgium), we get out of our trenches for a few days. Tullah is the gateway to the deep west. The mining rush is now well blurred, but disused tram lines in Rosebery and moonlit hills in Queenstown echo a tumultuous past. Thanks to abundant rainfall, the rainforest is quick to bury these scars. The various waterfalls are carefully mapped so as not to miss a single one (including the island's highest, 104m) and then the focus is on the points of interest around the indomitable Franklin River. In Strahan, we witness a moving sunset over the "graves" of the 300 whales stranded here a few weeks ago (we were also hoping to find a devil looking for a whale steak gleaned on the beach, but nothing ...).
 
