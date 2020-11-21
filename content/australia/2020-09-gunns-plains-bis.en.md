@@ -3,7 +3,7 @@ title: Gunns Plains bis
 date: 2020-09-14
 image: https://lh3.googleusercontent.com/t94PwAzc8XGvglGqQpRLsfO_Z5FmPQ8t0q9vFFMT5sYJBjCFY3fe3jCYrZmoLEkbWugBuRDAsrdGZ0BiP0Udn3r7dWG7Ky5WGD0rANmAZCUZByW0MwbsNQ0nZFdhvxrH5Rs1XiLfZy0
 album: https://photos.app.goo.gl/fFoPr12FjdA6iYdE9
-draft: false
+draft: true
 ---
 
 "Hey guys, it's going to be sunny for a few days. It's time to take a break," Penny exclaims. Trees are budding, clouds are scarce, the sun is shining, it's mild, spring is clearly on its way in Tasmania. We take the pole that Penny holds out to us but, with such considerations, we risk never working again... Pampered almost to excess, not sure we'll leave so soon...
