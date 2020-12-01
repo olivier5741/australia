@@ -10,7 +10,7 @@ draft: false
 
 ![Dès le retour du printemps...](https://lh3.googleusercontent.com/mV95rYS-aP7eqVrDpSA4nemtSCu1kQa96VXUmNivFOzLEZyxldGHt8-uh-aqeh4EEkdd0otQDmzD4QHTie_PlVrfxbdZduZAnMFG1gucd16IzsHeIoQGzNfEW4mDKwJuRhhgSGMqEOU)
 
-On épingle notre destination sur la carte : le nord ouest de la Tasmanie, parfait pour fêter le cap des 60 ans de l'équipe. La région regorge de vestiges aborigènes : grottes, restes de festin de coquillages (20 000 générations dégustant des crustacés, ça fait un conséquent monticule de coquilles) et même de délicates gravures sur pierre. Ils avaient bien choisi leur coin : il paraît que, à l'heure actuelle, c'est encore ici qu'on respire l'air le plus pur du monde (elixir de jeunesse éternelle assuré).
+On épingle notre destination sur la carte : le nord ouest de la Tasmanie, parfait pour fêter le cap des 60 ans de l'équipe. La région regorge de vestiges aborigènes : grottes, restes de festin de coquillages (2000 générations dégustant des crustacés, ça fait un conséquent monticule de coquilles) et même de délicates gravures sur pierre. Ils avaient bien choisi leur coin : il paraît que, à l'heure actuelle, c'est encore ici qu'on respire l'air le plus pur du monde (elixir de jeunesse éternelle assuré).
 
 On quitte la côte pour s'enfoncer dans la forêt tempérée humide. La route est controversée. Pour la petite histoire, notre voisin, Helmut, sculpteur, s'était fait arrêté par la police lors d'une manifestation pour empêcher la construction de la route (et donc l'accès à la forêt par les exploitants forestiers) il y a une trentaine d'années. C'est d'ailleurs en Tasmanie que le premier parti écologiste au monde est né pour lutter contre l'exploitation forestière à outrance.
 
