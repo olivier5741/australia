@@ -3,7 +3,7 @@ title: Ciao Gunns Plains
 date: 2020-10-16
 image:  https://lh3.googleusercontent.com/7ft_Ic1R92s-alSc5bmx1SVjGGnqdIM4xUxjnfyEFpXAuqMV9g3KDSmllUZmNdBXI7mk4JKf_MPm5MjM6n7TS50U0ov9hErb21vJ8FrV9M_2Hevk8jS_kw6QdQyWpUK1qxHSZJ0I5IM
 album:  https://photos.app.goo.gl/mvi7yU46wmzB5Sv48
-draft: false
+draft: true
 ---
  
 Les deux mois initialement prévus pour visiter la Tasmanie s'étirent comme du chewing-gum (9 mois au dernier décompte), pour le plus grand plaisir de nos gambettes (et du cardio de Roro). C'est que ça grimpe dans la région. Mais, quand le temps est clair, la vue est grandiose!
