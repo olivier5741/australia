@@ -28,14 +28,13 @@ Another step up: Penny and Steve go on holiday for five days and we are promoted
 
 {{< video src="https://drive.google.com/uc?export=download&id=1VJ4KMm3Y1itGEdCBQy6rsQEowkYNJ-XU" caption="Fishing in the rock pools" >}}
 
-![The jewels of Tasmanian agriculture: onions, poppies (for opioids) and daisies (for insecticide)] (https://lh3.googleusercontent.com/JtIBc6kiuzeZKr9sTaaSeleSxtr6lucXVH9dYOVkxjwP9X5wOvB4x2ZF7ceU2v-39fxEO_pDMUcvViBbJvr2LB-BrnMYdlFhoJKl8hArVnhNDY8gym4n7cpK8HYgX6ZKwlTsK-BdmPs)
+![The jewels of Tasmanian agriculture: onions, poppies (for opioids) and daisies (for insecticide)](https://lh3.googleusercontent.com/JtIBc6kiuzeZKr9sTaaSeleSxtr6lucXVH9dYOVkxjwP9X5wOvB4x2ZF7ceU2v-39fxEO_pDMUcvViBbJvr2LB-BrnMYdlFhoJKl8hArVnhNDY8gym4n7cpK8HYgX6ZKwlTsK-BdmPs)
 
 The last puzzle pieces of our journey are falling into place... Melbourne (where the ferry arrives) is now Covid free, our visa ends in February and we book our plane tickets from Perth. We have now two months to cross Australia from East to West. We enjoy some of our time left in Lorinna where our tasmanian stay started.
 
 It's with great pleasure that we meet Marie, Scott, Zac and Rosie for some wild card games, warmth around the stove and lots of cute babies: chicks, ducklings, calf and little wallabi.
 
-![Roro and Rosie's baby wallabi, freshly hatched ducklings, the cows and the vegetable garden]
-(https://lh3.googleusercontent.com/KSh_GHDHLmE0S-wEbKvCMnSjW-u_E0Zg_59FssyygzCRQk99JdCBJ5XUdQWnHNaULI3BnPDXPIV0gCVrbsFyUFmyJaEvL4UNkfMJsz9ct1HNgA56O8QeRCySa72gw5S0kfKyUSe5-aE)
+![Roro and Rosie's baby wallabi, freshly hatched ducklings, the cows and the vegetable garden](https://lh3.googleusercontent.com/KSh_GHDHLmE0S-wEbKvCMnSjW-u_E0Zg_59FssyygzCRQk99JdCBJ5XUdQWnHNaULI3BnPDXPIV0gCVrbsFyUFmyJaEvL4UNkfMJsz9ct1HNgA56O8QeRCySa72gw5S0kfKyUSe5-aE)
 
 Baby calf means ... milk of course. Mary teaches us how to milk Lady Mow by hand. We are a little slow, so the cow gets a few more cups of oats to stay quiet. With a bucket of milk per day, there's no other choice than transforming it into some delicious cheeses.
 
@@ -43,7 +42,7 @@ Whether it is Gunns Plains or Lorinna, the community Christmas dinner is a tradi
 
 Our last challenge at the farm is to plant 150 native trees near the river. Under the watchful eye of the local platypus, the trees settle into their final residence. With a large hole, a tree guard and a pint of water, we wish them a pleasant future.
 
-![The house, the garden and its flowers] (https://lh3.googleusercontent.com/zM6q_gkQifOyr-m9I0Z6JnPdkByTYSKOy41iwNXzvkG2KprWCnkQdjdNagLjbQMBU6UVUrbwQUKxj9bebw3fLAwkjmulNaRQJg8Ytr8qCaYfiogS5GwQnw0PK_hK90LdARrvcj9U3AY )
+![The house, the garden and its flowers](https://lh3.googleusercontent.com/zM6q_gkQifOyr-m9I0Z6JnPdkByTYSKOy41iwNXzvkG2KprWCnkQdjdNagLjbQMBU6UVUrbwQUKxj9bebw3fLAwkjmulNaRQJg8Ytr8qCaYfiogS5GwQnw0PK_hK90LdARrvcj9U3AY )
 
 It's now our turn to change pot, we swap the luxurious Airbnb for our van. Ciao Penny, Steve, Percy and Lily. Ciao Tasmania. Arrivederci, ciao ! 
 
