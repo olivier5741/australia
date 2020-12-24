@@ -6,7 +6,7 @@ album:  https://photos.app.goo.gl/mvi7yU46wmzB5Sv48
 draft: false
 ---
   
-Les deux mois initialement prévus pour visiter la Tasmanie s'étirent comme du chewing-gum (9 mois au dernier décompte), pour le plus grand plaisirl de nos gambettes (et du cardio de Roro). C'est que ça grimpe dans la région. Mais, quand le temps est dégagé, la vue est grandiose!
+Les deux mois initialement prévus pour visiter la Tasmanie s'étirent comme du chewing-gum (9 mois au dernier décompte), pour le plus grand plaisir  de nos gambettes (et du cardio de Roro). C'est que ça grimpe dans la région. Mais, quand le temps est dégagé, la vue est grandiose!
 
 ![Quelques cascades des Western Tiers](https://lh3.googleusercontent.com/NERT7cbiYhLYgpCcdON61pzhCsMgm8RLgoF8G1F20bPyOgT86d4u62d1lfEqoyQx65egsRFi0cGy_548Ci4Sjht-UvueouITo8TsoHxJVLeOSPheZBtJamRE1IYh0-wjX9RXyH0_Jj0)
 
@@ -18,7 +18,11 @@ On profite du temps clément pour aller randonner plusieurs jours dans le parc n
 
 ![Walls of Jerusalem](https://lh3.googleusercontent.com/bdpZhjVYs4qzhQgDqVBoFmCBrUA7LaKb-8M77PCWdhkD2Z8I90dZNiGDgI-hOo_qjLoYsOfWKcCVyxJ1f12XohUDyeQ1xrcssVF4oZZNGXvmPyY-6xIm66o6tY8xWxssl_jcs_KT6W8)
 
+![Black Bluff](https://lh3.googleusercontent.com/AKucA1IcjkfWrv28cN7LsWUuTyM_uNbMjQhgIl-49t4YICQt-XwuvppTYbxwTrXBXvXZxW0cgYlk2JaF2fV7cN8p3IbdgZqNAOJyIiuISx-GFz87jV9r0em39WF_wuLu-_Q3MxWTr-k)
+
 À la ferme, on continue de monter en grade sur l'échelle du clôtureur parfait (après le creusage de tranchées et les connections électriques) : Jason nous forme à la pose de nouvelles clôtures. Et oui, on a probablement atteint le sommet de la clôture ! :)
+
+![Inspection minutieuse de la pose des clôtures](https://lh3.googleusercontent.com/Ml4Y1CNNCP1_h2rw_a49HzZZ6L1GwuX4-8hizY3Js2y2eNHz3eQtVV_j0L5_BhOdfdK6-dUL8iZc7_bvFeeUErL-_eIK8mY8r89rKoxoxcMNStob1GFyjUre9wb7nTVPKQPI-wP1A40)
 
 ![Les champs de pavots (pour la production d'opioïdes) et de marguerites (pour la production d'insecticide)](https://lh3.googleusercontent.com/JtIBc6kiuzeZKr9sTaaSeleSxtr6lucXVH9dYOVkxjwP9X5wOvB4x2ZF7ceU2v-39fxEO_pDMUcvViBbJvr2LB-BrnMYdlFhoJKl8hArVnhNDY8gym4n7cpK8HYgX6ZKwlTsK-BdmPs )
 
