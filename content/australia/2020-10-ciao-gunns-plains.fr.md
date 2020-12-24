@@ -3,7 +3,7 @@ title: Ciao Gunns Plains
 date: 2020-10-16
 image:  https://lh3.googleusercontent.com/7ft_Ic1R92s-alSc5bmx1SVjGGnqdIM4xUxjnfyEFpXAuqMV9g3KDSmllUZmNdBXI7mk4JKf_MPm5MjM6n7TS50U0ov9hErb21vJ8FrV9M_2Hevk8jS_kw6QdQyWpUK1qxHSZJ0I5IM
 album:  https://photos.app.goo.gl/mvi7yU46wmzB5Sv48
-draft: true
+draft: false
 ---
   
 Les deux mois initialement prévus pour visiter la Tasmanie s'étirent comme du chewing-gum (9 mois au dernier décompte), pour le plus grand plaisir  de nos gambettes (et du cardio de Roro). C'est que ça grimpe dans la région. Mais, quand le temps est dégagé, la vue est grandiose! Autrement, on se rabat sur les cascades ...
@@ -24,7 +24,11 @@ On profite du temps clément pour aller randonner plusieurs jours dans le parc n
 
 ![Inspection minutieuse de la pose des clôtures](https://lh3.googleusercontent.com/Ml4Y1CNNCP1_h2rw_a49HzZZ6L1GwuX4-8hizY3Js2y2eNHz3eQtVV_j0L5_BhOdfdK6-dUL8iZc7_bvFeeUErL-_eIK8mY8r89rKoxoxcMNStob1GFyjUre9wb7nTVPKQPI-wP1A40)
 
-![Les champs de pavots (pour la production d'opioïdes) et de marguerites (pour la production d'insecticide)](https://lh3.googleusercontent.com/JtIBc6kiuzeZKr9sTaaSeleSxtr6lucXVH9dYOVkxjwP9X5wOvB4x2ZF7ceU2v-39fxEO_pDMUcvViBbJvr2LB-BrnMYdlFhoJKl8hArVnhNDY8gym4n7cpK8HYgX6ZKwlTsK-BdmPs )
+Autre montée en grade: Penny et Steve partent cinq jours en vacances, on est donc promu au rang de dog-sitters. Autrement dit, servir les repas à heures fixes, aller se promener à la plage et à la rivière mais éviter que Percy n'aille manger les chameaux du zoo voisin...
+
+{{< video src="https://drive.google.com/uc?export=download&id=1VJ4KMm3Y1itGEdCBQy6rsQEowkYNJ-XU" caption="Partie de pêche">}}
+
+![Fleurons de l'agriculture tasmanienne: les oignons, les pavots (pour la production d'opioïdes) et les marguerites (pour la production d'insecticide)](https://lh3.googleusercontent.com/JtIBc6kiuzeZKr9sTaaSeleSxtr6lucXVH9dYOVkxjwP9X5wOvB4x2ZF7ceU2v-39fxEO_pDMUcvViBbJvr2LB-BrnMYdlFhoJKl8hArVnhNDY8gym4n7cpK8HYgX6ZKwlTsK-BdmPs )
 
 Les dernières pièces du puzzle de notre voyage se mettent en place... Il n'y a plus de cas de Covid dans l'État de Victoria (où arrive le ferry), notre visa de termine fin février, on achète des billets d'avion depuis Perth. On a donc deux mois pour re-traverser l'Australie d'Est en Ouest. On met à profit les dernières semaines qu'il nous reste pour passer quelques jours à Lorinna où notre séjour tasmanien a commencé.
 
@@ -44,4 +48,4 @@ Dernier challenge à la ferme, planter 150 arbres natifs près de la rivière. S
 
 Et surtout Joyeux Noël !!! 😉
 
-![](https://lh3.googleusercontent.com/Ksbxf4i6BLPKxHT5WJsU9E6GMQFo2i9xu4oVA2iLB3kVKUmF-C_I5Hqfx2KzwdLhgjkqDJRH0tZNJ2Kp_MBIYwSoPva7PtJd5aDxItMH3Fh4YImU30AoiutNkY26WbhU2-fyo7BamOw)
+![](https://lh3.googleusercontent.com/iRR4s4E0ghMKzRQAtzaluWwrBF0gStG_rXSUGuPzHDHrNZlZFteqbwH6LGfZQgFzMOWxO_J0dIB-VeY-jEkQl7R5ZTUjVhubdbiteFP3CDL6iRrdmK-35YXZOyx7n1rWLLfWd5pK3t0)
