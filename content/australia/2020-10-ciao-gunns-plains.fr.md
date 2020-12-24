@@ -26,7 +26,7 @@ On profite du temps clément pour aller randonner plusieurs jours dans le parc n
 
 Autre montée en grade: Penny et Steve partent cinq jours en vacances, on est donc promu au rang de dog-sitters. Autrement dit, servir les repas à heures fixes, aller se promener à la plage et à la rivière mais éviter que Percy n'aille manger les chameaux du zoo voisin...
 
-{{< video src="https://drive.google.com/uc?export=download&id=1VJ4KMm3Y1itGEdCBQy6rsQEowkYNJ-XU" caption="Partie de pêche">}}
+{{< video src="https://drive.google.com/uc?export=download&id=1VJ4KMm3Y1itGEdCBQy6rsQEowkYNJ-XU" caption="Partie de pêche" >}}
 
 ![Fleurons de l'agriculture tasmanienne: les oignons, les pavots (pour la production d'opioïdes) et les marguerites (pour la production d'insecticide)](https://lh3.googleusercontent.com/JtIBc6kiuzeZKr9sTaaSeleSxtr6lucXVH9dYOVkxjwP9X5wOvB4x2ZF7ceU2v-39fxEO_pDMUcvViBbJvr2LB-BrnMYdlFhoJKl8hArVnhNDY8gym4n7cpK8HYgX6ZKwlTsK-BdmPs )
 
