@@ -24,7 +24,7 @@ On profite du temps clément pour aller randonner plusieurs jours dans le parc n
 
 ![Inspection minutieuse de la pose des clôtures](https://lh3.googleusercontent.com/Ml4Y1CNNCP1_h2rw_a49HzZZ6L1GwuX4-8hizY3Js2y2eNHz3eQtVV_j0L5_BhOdfdK6-dUL8iZc7_bvFeeUErL-_eIK8mY8r89rKoxoxcMNStob1GFyjUre9wb7nTVPKQPI-wP1A40)
 
-Autre montée en grade: Penny et Steve partent cinq jours en vacances, on est donc promu au rang de dog-sitters. Autrement dit, servir les repas à heures fixes, aller se promener à la plage et à la rivière mais éviter que Percy n'aille manger les chameaux du zoo voisin...
+Autre montée en grade: Penny et Steve partent cinq jours en vacances, on est promu au rang de dog-sitters. Autrement dit, servir les repas à heures fixes, aller se promener à la plage et à la rivière mais éviter que Percy n'aille manger les chameaux du zoo voisin...
 
 {{< video src="https://drive.google.com/uc?export=download&id=1VJ4KMm3Y1itGEdCBQy6rsQEowkYNJ-XU" caption="Partie de pêche" >}}
 
