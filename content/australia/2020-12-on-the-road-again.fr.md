@@ -3,7 +3,7 @@ title: Complètement à l'ouest
 date: 2020-12-16
 image: https://lh3.googleusercontent.com/A0uBfIXkDS8jqWQv_yLMnFW_5qmeaN_G7pNozno2FWSLQ5u6DvV-vP-_qxCEkxgg4xu6Jb6vxjyjjOh9u7EBUpmgm7QOf_VfJ3Yr7FDS6p6it7HZ6neeJdZFQcdfchHVbNYFmq-KmU8
 album: https://photos.app.goo.gl/xMX895nMzDN3UAVu9
-draft: false
+draft: true
 ---
 
 Revenons à nos moutons, plus particulièrement à ceux de ... Nic, Scottie et Emerson dans les Porongurup. 3500kms nous séparent encore de la ferme, notre destination. Vu la distance, mieux vaut considérer le trajet comme un voyage en soi (on agit rarement autrement...).
