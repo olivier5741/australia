@@ -32,7 +32,7 @@ We won't know if someone mistook the camera for a toast but it's completely jamm
 
 ![Between Mount Gambier and Adelaide: the pelicans of Coorong National Park, an echidna met at the seaside, a mound of shells, remains of generations of aboriginal feasts](https://lh3.googleusercontent.com/9bGmXxgp0CkncJx09KFkrJp8UBDC8Cpd6HYlf4xnvl0JT-9pVj33-10eJxNkQxaqWMLKStSVUTIJWnMvEzHFcHGWpvPUfgiyUzA2XqloKW_gyhe1G-9t1eed2GSsW9s5uzqbrDdrqQI)
 
-On Christmas Eve, we spend a frantic hour in the shops to get good ingredients to cook at the campground tonight. We enjoy the rest of the day at the beach, there is a small plane flying over the water at low altitude. Just as we decide to jump in the water, an alarm comes out of the plane: it's probably a shark that is also looking for a good Christmas meal! Our urge to swim turns into a knee-high splash for safety reasons.
+On Christmas Eve, we spend a frantic hour in the shops to get good ingredients to cook at the campground tonight. We enjoy the rest of the day at the beach, there is a small plane flying over the water at low altitude. Just as we decide to jump in the water, an alarm comes out of the plane: it's probably a shark that is also looking for a good Christmas meal! Our urge to swim turns into a knee-high splash for safety reasons. 
 
 ![Happy Holidays](https://lh3.googleusercontent.com/pcMzpDDEX9o0z4tjcFKVifpSGhp1me1wI6yvlk184-Uj5IgOiYt_Nw7V0_y603FL_i-1l90YEru3BRNQawYHfDPpfkkOM6arHbrPzH0U9Qczg9bbXgum4C0Kbv_tmIV4lfIy2ZkozyQ).
 
