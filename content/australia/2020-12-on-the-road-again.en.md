@@ -3,7 +3,7 @@ title: On the road again
 date: 2020-12-16
 image: https://lh3.googleusercontent.com/A0uBfIXkDS8jqWQv_yLMnFW_5qmeaN_G7pNozno2FWSLQ5u6DvV-vP-_qxCEkxgg4xu6Jb6vxjyjjOh9u7EBUpmgm7QOf_VfJ3Yr7FDS6p6it7HZ6neeJdZFQcdfchHVbNYFmq-KmU8
 album: https://photos.app.goo.gl/xMX895nMzDN3UAVu9
-draft: false
+draft: draft
 ---
 
 Let's go back on track, and specifically the one leading to ... Nic, Scottie and Emerson in the Porongurup. 3500kms still separate us from our destination and, given the distance, it is better to consider the trip as a journey in itself (we rarely act otherwise...).
