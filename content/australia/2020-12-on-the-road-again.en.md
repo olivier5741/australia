@@ -36,7 +36,7 @@ On Christmas Eve, we spend a frantic hour in the shops to get good ingredients t
 
 ![Happy Holidays](https://lh3.googleusercontent.com/pcMzpDDEX9o0z4tjcFKVifpSGhp1me1wI6yvlk184-Uj5IgOiYt_Nw7V0_y603FL_i-1l90YEru3BRNQawYHfDPpfkkOM6arHbrPzH0U9Qczg9bbXgum4C0Kbv_tmIV4lfIy2ZkozyQ)
 
-At this koala pace, we are not close to reaching the west coast (for the record, the koala has never reached it). We switch on the cruise mode of the Mentos... The turns get rare, the fields are larger and larger, flat and yellow. We're coming closer to the desert of Nullarbor.
+At this koala pace, we are not about to reach the west coast (for the record, the koala has never reached it). We switch on the cruise mode of the Mentos... The turns get rare, the fields are larger and larger, flat and yellow. We're coming closer to the Nullarbor plain.
 
 ![The rural areas of South Australia](https://lh3.googleusercontent.com/KeL9tv7UVE4yG6eI8glZA9H0GwSMuZug5rwdVOIxDUp6Bz78P4vMGMPuSG72WqAH4jPOQqwcDf9VnPSPaTOXXmupdFxhGO03NzG0kcd0LIq54P9V5izZq6TpGRTa2soW6KEgAMqVSUs)
 
