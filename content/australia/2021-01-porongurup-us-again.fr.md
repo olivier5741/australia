@@ -3,7 +3,7 @@ title: Porongurup, c'est encore nous
 date: 2021-01-01
 image: https://lh3.googleusercontent.com/6kUG2c2GbtZl0wHS0lMpcsaYRFRDTpSAp2yUp3daHPceZOzK1PJFDuMML00dTC1P2u-QZ1Byt3B4zlkN53sLuGzpaWgBYJAMagwkrzygH_yuwaBMUNUeJiJovkICZ5gz_I1mVXMtiIY
 album: https://photos.app.goo.gl/dJ1BKoX3kwHgNXGZA
-draft: false
+draft: true
 ---
 
 Retourner chez Nic, Scottie et Emerson, c'est un peu comme retourner à la maison après une longue absence. Tu es super content de rentrer, tu fais comme chez toi car tu te souviens où tout est rangé mais il y a toujours des petits détails qui ont changé. Il ne faut que quelques heures à Em pour être complètement à l'aise avec nous. Le bonhomme discute allègrement par rapport à l'année passée et il aime toujours autant son trampoline.
