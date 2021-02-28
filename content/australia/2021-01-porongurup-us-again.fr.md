@@ -24,7 +24,7 @@ Le Mentos, notre carrosse, est trop gros pour rentrer en Belgique avec nous. Il 
 
 Toujours dans la rubrique "je gère ma vie future", Roro décroche un boulot au GAL de Libramont deux semaines avant le retour pendant que Bibi (dans la catégorie "un peu moins") élargit son réseau en participant à un hackathon de 48h dans le cadre de l'open data. 
 
-Après cette intense semaine professionnelle, les jours sont comptés. Hum, que peut-on acheter avec l'argent du Mentos? On écume les différentes échoppes, stand de marché pour un max de souvenirs. On ne manque pas de dormir à la belle étoile pour notre dernière nuit. Fait à confirmer, la voie lactée est-elle plus blanche depuis une ferme laitière?
+Après cette intense semaine professionnelle, les jours sont comptés. Hum, que peut-on acheter avec l'argent du Mentos? On écume les différentes échoppes et stands de marché pour un max de souvenirs. On ne manque pas de dormir à la belle étoile pour notre dernière nuit. Fait à confirmer, la voie lactée est-elle plus blanche depuis une ferme laitière?
 
 ![Escapades](https://lh3.googleusercontent.com/VqSCe4JObt7hZ7iX5Ped5U13gTl80h-2FDmM6aRHj7u8Y32CMoKcr1AVK9HmMpMJqgGZ6-q_DnxeD4ymIfDIhSi_8V5mCL8sU15h2ARO5onOSmgrb7evSyAJHJ8flS4c_mgphEEaM5w)
 
