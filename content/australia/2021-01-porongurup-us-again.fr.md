@@ -14,7 +14,7 @@ Sans surprise, des kilomètres de clôtures demandent réparations et fignolage.
 
 ![Andrew et ses amis](https://lh3.googleusercontent.com/JgHtO-rgXdDpUIyJji8--YEjKthqNPGmtPnlBsiSgEFvFvv79w2Ze-8oSr3v2Tcg3pcieBDvTH7-8wq15zVh1bRcepchFqNufJugpaemQEmyCD01WpTVGZtOxIp5nOT7JrKtWTNZc-4)
 
-Deux bouches en plus à nourrir (nous...), pas question de laisser les corbeaux piller le kot des poules. On barricade l'enclos avec du filet pour prévenir tout détournement d'œufs. Les tomates, il en pleut à n'en plus finir : Roro est au fourneau pour les transformer en délicieuse sauce tomate pendant que Bibi assemble un mouton taille réelle (une pièce d'art peut-être) pour l'anniversaire de Nic. S'ensuit le projet construction d'une allée ombragée végétalisée et réarrangement du shed à outils (un tétris réel en version expert).
+Deux bouches en plus à nourrir (nous...), pas question de laisser les corbeaux piller le kot des poules. On barricade l'enclos avec du filet pour prévenir tout détournement d'œufs. Les tomates, il en pleut à n'en plus finir : Roro est au fourneau pour les transformer en délicieuse sauce tomate pendant que Bibi assemble un mouton taille réelle (une pièce d'art peut-être) pour l'anniversaire de Nic. S'ensuit le projet construction d'une allée ombragée végétalisée et réarrangement de l'atelier (un tétris réel en version expert).
 
 ![Vie quotidienne](https://lh3.googleusercontent.com/kiXEb35EfGqkvg765U7jQjqE9qRE25gRW9OlIxZNdPJi9Bf-NfJdWz1TGYLxmXHXrf02LoPf-emOK_PL0LK9_ghYntn4PywHACmXn8n8AbrTaFq6DNCZhWkq5dD65fN-PPZY2upsY8M)
 
