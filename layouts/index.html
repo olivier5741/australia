@@ -14,14 +14,15 @@
           {{ range .Site.RegularPages.GroupBy "Section" }}
           <h1 id="{{ .Key }}">{{ T .Key }}</h1>
               {{ range .Pages.GroupByPublishDate "Jan 2006" }}
-              <div>
-                <h2>{{ .Key }}</h2>
+              
+                
                 <div class="pure-g">
+                    <h2>{{ .Key }}</h2>
                     {{ range .Pages }}
                       {{ .Render "li" }}
                     {{ end }}
                 </div>
-              </div>
+              
               {{ end }}          
           {{ end }}        
       </section>
