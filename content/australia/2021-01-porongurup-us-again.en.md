@@ -18,11 +18,11 @@ Two extra mouths to feed (us...), no question of letting the crows raid the chic
 
 ![Daily life](https://lh3.googleusercontent.com/kiXEb35EfGqkvg765U7jQjqE9qRE25gRW9OlIxZNdPJi9Bf-NfJdWz1TGYLxmXHXrf02LoPf-emOK_PL0LK9_ghYntn4PywHACmXn8n8AbrTaFq6DNCZhWkq5dD65fN-PPZY2upsY8M)
 
-The Mentos, our coach, is too big to go back to Belgium with us. It's so beautiful and well equipped that there is quite a competition to be the first buyer. In no time at all, we were pedestrians! But it will continue to have great adventures with an Australian woman who leaves to pick mangoes. A tent and Nic and Scottie's ute support us for a last trip to Two People's Bay and Denmark.
+The Mentos, our coach, is too big to go back to Belgium with us. It's so beautiful and well equipped that there is quite a competition to be the first buyer. In no time at all, we are pedestrians! But it will continue to have great adventures with an Australian woman who leaves to pick mangoes. A tent and Nic and Scottie's ute support us for a last trip to Two People's Bay and Denmark.
 
-![Our beautiful mentos](https://lh3.googleusercontent.com/zOmNpSpThLIrXGl5D1WOmrL-R3k-zdMPgh4pFI4_aS5Tq3s2OO9BFYnPwlMpCYFR9jvymoHkwQ8Sp6mvn771hXp7BE2p9r2i2Ap5PkQU4RW0iJby1seXdjf-BqvFGHtPUp_k5kvTXFQ)
+![Our beautiful mentos and the "piece of art"](https://lh3.googleusercontent.com/zOmNpSpThLIrXGl5D1WOmrL-R3k-zdMPgh4pFI4_aS5Tq3s2OO9BFYnPwlMpCYFR9jvymoHkwQ8Sp6mvn771hXp7BE2p9r2i2Ap5PkQU4RW0iJby1seXdjf-BqvFGHtPUp_k5kvTXFQ)
 
-On the "establish my future life" wave, Roro gets a job at the GAL of Libramont to boost local agriculture two weeks before the return while Bibi (on the "a bit less" wave) expands his network by participating to a 48h open data hackathon.
+On the "establish my future life" wave, Roro gets a job at the GAL of Libramont to boost local agriculture two weeks before our return while Bibi (on the "a bit less" wave) expands his network by participating to a 48h open data hackathon.
 
 After this intense professional week, the days are numbered. Um, what can you buy with money from the mentos? We run through the various shops and market stalls to get as many souvenirs as possible. We spend our last night under the stars. Fact to be confirmed, is the milky way whiter on a dairy farm?
 
