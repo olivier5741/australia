@@ -15,7 +15,6 @@
           <h1 id="{{ .Key }}">{{ T .Key }}</h1>  
                 
                 <div class="pure-g">
-                    <h2>{{ .Key }}</h2>
                     {{ range .Pages }}
                       {{ .Render "li" }}
                     {{ end }}
