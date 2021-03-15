@@ -14,7 +14,7 @@ Unsurprisingly miles of fences need repair and improvement. Seven cows queue to 
 
 ![Andrew and his friends](https://lh3.googleusercontent.com/JgHtO-rgXdDpUIyJji8--YEjKthqNPGmtPnlBsiSgEFvFvv79w2Ze-8oSr3v2Tcg3pcieBDvTH7-8wq15zVh1bRcepchFqNufJugpaemQEmyCD01WpTVGZtOxIp5nOT7JrKtWTNZc-4)
 
-Two extra mouths to feed (us...), no way of letting the crows raid the chicken coop. We barricade the pen with netting to prevent any egg theft. Tomatoes endlessly fall from the sky: Roro is in the kitchen to transform them into delicious tomato sauce while Bibi assembles a life-size sheep (a piece of art perhaps) for Nic's birthday. Then comes the project of building a shady green walkway and rearranging the workshop (an expert version of a real tetris).
+Two extra mouths to feed (us...), there is no way that we let the crows raid the chicken coop. We barricade the pen with netting to prevent any egg theft. Tomatoes endlessly fall from the sky: Roro is in the kitchen to transform them into delicious tomato sauce while Bibi assembles a life-size sheep (a piece of art perhaps) for Nic's birthday. Then comes the project of building a shady green walkway and rearranging the workshop (an expert version of a real tetris).
 
 ![Daily life](https://lh3.googleusercontent.com/kiXEb35EfGqkvg765U7jQjqE9qRE25gRW9OlIxZNdPJi9Bf-NfJdWz1TGYLxmXHXrf02LoPf-emOK_PL0LK9_ghYntn4PywHACmXn8n8AbrTaFq6DNCZhWkq5dD65fN-PPZY2upsY8M)
 
